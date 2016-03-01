@@ -1,4 +1,4 @@
-setwd('E:/Projects/BrightSource_Ivanpah/data/Databases/')
+
 library(ggplot2)
 library(plyr)
 library(dplyr)
