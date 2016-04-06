@@ -9,10 +9,10 @@ library(tidyr)
 #===========================
 #Read in and rename headers
 #============================
-setwd('E:/Projects/BrightSource_Ivanpah/data/working/Weather/For2015Report')
+
 #all excel files saved as csv and then deleted
 
-baseDir = "E:/Projects/BrightSource_Ivanpah/data/Databases/Weather"
+baseDir = "./Weather Datasets"  ## Specify the path
 mynames=c("File","Date","Time","TempOut","HiTemp","LowTemp","OutHum","DewPt","WindSpeed","WindDir","WindRun","HiSpeed",
           "HiDir","WindChill","HeatIndx", "THWIndx","THSWIndx","Bar","Rain","RainRate","SolarRad","SolarEngy","HiSolarRad",
           "UVIndex","UVDose","HiUV","HeatDD","CoolDD","InTemp","InHum","InDew","InHeat","InEMC","InAirDensity","ET",
