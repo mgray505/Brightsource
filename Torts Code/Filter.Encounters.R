@@ -1,4 +1,4 @@
-setwd('E:/Projects/BrightSource_Ivanpah/data/Databases/')
+setwd('./Torts Datasets') # Specify file path
 
 library(plyr)
 library(dplyr)
