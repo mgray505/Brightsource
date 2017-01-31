@@ -1,0 +1,1809 @@
+"Rain Gauge
+ID","Gauge
+Check Date",Fieldworker,"Rain
+Checked","Rain
+Level","Gauge
+Emptied","Oil
+Added",Comments,"Data
+Proofed"
+102,2-Aug-2012,Craig Himmelwright,N,,N,Y,"Rain level not checked: initial placement",1
+104,2-Aug-2012,Craig Himmelwright,N,,N,Y,"Rain level not checked: initial placement",1
+105,2-Aug-2012,Craig Himmelwright,N,,N,Y,"Rain level not checked: initial placement",1
+107,2-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+112,2-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+115,2-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+103,3-Aug-2012,Craig Himmelwright,N,,N,Y,Rain level not checked: initial placement,1
+118,3-Aug-2012,Craig Himmelwright,N,,N,Y,"Rain level not checked: initial placement",1
+001,12-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+003,12-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+004,12-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+006,12-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+008,12-Aug-2012,Wayne Ball,N,,N,Y,"Rain level not checked: initial placement",1
+101,12-Aug-2012,Amanda Scheib,N,,N,Y,"Rain level not checked: initial setup",1
+117,12-Aug-2012,Amanda Scheib,N,,N,Y,"Rain level not checked: initial setup",1
+107,14-Aug-2012,Geo Keyes,Y,0.00,N,Y,,1
+103,15-Aug-2012,Geo Keyes,Y,0.22,Y,Y,,1
+101,16-Aug-2012,Geo Keyes,Y,0.48,Y,Y,,1
+102,16-Aug-2012,Geo Keyes,Y,0.32,Y,Y,,1
+104,16-Aug-2012,Geo Keyes,Y,0.45,Y,Y,,1
+Pen,17-Aug-2012,Amanda Scheib,N,,N,Y,"Rain level not checked: initial setup",1
+001,20-Aug-2012,Jeff Valentine,Y,0.08,Y,Y,,1
+003,20-Aug-2012,Jeff Valentine,Y,0.00,N,Y,,1
+103,20-Aug-2012,Jeff Valentine,Y,0.37,Y,Y,,1
+107,20-Aug-2012,Geo Keyes,Y,0.09,Y,Y,,1
+115,20-Aug-2012,Jeff Valentine,Y,0.08,Y,Y,,1
+Pen,20-Aug-2012,John Hillman,Y,0.03,Y,Y,,1
+008,21-Aug-2012,Joey Verge,Y,1.08,Y,Y,3 DEAD BUGS,1
+102,21-Aug-2012,Geo Keyes,Y,0.45,Y,Y,,1
+Pen,21-Aug-2012,John Hillman,Y,0.02,Y,Y,,1
+010,22-Aug-2012,Joey Verge,N,,N,Y,"Rain level not checked: Initial set up",1
+012,22-Aug-2012,Joey Verge,N,,N,Y,"Rain level not checked: initial setup",1
+101,22-Aug-2012,Geo Keyes,Y,1.31,Y,Y,,1
+104,22-Aug-2012,Geo Keyes,Y,0.73,Y,Y,,1
+105,22-Aug-2012,Geo Keyes,Y,1.54,Y,Y,,1
+Pen,22-Aug-2012,John Hillman,Y,0.10,Y,Y,,1
+Pen,22-Aug-2012,Geo Keyes,Y,0.93,Y,Y,,1
+004,23-Aug-2012,Joey Verge,Y,1.82,Y,Y,35 DEAD BUGS,1
+006,23-Aug-2012,Joey Verge,Y,2.53,Y,Y,33 DEAD BUGS,1
+112,23-Aug-2012,Jeff Valentine,Y,1.01,Y,Y,,1
+117,23-Aug-2012,Jeff Valentine,Y,1.28,Y,Y,,1
+118,23-Aug-2012,Jeff Valentine,Y,1.37,Y,Y,,1
+001,26-Aug-2012,Joey Verge,Y,1.28,Y,Y,2 DEAD BUGS,1
+115,26-Aug-2012,Anthony Dee,Y,1.43,Y,Y,,1
+003,27-Aug-2012,Joey Verge,Y,1.64,Y,Y,4 DEAD BUGS,1
+010,28-Aug-2012,Joey Verge,Y,0.94,Y,Y,,1
+012,28-Aug-2012,Joey Verge,Y,0.26,Y,Y,,1
+101,28-Aug-2012,Anthony Dee,Y,0.34,Y,Y,,1
+104,28-Aug-2012,Anthony Dee,Y,1.00,Y,Y,,1
+105,28-Aug-2012,Anthony Dee,Y,1.21,Y,Y,,1
+107,28-Aug-2012,Anthony Dee,Y,1.10,Y,Y,,1
+118,28-Aug-2012,Elijah Davidson,Y,0.04,Y,Y,Insects present,1
+008,29-Aug-2012,Joey Verge,Y,1.08,Y,Y,10 DEAD BUGS,1
+103,29-Aug-2012,Anthony Dee,Y,0.80,Y,Y,,1
+112,29-Aug-2012,Elijah Davidson,Y,0.03,Y,Y,Insects present,1
+004,30-Aug-2012,Joey Verge,Y,0.03,Y,Y,1 DEAD BUG,1
+006,30-Aug-2012,Joey Verge,Y,0.00,N,N,,1
+102,30-Aug-2012,Anthony Dee,Y,0.80,Y,Y,,1
+117,30-Aug-2012,Anthony Dee,Y,0.00,N,N,,1
+Pen,30-Aug-2012,Geo Keyes,Y,0.25,Y,Y,,1
+010,2-Sep-2012,James Borgmeyer,Y,0.15,Y,Y,,1
+012,2-Sep-2012,James Borgmeyer,Y,0.05,Y,Y,,1
+115,2-Sep-2012,Anthony Dee,Y,0.00,Y,Y,,1
+008,3-Sep-2012,James Borgmeyer,Y,0.04,Y,Y,,1
+001,4-Sep-2012,James Borgmeyer,Y,0.04,Y,Y,,1
+003,4-Sep-2012,James Borgmeyer,Y,0.08,Y,Y,,1
+104,4-Sep-2012,Anthony Dee,Y,0.82,Y,Y,,1
+105,4-Sep-2012,Anthony Dee,Y,1.14,Y,Y,,1
+107,4-Sep-2012,Anthony Dee,Y,1.10,Y,Y,,1
+112,4-Sep-2012,Eric Somers,Y,0.06,Y,Y,Not sure if oil was added previously.  Didnt observe separation of liquids.  Measurement is for the entire contents of the graduated cylinder.,1
+004,5-Sep-2012,James Borgmeyer,Y,0.04,Y,Y,,1
+006,5-Sep-2012,James Borgmeyer,Y,0.05,Y,Y,,1
+101,5-Sep-2012,Anthony Dee,Y,0.63,Y,Y,,1
+102,5-Sep-2012,Anthony Dee,Y,0.45,Y,Y,,1
+103,5-Sep-2012,Anthony Dee,Y,0.16,Y,Y,,1
+117,5-Sep-2012,Eric Somers,Y,0.04,Y,Y,,1
+118,5-Sep-2012,Eric Somers,Y,0.07,Y,Y,,1
+Pen,5-Sep-2012,Geo Keyes,Y,0.02,Y,Y,1 Bug,1
+115,6-Sep-2012,Eric Somers,Y,0.03,Y,Y,,1
+001,9-Sep-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+003,9-Sep-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+112,9-Sep-2012,Eric Somers,Y,0.07,Y,Y,,1
+010,10-Sep-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+115,10-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+117,10-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+118,10-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+012,11-Sep-2012,Nicole Stephens,Y,0.00,Y,Y,3 insects & 4 drop of water,1
+103,11-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+004,12-Sep-2012,Nicole Stephens,Y,0.20,Y,Y,,1
+006,12-Sep-2012,Nicole Stephens,Y,0.26,Y,Y,,1
+008,12-Sep-2012,Nicole Stephens,Y,0.26,Y,Y,,1
+101,12-Sep-2012,Eric Somers,Y,0.12,Y,Y,,1
+102,12-Sep-2012,Eric Somers,Y,0.10,Y,Y,,1
+104,12-Sep-2012,Eric Somers,Y,0.03,Y,Y,,1
+105,12-Sep-2012,Eric Somers,Y,0.02,Y,Y,,1
+107,13-Sep-2012,Eric Somers,N,,N,Y,"Rain level not checked: rain gauge was lying on the ground near t-post.  Reinstalled and added oil.",1
+001,16-Sep-2012,Nicole Stephens,Y,0.15,Y,Y,SEVERAL ANTS,1
+003,16-Sep-2012,Nicole Stephens,Y,0.16,Y,Y,,1
+104,16-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+Pen,16-Sep-2012,Max Havelka,Y,0.10,Y,Y,,1
+101,17-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+102,17-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+105,17-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+004,18-Sep-2012,Geo Keyes,Y,0.00,N,N,,1
+006,18-Sep-2012,Geo Keyes,Y,0.00,N,N,,1
+103,18-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+118,18-Sep-2012,Joey Verge,Y,0.08,Y,Y,,1
+008,19-Sep-2012,Geo Keyes,Y,0.00,N,N,,1
+112,19-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+115,19-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+010,20-Sep-2012,Geo Keyes,Y,0.00,N,N,,1
+012,20-Sep-2012,Geo Keyes,Y,0.00,N,N,,1
+117,20-Sep-2012,Jeff Valentine,Y,0.03,Y,Y,,1
+107,22-Sep-2012,Jeff Valentine,Y,0.00,N,N,,1
+001,23-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+008,23-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+003,24-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+004,24-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+006,24-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+010,25-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+012,25-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+117,25-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+118,25-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+105,26-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+112,26-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+115,26-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+101,27-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+102,27-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+103,27-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+104,27-Sep-2012,Joey Verge,Y,0.00,N,N,,1
+107,27-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+104,30-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+105,30-Sep-2012,Anthony Dee,Y,0.00,N,N,,1
+117,30-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+118,30-Sep-2012,Eric Somers,Y,0.00,N,N,,1
+101,1-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+102,1-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+103,1-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+112,1-Oct-2012,Eric Somers,Y,0.20,Y,Y,,1
+115,1-Oct-2012,Eric Somers,Y,0.35,Y,Y,,1
+010,2-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+012,2-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+107,2-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+118,2-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+003,3-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+008,3-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+001,4-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+004,4-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+006,4-Oct-2012,Anthony Dee,Y,0.00,N,N,,1
+101,7-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+102,7-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+115,7-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+118,7-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+103,8-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+112,8-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+010,9-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+012,9-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+104,9-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+105,9-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+107,9-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+001,10-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+003,10-Oct-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+008,10-Oct-2012,Eric Somers,Y,0.00,N,N,,1
+004,11-Oct-2012,Eric Somers,Y,0.33,Y,Y,,1
+006,11-Oct-2012,Eric Somers,Y,0.43,Y,Y,,1
+115,11-Oct-2012,James Borgmeyer,Y,0.50,Y,Y,,1
+Pen,11-Oct-2012,John Hillman,Y,0.41,Y,Y,,1
+Pen,13-Oct-2012,John Hillman,Y,0.14,Y,Y,,1
+104,14-Oct-2012,Joey Verge,Y,0.47,Y,Y,,1
+001,15-Oct-2012,Brian Cohn,Y,0.59,Y,Y,,1
+003,15-Oct-2012,Brian Cohn,Y,0.49,Y,Y,,1
+101,15-Oct-2012,Joey Verge,Y,0.47,Y,Y,,1
+102,15-Oct-2012,Joey Verge,Y,0.59,Y,Y,,1
+105,15-Oct-2012,Joey Verge,Y,0.38,Y,Y,,1
+004,16-Oct-2012,Brian Cohn,Y,0.13,Y,Y,,1
+006,16-Oct-2012,Brian Cohn,Y,0.12,Y,Y,,1
+008,16-Oct-2012,Brian Cohn,Y,0.65,Y,Y,,1
+103,16-Oct-2012,Joey Verge,Y,0.58,Y,Y,,1
+112,17-Oct-2012,Joey Verge,Y,0.52,Y,Y,,1
+117,17-Oct-2012,Joey Verge,Y,0.68,Y,Y,,1
+118,17-Oct-2012,Joey Verge,Y,0.67,Y,Y,,1
+010,18-Oct-2012,Brian Cohn,Y,1.00,Y,Y,GAUGE OVERFLOWED APPROX 0.03IN,1
+012,18-Oct-2012,Brian Cohn,Y,0.79,Y,Y,,1
+107,18-Oct-2012,Joey Verge,Y,0.32,Y,Y,,1
+115,19-Oct-2012,Nicole Stephens,Y,0.80,Y,Y,,1
+010,21-Oct-2012,Nicole Stephens,Y,0.00,N,N,,1
+012,21-Oct-2012,Nicole Stephens,Y,0.00,Y,Y,"TOO MUCH OIL IN GAUGE @ 0.80""",1
+112,21-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+117,21-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+118,21-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+001,22-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+107,22-Oct-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+004,23-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+006,23-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+103,23-Oct-2012,Nicole Stephens,Y,0.00,N,N,,1
+003,24-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+008,24-Oct-2012,Joey Verge,Y,0.00,N,N,,1
+101,24-Oct-2012,Nicole Stephens,Y,0.01,Y,Y,,1
+102,24-Oct-2012,Nicole Stephens,Y,0.00,N,N,,1
+104,24-Oct-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+105,24-Oct-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+115,25-Oct-2012,Nicole Stephens,Y,0.00,N,N,,1
+118,28-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+115,29-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+117,29-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+112,30-Oct-2012,Geo Keyes,Y,0.00,N,Y,"No oil found in cylinder.",1
+101,31-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+102,31-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+103,31-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+104,31-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+105,31-Oct-2012,Geo Keyes,Y,0.00,N,N,,1
+107,1-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,LOTS OF ANTS,1
+001,4-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+003,4-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+004,5-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+006,5-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+008,5-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+010,7-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+012,8-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+010,11-Nov-2012,Nicole Stephens,Y,0.01,Y,Y,,1
+012,11-Nov-2012,Nicole Stephens,Y,0.01,Y,Y,Less than 0.01,1
+103,11-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+117,11-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+118,11-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+004,12-Nov-2012,Nicole Stephens,Y,0.01,Y,Y,Less than 0.01,1
+006,12-Nov-2012,Nicole Stephens,Y,0.01,Y,Y,Less than 0.01,1
+112,12-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+115,12-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+001,13-Nov-2012,Nicole Stephens,Y,0.00,N,Y,NO OIL PRESENT WHEN CHECKED.,1
+003,13-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+101,14-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+104,14-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+008,15-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+102,15-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+107,15-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+101,18-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+102,18-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+103,18-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+104,18-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+105,18-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+112,18-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+117,18-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,TRACE,1
+118,18-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,TRACE,1
+107,19-Nov-2012,Geo Keyes,Y,0.00,N,N,,1
+115,19-Nov-2012,Nicole Stephens,Y,0.00,Y,Y,,1
+003,26-Nov-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+004,26-Nov-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+006,27-Nov-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+008,27-Nov-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+010,27-Nov-2012,Craig Himmelwright,Y,0.00,N,N,"Oil only, at 0.03 inches",1
+012,27-Nov-2012,Craig Himmelwright,Y,0.00,N,N,"Oil only, at 0.03 inches.",1
+001,29-Nov-2012,James Borgmeyer,Y,0.00,N,N,Gauge not emptied. Oil not added.,1
+112,2-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+115,2-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+107,3-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+117,3-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+118,3-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+101,4-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+104,4-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+105,4-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+102,5-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+103,5-Dec-2012,James Borgmeyer,Y,0.00,N,N,,1
+001,9-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+003,9-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+010,10-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+004,11-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+006,11-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+008,11-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+012,11-Dec-2012,Jeff Valentine,Y,0.00,N,N,,1
+001,16-Dec-2012,Jeff Valentine,Y,0.60,Y,Y,,1
+003,16-Dec-2012,Jeff Valentine,Y,0.62,Y,Y,,1
+004,16-Dec-2012,Jeff Valentine,Y,0.65,Y,Y,,1
+006,16-Dec-2012,Jeff Valentine,Y,0.63,Y,Y,,1
+008,16-Dec-2012,Jeff Valentine,Y,0.65,Y,Y,,1
+010,16-Dec-2012,Jeff Valentine,Y,0.81,Y,Y,,1
+012,16-Dec-2012,Jeff Valentine,Y,0.80,Y,Y,,1
+107,17-Dec-2012,Jeff Valentine,Y,0.60,Y,Y,,1
+118,17-Dec-2012,Gerald Monks,Y,0.63,Y,Y,,1
+104,18-Dec-2012,Jeff Valentine,Y,0.56,Y,Y,,1
+105,18-Dec-2012,Jeff Valentine,Y,0.62,Y,Y,,1
+112,18-Dec-2012,Gerald Monks,Y,0.52,Y,Y,,1
+117,18-Dec-2012,Gerald Monks,Y,0.62,Y,Y,,1
+101,19-Dec-2012,Jeff Valentine,Y,0.61,Y,Y,,1
+102,19-Dec-2012,Jeff Valentine,Y,0.57,Y,Y,,1
+104,19-Dec-2012,Jeff Valentine,Y,0.11,Y,Y,,1
+105,19-Dec-2012,Jeff Valentine,Y,0.17,Y,Y,,1
+107,19-Dec-2012,Lori Rose,Y,0.23,Y,Y,,1
+112,19-Dec-2012,Lori Rose,Y,0.12,Y,Y,,1
+115,19-Dec-2012,Lori Rose,Y,0.64,Y,Y,Had not been emptied from previous storm,1
+117,19-Dec-2012,Lori Rose,Y,0.04,Y,Y,,1
+118,19-Dec-2012,Lori Rose,Y,0.03,Y,Y,,1
+Pen,19-Dec-2012,Lori Rose,Y,0.73,Y,Y,,1
+103,20-Dec-2012,Jeff Valentine,Y,0.60,Y,Y,,1
+001,23-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+003,24-Dec-2012,Geo Keyes,Y,0.02,Y,Y,0.015 inches,1
+008,26-Dec-2012,Geo Keyes,Y,0.02,Y,Y,,1
+004,27-Dec-2012,Geo Keyes,Y,0.03,Y,Y,,1
+006,27-Dec-2012,Geo Keyes,Y,0.06,Y,Y,,1
+010,27-Dec-2012,Geo Keyes,Y,0.01,Y,Y,,1
+012,28-Dec-2012,Geo Keyes,Y,0.01,Y,Y,,1
+101,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+102,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+103,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+104,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+105,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+107,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+112,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+115,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+117,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+118,29-Dec-2012,Geo Keyes,Y,0.00,N,N,,1
+Pen,29-Dec-2012,Geo Keyes,Y,0.00,Y,Y,Trace,1
+107,13-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+104,14-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+105,14-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+101,15-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+102,15-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+103,15-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+112,17-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+115,17-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+117,18-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+118,18-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+010,21-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+012,21-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+001,22-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+003,22-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+008,23-Jan-2013,Jeff Valentine,Y,0.00,N,N,,1
+004,24-Jan-2013,Jeff Valentine,Y,0.04,Y,Y,,1
+006,24-Jan-2013,Jeff Valentine,Y,0.06,Y,Y,,1
+Pen,25-Jan-2013,Wayne Ball,Y,0.09,Y,Y,,1
+Pen,26-Jan-2013,Wayne Ball,Y,0.42,Y,Y,,1
+001,27-Jan-2013,Craig Himmelwright,Y,0.51,Y,Y,,1
+003,27-Jan-2013,Craig Himmelwright,Y,0.49,Y,Y,,1
+004,27-Jan-2013,Craig Himmelwright,Y,0.46,Y,Y,,1
+006,27-Jan-2013,Craig Himmelwright,Y,0.46,Y,Y,,1
+008,27-Jan-2013,Craig Himmelwright,Y,0.44,Y,Y,,1
+010,27-Jan-2013,Craig Himmelwright,Y,0.45,Y,Y,,1
+012,27-Jan-2013,Craig Himmelwright,Y,0.42,Y,Y,,1
+112,27-Jan-2013,James Borgmeyer,Y,0.54,Y,Y,,1
+115,27-Jan-2013,James Borgmeyer,Y,0.54,Y,Y,,1
+Pen,27-Jan-2013,Wayne Ball,Y,0.42,Y,Y,,1
+107,28-Jan-2013,James Borgmeyer,Y,0.60,Y,Y,,1
+117,28-Jan-2013,James Borgmeyer,Y,0.51,Y,Y,,1
+118,28-Jan-2013,James Borgmeyer,Y,0.49,Y,Y,,1
+104,29-Jan-2013,James Borgmeyer,Y,0.49,Y,Y,,1
+105,29-Jan-2013,James Borgmeyer,Y,0.55,Y,Y,,1
+101,30-Jan-2013,James Borgmeyer,Y,0.50,Y,Y,,1
+102,30-Jan-2013,James Borgmeyer,Y,0.50,Y,Y,,1
+103,31-Jan-2013,James Borgmeyer,Y,0.49,Y,Y,,1
+010,3-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+012,3-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+008,4-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+004,5-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+006,5-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+001,6-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+003,6-Feb-2013,James Borgmeyer,Y,0.00,N,N,,1
+115,10-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+117,10-Feb-2013,Geo Keyes,Y,0.00,Y,Y,,1
+118,10-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+112,11-Feb-2013,Geo Keyes,Y,0.03,Y,Y,,1
+Pen,11-Feb-2013,Max Havelka,Y,0.01,Y,Y,,1
+103,12-Feb-2013,Geo Keyes,Y,0.07,Y,Y,,1
+107,12-Feb-2013,Geo Keyes,Y,0.06,Y,Y,,1
+101,13-Feb-2013,Geo Keyes,Y,0.09,Y,Y,,1
+102,13-Feb-2013,Geo Keyes,Y,0.10,Y,Y,,1
+104,13-Feb-2013,Geo Keyes,Y,0.08,Y,Y,,1
+105,13-Feb-2013,Geo Keyes,Y,0.07,Y,Y,,1
+001,15-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+003,15-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+004,15-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+006,15-Feb-2013,Geo Keyes,Y,0.03,Y,Y,,1
+008,15-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+010,15-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+012,15-Feb-2013,Geo Keyes,Y,0.03,Y,Y,,1
+Pen,15-Feb-2013,John Hillman,Y,0.00,N,N,,1
+008,21-Feb-2013,Geo Keyes,Y,0.07,Y,Y,,1
+001,22-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+003,22-Feb-2013,Geo Keyes,Y,0.03,Y,Y,,1
+004,22-Feb-2013,Geo Keyes,Y,0.04,Y,Y,,1
+006,22-Feb-2013,Geo Keyes,Y,0.04,Y,Y,,1
+010,22-Feb-2013,Geo Keyes,Y,0.10,Y,Y,,1
+012,22-Feb-2013,Geo Keyes,Y,0.11,Y,Y,,1
+101,22-Feb-2013,Geo Keyes,Y,0.00,N,N,,1
+102,22-Feb-2013,Geo Keyes,Y,0.00,N,N,,1
+103,22-Feb-2013,Geo Keyes,Y,0.00,N,N,,1
+104,22-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+105,22-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+107,22-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+112,22-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+115,22-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+117,22-Feb-2013,Geo Keyes,Y,0.02,Y,Y,,1
+118,22-Feb-2013,Geo Keyes,Y,0.01,Y,Y,,1
+Pen,22-Feb-2013,Geo Keyes,Y,0.06,Y,Y,,1
+Pen,8-Mar-2013,Wayne Ball,Y,0.15,Y,Y,,1
+001,10-Mar-2013,Jeff Valentine,Y,0.11,Y,Y,,1
+003,10-Mar-2013,Jeff Valentine,Y,0.12,Y,Y,,1
+008,10-Mar-2013,Jeff Valentine,Y,0.11,Y,Y,,1
+010,10-Mar-2013,Dave Prival,Y,0.07,Y,Y,,1
+012,10-Mar-2013,Dave Prival,Y,0.05,Y,Y,,1
+101,10-Mar-2013,Jacquelyn Smith,Y,0.16,Y,Y,,1
+102,10-Mar-2013,Jacquelyn Smith,Y,0.20,Y,Y,,1
+104,10-Mar-2013,Jacquelyn Smith,Y,0.20,Y,Y,,1
+105,10-Mar-2013,Jacquelyn Smith,Y,0.26,Y,Y,,1
+107,10-Mar-2013,Jacquelyn Smith,Y,0.21,Y,Y,,1
+118,10-Mar-2013,Jeff Valentine,Y,0.16,Y,Y,,1
+004,11-Mar-2013,Jeff Valentine,Y,0.13,Y,Y,,1
+006,11-Mar-2013,Jeff Valentine,Y,0.13,Y,Y,,1
+112,11-Mar-2013,Jeff Valentine,Y,0.17,Y,Y,,1
+115,11-Mar-2013,Jeff Valentine,Y,0.15,Y,Y,,1
+117,11-Mar-2013,Jeff Valentine,Y,0.21,Y,Y,,1
+103,13-Mar-2013,Jacquelyn Smith,Y,0.21,Y,Y,,1
+001,17-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+103,17-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+Pen,17-Mar-2013,Max Havelka,Y,0.00,N,N,,1
+104,18-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+107,19-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+010,20-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+012,20-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+101,20-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+105,20-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+112,20-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+115,20-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+117,20-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+118,20-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+003,21-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+004,21-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+006,21-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+008,21-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+102,21-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+004,24-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+006,24-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+010,24-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+012,24-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+107,24-Mar-2013,Jay Meyers,Y,0.00,N,N,,1
+001,25-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+003,25-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+112,25-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+118,25-Mar-2013,Jay Meyers,Y,0.00,N,N,,1
+104,26-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+105,26-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+117,26-Mar-2013,Jay Meyers,Y,0.00,N,N,,1
+008,27-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+115,27-Mar-2013,Jay Meyers,Y,0.00,N,N,,1
+101,28-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+102,28-Mar-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+103,28-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+010,31-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+012,31-Mar-2013,Geo Keyes,Y,0.00,N,N,,1
+107,31-Mar-2013,Jeff Valentine,Y,0.00,N,N,,1
+Pen,31-Mar-2013,John Hillman,Y,0.00,N,N,,1
+001,1-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+105,1-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+112,1-Apr-2013,Jeff Valentine,Y,0.00,N,N,,1
+003,2-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+104,2-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+115,2-Apr-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+004,3-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+006,3-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+102,3-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+103,3-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+117,3-Apr-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+008,4-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+101,4-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+118,4-Apr-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+010,7-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+012,7-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+112,7-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+115,7-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+Pen,7-Apr-2013,John Hillman,Y,0.00,N,N,,1
+117,8-Apr-2013,Jeff Valentine,Y,0.00,N,N,,1
+001,9-Apr-2013,Jay Meyers,Y,0.00,Y,Y,0.0025 in,1
+003,9-Apr-2013,Jay Meyers,Y,0.00,N,N,,1
+008,9-Apr-2013,Jay Meyers,Y,0.00,Y,Y,0.0025 in,1
+012,9-Apr-2013,Jeff Valentine,Y,0.02,Y,Y,,1
+102,9-Apr-2013,Amanda Scheib,Y,0.00,N,N,Top blown off but found on ground,1
+103,9-Apr-2013,Amanda Scheib,Y,0.06,Y,Y,,1
+107,9-Apr-2013,Geo Keyes,Y,0.04,Y,Y,,1
+112,9-Apr-2013,Jeff Valentine,Y,0.01,Y,Y,,1
+115,9-Apr-2013,Jeff Valentine,Y,0.00,Y,Y,Trace amount of rain. ~0.005 inch,1
+117,9-Apr-2013,Jeff Valentine,Y,0.01,Y,Y,,1
+118,9-Apr-2013,Jeff Valentine,Y,0.01,Y,Y,Collection funnel on ground nearby. ~0.01 in. rain in outer cylinder. 0 in. rain in inner cylinder.,1
+Pen,9-Apr-2013,John Hillman,Y,0.02,Y,Y,,1
+004,10-Apr-2013,Jay Meyers,Y,0.00,Y,Y,0.0025 in,1
+006,10-Apr-2013,Jeff Valentine,Y,0.00,Y,Y,Trace amount of rain,1
+101,10-Apr-2013,Geo Keyes,Y,0.04,Y,Y,,1
+104,10-Apr-2013,Geo Keyes,Y,0.03,Y,Y,,1
+105,10-Apr-2013,Geo Keyes,Y,0.04,Y,Y,,1
+001,14-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+107,14-Apr-2013,John Hillman,Y,0.00,N,N,,1
+003,15-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+104,15-Apr-2013,John Hillman,Y,0.00,N,N,,1
+105,15-Apr-2013,John Hillman,Y,0.00,N,N,,1
+004,16-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+006,16-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+008,16-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+101,16-Apr-2013,John Hillman,Y,0.00,N,N,,1
+102,16-Apr-2013,John Hillman,Y,0.00,N,N,,1
+010,17-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+012,17-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+103,17-Apr-2013,John Hillman,Y,0.00,N,N,,1
+112,17-Apr-2013,Jeff Valentine,Y,0.00,N,N,Funnel on ground nearby. Attached to outer cylinder with tape.,1
+115,17-Apr-2013,Jeff Valentine,Y,0.00,N,N,Funnel on ground nearby. Attached to outer cylinder with tape.,1
+118,17-Apr-2013,John Hillman,Y,0.00,N,N,,1
+117,18-Apr-2013,John Hillman,Y,0.00,N,N,,1
+004,21-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+006,21-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+107,21-Apr-2013,James Borgmeyer,Y,0.00,N,N,TAPED LID.,1
+Pen,21-Apr-2013,Wayne Ball,Y,0.00,N,N,,1
+001,22-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+003,22-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+101,22-Apr-2013,Jeff Valentine,Y,0.00,N,N,Funnel taped to outer cylinder.,1
+102,22-Apr-2013,Jeff Valentine,Y,0.00,N,N,Funnel taped to outer cylinder.,1
+104,22-Apr-2013,James Borgmeyer,Y,0.00,N,N,TAPED LID,1
+105,22-Apr-2013,James Borgmeyer,Y,0.00,N,N,TAPED LID,1
+008,23-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+012,23-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+112,23-Apr-2013,Jeff Valentine,Y,0.00,N,N,,1
+117,23-Apr-2013,James Borgmeyer,Y,0.00,N,N,TAPED LID,1
+118,23-Apr-2013,James Borgmeyer,Y,0.00,N,N,TAPED LID,1
+010,24-Apr-2013,Geo Keyes,Y,0.00,N,N,,1
+115,24-Apr-2013,James Borgmeyer,Y,0.00,N,N,,1
+107,28-Apr-2013,Nicole Stephens,Y,0.00,N,N,,1
+112,28-Apr-2013,Nicole Stephens,Y,0.00,N,N,,1
+Pen,28-Apr-2013,Max Havelka,Y,0.00,N,N,,1
+010,29-Apr-2013,Wayne Ball,Y,0.00,N,N,,1
+012,29-Apr-2013,Wayne Ball,Y,0.00,N,N,,1
+118,29-Apr-2013,Nicole Stephens,Y,0.00,N,N,,1
+004,30-Apr-2013,Wayne Ball,Y,0.00,N,N,,1
+006,30-Apr-2013,Wayne Ball,Y,0.00,N,N,,1
+101,30-Apr-2013,Nicole Stephens,Y,0.00,N,N,,1
+115,30-Apr-2013,Jeff Valentine,Y,0.00,N,N,,1
+001,1-May-2013,Jeff Valentine,Y,0.00,N,N,Funnel taped to outer cylinder,1
+008,1-May-2013,Wayne Ball,Y,0.00,N,N,,1
+102,1-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+104,1-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+105,1-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+117,1-May-2013,Jeff Valentine,Y,0.00,N,N,,1
+003,2-May-2013,Wayne Ball,Y,0.00,N,N,,1
+103,2-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+010,5-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+012,5-May-2013,Nicole Stephens,Y,0.00,N,Y,No oil present when checked. Added oil.,1
+Pen,5-May-2013,Max Havelka,Y,0.00,N,N,,1
+008,6-May-2013,Nicole Stephens,Y,0.00,N,N,Filled w/ bugs,1
+103,6-May-2013,Geo Keyes,Y,0.00,N,N,,1
+004,7-May-2013,Nicole Stephens,Y,0.00,N,N,Needs more oil,1
+006,7-May-2013,Nicole Stephens,Y,0.00,N,N,,1
+102,7-May-2013,Geo Keyes,Y,0.00,N,N,,1
+112,7-May-2013,Wayne Ball,Y,0.00,N,N,,1
+115,7-May-2013,Wayne Ball,Y,0.00,N,N,,1
+117,7-May-2013,Wayne Ball,Y,0.00,N,N,,1
+118,7-May-2013,Wayne Ball,Y,0.00,N,N,,1
+001,8-May-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+003,8-May-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+101,8-May-2013,Geo Keyes,Y,0.00,N,N,,1
+107,8-May-2013,Wayne Ball,Y,0.00,N,N,,1
+104,9-May-2013,Geo Keyes,Y,0.00,N,N,,1
+105,9-May-2013,Geo Keyes,Y,0.00,N,N,,1
+010,12-May-2013,Myles Traphagen,Y,0.06,Y,N,Oil not added,1
+001,13-May-2013,Gerald Monks,Y,0.00,N,N,,1
+003,13-May-2013,Gerald Monks,Y,0.00,N,N,,1
+004,13-May-2013,Gerald Monks,Y,0.00,N,N,,1
+012,13-May-2013,Myles Traphagen,Y,0.02,Y,N,Oil not added,1
+102,13-May-2013,Jeff Valentine,Y,0.00,Y,Y,,1
+103,13-May-2013,Jeff Valentine,Y,0.00,Y,Y,,1
+101,14-May-2013,Jeff Valentine,Y,0.00,Y,Y,,1
+104,14-May-2013,Jeff Valentine,Y,0.00,Y,Y,,1
+105,14-May-2013,Jeff Valentine,Y,0.00,Y,Y,,1
+006,15-May-2013,Gerald Monks,Y,0.00,N,N,,1
+006,15-May-2013,Myles Traphagen,Y,0.00,Y,N,,1
+008,15-May-2013,Myles Traphagen,Y,0.00,Y,N,,1
+118,16-May-2013,Jeff Valentine,Y,0.00,Y,N,Emptied and rinsed,1
+118,16-May-2013,Myles Traphagen,Y,0.00,Y,N,,1
+004,19-May-2013,Imogen Daly,Y,0.00,Y,N,,1
+006,19-May-2013,Imogen Daly,Y,0.00,Y,N,,1
+008,20-May-2013,Imogen Daly,Y,0.00,Y,N,Dust collector,1
+001,26-May-2013,Geo Keyes,Y,0.00,Y,N,,1
+004,26-May-2013,Jeff Valentine,Y,0.00,N,N,No oil. Funnel taped to outer cylinder.,1
+003,27-May-2013,Jeff Valentine,Y,0.00,Y,N,Both cylinders rinsed and cleaned. Funnel taped to outer cylinder.,1
+010,28-May-2013,Geo Keyes,Y,0.00,Y,N,,1
+012,28-May-2013,Geo Keyes,Y,0.00,Y,N,,1
+112,28-May-2013,Jeff Valentine,Y,0.00,Y,N,Rinsed and cleaned. Funnel taped to outer cylinder.,1
+115,28-May-2013,Jeff Valentine,Y,0.00,N,N,No oil. Previously rinsed and cleaned.,1
+117,29-May-2013,Jeff Valentine,Y,0.00,Y,N,Rinsed and cleaned.,1
+118,29-May-2013,Jeff Valentine,Y,0.00,Y,N,Rinsed and cleaned.,1
+008,24-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+104,24-Jun-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+105,24-Jun-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+115,24-Jun-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+003,25-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+102,25-Jun-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+103,25-Jun-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+112,25-Jun-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+001,26-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+004,26-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+107,26-Jun-2013,Nicole Stephens,N,,N,N,Rain level not checked: needs oil,1
+117,26-Jun-2013,Nicole Stephens,Y,0.00,Y,Y,,1
+118,26-Jun-2013,Nicole Stephens,N,,N,N,Rain level not checked: did not have oil.,1
+006,27-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+010,27-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+012,27-Jun-2013,Shawn Lindey,Y,0.00,N,Y,,1
+010,7-Jul-2013,Imogen Daly,Y,0.05,Y,Y,10:02 AM,1
+012,7-Jul-2013,Imogen Daly,Y,0.09,Y,Y,Just after thunderstorm,1
+112,7-Jul-2013,Geo Keyes,Y,0.00,Y,Y,,1
+115,7-Jul-2013,Geo Keyes,Y,0.02,Y,Y,,1
+101,8-Jul-2013,Geo Keyes,Y,0.00,Y,Y,,1
+103,8-Jul-2013,Craig Himmelwright,Y,0.05,Y,Y,,1
+104,8-Jul-2013,Geo Keyes,Y,0.02,Y,Y,,1
+105,8-Jul-2013,Geo Keyes,Y,0.05,Y,Y,,1
+001,9-Jul-2013,Craig Himmelwright,Y,0.01,Y,Y,,1
+003,9-Jul-2013,Craig Himmelwright,Y,0.00,N,N,Bring wire next visit,1
+004,9-Jul-2013,Imogen Daly,Y,0.00,Y,Y,,1
+006,9-Jul-2013,Imogen Daly,Y,0.00,Y,Y,,1
+008,9-Jul-2013,Geo Keyes,Y,0.10,Y,Y,,1
+102,10-Jul-2013,Craig Himmelwright,Y,0.02,Y,Y,,1
+117,10-Jul-2013,Imogen Daly,Y,0.00,Y,Y,,1
+118,10-Jul-2013,Imogen Daly,Y,0.00,Y,Y,,1
+107,11-Jul-2013,Imogen Daly,Y,0.05,Y,Y,,1
+004,14-Jul-2013,Jacquelyn Smith,Y,0.08,Y,Y,,1
+006,14-Jul-2013,Jacquelyn Smith,Y,0.07,Y,Y,,1
+104,14-Jul-2013,Geo Keyes,Y,0.01,Y,Y,,1
+105,14-Jul-2013,Geo Keyes,Y,0.02,Y,Y,,1
+001,15-Jul-2013,Jacquelyn Smith,Y,0.02,Y,Y,,1
+003,15-Jul-2013,Jacquelyn Smith,Y,0.05,Y,Y,,1
+101,15-Jul-2013,Geo Keyes,Y,0.02,Y,Y,,1
+102,15-Jul-2013,Geo Keyes,Y,0.01,Y,Y,,1
+112,15-Jul-2013,Jeff Valentine,Y,0.00,N,N,,1
+115,15-Jul-2013,Jeff Valentine,Y,0.02,Y,Y,,1
+010,16-Jul-2013,Jacquelyn Smith,Y,0.02,Y,Y,,1
+012,16-Jul-2013,Jacquelyn Smith,Y,0.05,Y,Y,,1
+103,16-Jul-2013,Geo Keyes,Y,0.01,Y,Y,,1
+107,16-Jul-2013,Jeff Valentine,Y,0.05,Y,Y,,1
+008,17-Jul-2013,Jacquelyn Smith,Y,0.00,N,N,,1
+117,17-Jul-2013,Geo Keyes,Y,0.02,Y,Y,,1
+118,17-Jul-2013,Geo Keyes,Y,0.04,Y,Y,,1
+001,21-Jul-2013,Jeff Valentine,Y,0.74,Y,Y,,1
+003,21-Jul-2013,Jeff Valentine,Y,0.93,Y,Y,,1
+104,21-Jul-2013,Geo Keyes,Y,0.33,Y,Y,,1
+105,21-Jul-2013,Geo Keyes,Y,0.60,Y,Y,,1
+Pen,21-Jul-2013,Max Havelka,Y,0.55,Y,Y,,1
+010,22-Jul-2013,Jeff Valentine,Y,1.31,Y,Y,,1
+012,22-Jul-2013,Jeff Valentine,Y,1.72,Y,Y,,1
+101,22-Jul-2013,Geo Keyes,Y,0.20,Y,Y,,1
+102,22-Jul-2013,Geo Keyes,Y,0.17,Y,Y,,1
+115,22-Jul-2013,James Borgmeyer,Y,0.34,Y,Y,,1
+117,22-Jul-2013,James Borgmeyer,Y,0.37,Y,Y,,1
+118,22-Jul-2013,James Borgmeyer,Y,0.36,Y,Y,,1
+008,23-Jul-2013,Jeff Valentine,Y,0.68,Y,Y,,1
+103,23-Jul-2013,Geo Keyes,Y,0.09,Y,Y,,1
+004,24-Jul-2013,Jeff Valentine,Y,0.74,Y,Y,,1
+006,24-Jul-2013,Jeff Valentine,Y,0.62,Y,Y,,1
+107,24-Jul-2013,Geo Keyes,Y,2.55,Y,Y,,1
+112,25-Jul-2013,Geo Keyes,Y,0.27,Y,Y,,1
+001,28-Jul-2013,Jeff Valentine,Y,0.10,Y,Y,,1
+115,28-Jul-2013,Brian Cohn,Y,0.58,Y,Y,,1
+Pen,28-Jul-2013,Max Havelka,Y,0.48,Y,Y,,1
+004,29-Jul-2013,Jeff Valentine,Y,0.30,Y,Y,,1
+006,29-Jul-2013,Jeff Valentine,Y,0.52,Y,Y,,1
+008,29-Jul-2013,Jay Meyers,Y,2.63,Y,Y,,1
+010,29-Jul-2013,Jay Meyers,Y,0.46,Y,Y,,1
+012,29-Jul-2013,Jay Meyers,Y,0.40,Y,Y,,1
+104,29-Jul-2013,Imogen Daly,Y,2.45,Y,Y,,1
+105,29-Jul-2013,Imogen Daly,Y,1.97,Y,Y,,1
+003,30-Jul-2013,Jeff Valentine,Y,0.42,Y,Y,,1
+101,30-Jul-2013,Imogen Daly,Y,1.85,Y,Y,,1
+103,30-Jul-2013,Brian Cohn,Y,0.95,Y,Y,,1
+102,31-Jul-2013,Imogen Daly,Y,1.65,Y,Y,,1
+107,31-Jul-2013,Jeff Valentine,Y,0.38,Y,Y,,1
+112,31-Jul-2013,Jeff Valentine,Y,1.60,Y,Y,,1
+117,31-Jul-2013,Brian Cohn,Y,0.54,Y,Y,,1
+118,31-Jul-2013,Brian Cohn,Y,0.60,Y,Y,,1
+001,4-Aug-2013,Jay Meyers,Y,0.12,Y,Y,,1
+003,4-Aug-2013,Jay Meyers,Y,0.00,N,N,,1
+004,4-Aug-2013,Imogen Daly,Y,0.04,Y,Y,,1
+006,4-Aug-2013,Imogen Daly,Y,0.00,N,N,,1
+008,4-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+Pen,4-Aug-2013,Max Havelka,Y,0.00,N,N,,1
+102,5-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+103,5-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+104,5-Aug-2013,Jay Meyers,Y,0.00,N,N,,1
+105,5-Aug-2013,Jay Meyers,Y,0.00,N,N,,1
+010,6-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+012,6-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+112,6-Aug-2013,Imogen Daly,Y,0.00,N,N,,1
+115,6-Aug-2013,Imogen Daly,Y,0.00,N,N,,1
+101,7-Aug-2013,Jay Meyers,Y,0.00,N,N,,1
+107,7-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+112,7-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+117,7-Aug-2013,Imogen Daly,Y,0.00,N,N,,1
+118,7-Aug-2013,Imogen Daly,Y,0.00,N,N,,1
+008,11-Aug-2013,Brian Cohn,N,,N,N,B/C IT DID NOT RAIN,1
+101,13-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+102,13-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+104,13-Aug-2013,Brian Cohn,Y,0.00,N,N,,1
+004,18-Aug-2013,Jacquelyn Smith,N,,N,N,Rain level not checked: was told hadnt rained. It did rain eve of 18th so will need to be checked next week,1
+006,18-Aug-2013,Jacquelyn Smith,N,,N,N,Rain level not checked: was told it hadnt rained. It did rain eve of 18th so will ned to be checked next week,1
+112,18-Aug-2013,Nicole Stephens,N,,N,N,Rain level not checked: rain event occurred after tracking that area.,1
+008,19-Aug-2013,Jacquelyn Smith,Y,0.70,Y,Y,,1
+107,19-Aug-2013,James Borgmeyer,Y,0.83,Y,Y,,1
+115,19-Aug-2013,Nicole Stephens,Y,1.20,Y,Y,,1
+010,20-Aug-2013,Jacquelyn Smith,Y,0.69,Y,Y,,1
+012,20-Aug-2013,Jacquelyn Smith,Y,0.60,Y,Y,,1
+102,20-Aug-2013,James Borgmeyer,Y,0.55,Y,Y,,1
+103,20-Aug-2013,James Borgmeyer,Y,0.62,Y,Y,,1
+104,20-Aug-2013,Nicole Stephens,Y,0.96,Y,Y,,1
+105,20-Aug-2013,Nicole Stephens,Y,1.08,Y,Y,"W/H20 in overflow suspect evap of 0.05""",1
+Pen,20-Aug-2013,John Hillman,Y,0.85,Y,Y,,1
+001,21-Aug-2013,Jacquelyn Smith,Y,0.51,Y,Y,,1
+003,21-Aug-2013,Jacquelyn Smith,Y,0.56,Y,Y,,1
+101,21-Aug-2013,Nicole Stephens,Y,0.54,Y,Y,,1
+117,22-Aug-2013,Nicole Stephens,Y,0.76,Y,N,Oil not added: ran out of oil. 0.01 present.,1
+118,22-Aug-2013,Nicole Stephens,Y,0.95,Y,Y,,1
+Pen,23-Aug-2013,John Hillman,Y,0.33,Y,Y,,1
+004,25-Aug-2013,Jacquelyn Smith,Y,0.70,Y,Y,,1
+006,25-Aug-2013,Jacquelyn Smith,Y,0.71,Y,Y,,1
+112,25-Aug-2013,Nicole Stephens,Y,1.03,Y,Y,,1
+Pen,25-Aug-2013,John Hillman,Y,0.89,Y,Y,1500 hours.,1
+107,26-Aug-2013,Geo Keyes,Y,0.61,Y,Y,,1
+010,27-Aug-2013,Jacquelyn Smith,Y,0.68,Y,Y,,1
+012,27-Aug-2013,Jacquelyn Smith,Y,0.96,Y,Y,,1
+104,27-Aug-2013,Geo Keyes,Y,0.73,Y,Y,,1
+001,28-Aug-2013,Jacquelyn Smith,Y,0.64,Y,Y,,1
+003,28-Aug-2013,Jacquelyn Smith,Y,0.44,Y,Y,,1
+008,28-Aug-2013,Jacquelyn Smith,Y,0.46,Y,Y,,1
+102,28-Aug-2013,James Borgmeyer,Y,0.87,Y,Y,,1
+103,28-Aug-2013,James Borgmeyer,Y,1.08,Y,Y,,1
+105,28-Aug-2013,Geo Keyes,Y,0.71,Y,Y,,1
+115,28-Aug-2013,Nicole Stephens,Y,0.40,Y,Y,,1
+101,29-Aug-2013,Geo Keyes,Y,0.71,Y,Y,,1
+117,29-Aug-2013,Nicole Stephens,Y,0.94,Y,Y,,1
+118,29-Aug-2013,Nicole Stephens,Y,1.77,Y,Y,,1
+Pen,29-Aug-2013,John Hillman,Y,0.36,Y,Y,,1
+Pen,31-Aug-2013,John Hillman,Y,0.43,Y,Y,,1
+010,1-Sep-2013,Jeff Valentine,Y,0.00,N,N,,1
+012,1-Sep-2013,Jeff Valentine,Y,0.00,N,N,,1
+107,1-Sep-2013,Geo Keyes,Y,0.68,Y,Y,,1
+008,2-Sep-2013,Jeff Valentine,Y,0.00,N,N,,1
+104,2-Sep-2013,Geo Keyes,Y,0.38,Y,Y,,1
+105,2-Sep-2013,Geo Keyes,Y,0.79,Y,Y,,1
+112,2-Sep-2013,Nicole Stephens,Y,0.95,Y,Y,,1
+004,3-Sep-2013,Jeff Valentine,Y,0.43,Y,Y,,1
+006,3-Sep-2013,Jeff Valentine,Y,0.44,Y,Y,,1
+101,3-Sep-2013,Geo Keyes,Y,0.54,Y,Y,,1
+115,3-Sep-2013,Nicole Stephens,Y,0.10,Y,Y,,1
+001,4-Sep-2013,Jeff Valentine,Y,0.02,Y,Y,,1
+003,4-Sep-2013,Jeff Valentine,Y,0.04,Y,Y,,1
+102,4-Sep-2013,Geo Keyes,Y,0.17,Y,Y,,1
+117,4-Sep-2013,Nicole Stephens,Y,0.26,Y,Y,,1
+118,4-Sep-2013,Nicole Stephens,Y,0.33,Y,Y,,1
+103,5-Sep-2013,Geo Keyes,Y,0.21,Y,Y,,1
+001,8-Sep-2013,Geo Keyes,Y,0.29,Y,Y,,1
+107,8-Sep-2013,Craig Himmelwright,Y,0.69,Y,Y,,1
+Pen,8-Sep-2013,Wayne Ball,Y,0.72,Y,N,Oil not added:plenty still in tube.,1
+003,9-Sep-2013,Geo Keyes,Y,0.21,Y,Y,,1
+008,9-Sep-2013,Geo Keyes,Y,0.52,Y,Y,,1
+104,9-Sep-2013,Arik Skromme,Y,1.03,Y,Y,,1
+105,9-Sep-2013,Arik Skromme,Y,0.88,Y,Y,,1
+112,10-Sep-2013,Jeff Valentine,Y,1.07,Y,Y,,1
+115,10-Sep-2013,Jeff Valentine,Y,0.67,Y,Y,,1
+010,11-Sep-2013,Geo Keyes,Y,0.61,Y,Y,,1
+012,11-Sep-2013,Geo Keyes,Y,0.32,Y,Y,,1
+101,11-Sep-2013,Arik Skromme,Y,1.58,Y,Y,,1
+102,11-Sep-2013,Arik Skromme,Y,1.13,Y,Y,,1
+117,11-Sep-2013,Jeff Valentine,Y,0.64,Y,Y,,1
+118,11-Sep-2013,Jeff Valentine,Y,0.59,Y,Y,,1
+004,12-Sep-2013,Geo Keyes,Y,0.71,Y,Y,,1
+006,12-Sep-2013,Geo Keyes,Y,0.51,Y,Y,,1
+103,12-Sep-2013,Arik Skromme,Y,1.01,Y,Y,,1
+001,15-Sep-2013,Imogen Daly,Y,0.54,Y,Y,,1
+Pen,15-Sep-2013,Wayne Ball,Y,0.24,Y,Y,,1
+004,16-Sep-2013,Imogen Daly,Y,0.00,Y,Y,,1
+006,16-Sep-2013,Imogen Daly,Y,0.00,Y,Y,,1
+107,16-Sep-2013,Dave Prival,Y,0.56,Y,Y,,1
+112,16-Sep-2013,James Borgmeyer,Y,0.03,Y,Y,,1
+117,16-Sep-2013,James Borgmeyer,Y,0.00,N,N,,1
+118,16-Sep-2013,James Borgmeyer,Y,0.00,N,N,,1
+008,17-Sep-2013,Imogen Daly,Y,0.53,Y,Y,,1
+105,17-Sep-2013,Dave Prival,Y,0.71,Y,Y,,1
+010,18-Sep-2013,Imogen Daly,N,,N,N,RAIN GAUGE WASN'T THERE,1
+012,18-Sep-2013,Imogen Daly,Y,0.05,Y,Y,,1
+101,18-Sep-2013,Dave Prival,Y,0.00,N,N,,1
+103,18-Sep-2013,James Borgmeyer,Y,0.00,N,N,,1
+104,18-Sep-2013,Dave Prival,Y,0.67,Y,Y,,1
+115,18-Sep-2013,James Borgmeyer,Y,0.02,Y,Y,,1
+003,19-Sep-2013,Imogen Daly,Y,0.55,Y,Y,,1
+102,19-Sep-2013,Dave Prival,Y,0.00,N,N,,1
+Pen,10-Oct-2013,Wayne Ball,Y,0.54,Y,Y,,1
+001,13-Oct-2013,Brian Cohn,Y,0.23,Y,Y,,1
+003,13-Oct-2013,Brian Cohn,Y,0.21,Y,Y,,1
+004,13-Oct-2013,Jeff Valentine,Y,0.21,Y,Y,,1
+006,13-Oct-2013,Jeff Valentine,Y,0.25,Y,Y,,1
+008,13-Oct-2013,Geo Keyes,Y,0.21,Y,Y,,1
+107,14-Oct-2013,Geo Keyes,Y,0.41,Y,Y,,1
+115,14-Oct-2013,Brian Cohn,Y,0.32,Y,Y,,1
+117,14-Oct-2013,Brian Cohn,Y,0.40,Y,Y,,1
+010,15-Oct-2013,Imogen Daly,Y,0.16,Y,Y,,1
+012,15-Oct-2013,Brian Cohn,Y,0.50,Y,Y,,1
+102,15-Oct-2013,Jeff Valentine,Y,0.36,Y,Y,,1
+103,15-Oct-2013,Jeff Valentine,Y,0.43,Y,Y,,1
+104,15-Oct-2013,Geo Keyes,Y,0.36,Y,Y,,1
+105,15-Oct-2013,Geo Keyes,Y,0.40,Y,Y,,1
+112,16-Oct-2013,Jay Meyers,Y,0.41,Y,Y,,1
+118,16-Oct-2013,Jay Meyers,Y,0.32,Y,Y,,1
+101,21-Oct-2013,Imogen Daly,Y,0.36,Y,Y,,1
+Pen,23-Nov-2013,John Hillman,Y,1.51,Y,Y,,1
+101,24-Nov-2013,Geo Keyes,Y,1.31,Y,Y,,1
+102,24-Nov-2013,Geo Keyes,Y,1.22,Y,Y,,1
+104,25-Nov-2013,Geo Keyes,Y,1.53,Y,Y,,1
+105,25-Nov-2013,Geo Keyes,Y,1.63,Y,Y,,1
+107,25-Nov-2013,Geo Keyes,Y,1.98,Y,Y,,1
+115,25-Nov-2013,Craig Himmelwright,Y,1.62,Y,Y,,1
+117,25-Nov-2013,Craig Himmelwright,Y,1.40,Y,Y,,1
+118,25-Nov-2013,Craig Himmelwright,Y,1.36,Y,Y,,1
+112,26-Nov-2013,Craig Himmelwright,Y,1.71,Y,Y,,1
+103,27-Nov-2013,Geo Keyes,Y,1.23,Y,Y,,1
+001,1-Dec-2013,Jeff Valentine,Y,1.01,Y,Y,,1
+003,1-Dec-2013,Jeff Valentine,Y,1.06,Y,Y,,1
+004,2-Dec-2013,Jeff Valentine,Y,1.32,Y,Y,,1
+006,2-Dec-2013,Jeff Valentine,Y,1.69,Y,Y,,1
+008,3-Dec-2013,Jeff Valentine,Y,1.09,Y,Y,,1
+010,4-Dec-2013,Jeff Valentine,Y,0.71,Y,Y,Precipitation from two rain events,1
+012,4-Dec-2013,Jeff Valentine,Y,0.93,Y,Y,Precipitation from two rain events,1
+Pen,4-Dec-2013,John Hillman,Y,0.07,Y,Y,,1
+102,10-Dec-2013,James Borgmeyer,Y,0.04,Y,Y,,1
+103,10-Dec-2013,James Borgmeyer,Y,0.03,Y,Y,,1
+118,10-Dec-2013,James Borgmeyer,Y,0.05,Y,Y,,1
+112,11-Dec-2013,Myles Traphagen,Y,0.05,Y,N,Oil not added: [low evap rate],1
+115,11-Dec-2013,Myles Traphagen,Y,0.05,Y,N,Oil not added: [low evap rate],1
+117,11-Dec-2013,Myles Traphagen,Y,0.04,Y,N,Oil not added: [low evap rate],1
+001,12-Dec-2013,Myles Traphagen,Y,0.06,Y,N,Oil not added:   low evap rate,1
+003,12-Dec-2013,Myles Traphagen,Y,0.08,Y,N,Oil not added: [low evap rate],1
+004,12-Dec-2013,Myles Traphagen,Y,0.09,Y,N,Oil not added: [low evap rate],1
+006,12-Dec-2013,Myles Traphagen,Y,0.11,Y,N,Oil not added: [low evap rate],1
+008,12-Dec-2013,Myles Traphagen,Y,0.11,Y,N,Oil not added: [lo w evap rate],1
+101,13-Dec-2013,Myles Traphagen,Y,0.05,Y,N,Oil not added: [low evap rate],1
+104,13-Dec-2013,Myles Traphagen,Y,0.04,Y,N,Oil not added: [low evap rate],1
+105,13-Dec-2013,Myles Traphagen,Y,0.05,Y,N,Oil not added: [low evap rate],1
+107,13-Dec-2013,Myles Traphagen,Y,0.12,Y,N,Oil not added: [low evap rate],1
+Pen,6-Feb-2014,Wayne Ball,Y,0.15,Y,N,Oil not added: Enough left.,1
+101,7-Feb-2014,Craig Himmelwright,Y,0.22,Y,Y,,1
+102,7-Feb-2014,Craig Himmelwright,Y,0.21,Y,Y,,1
+103,7-Feb-2014,Craig Himmelwright,Y,0.17,Y,Y,,1
+104,7-Feb-2014,Craig Himmelwright,Y,0.21,Y,Y,,1
+107,7-Feb-2014,Craig Himmelwright,Y,0.13,Y,Y,,1
+112,8-Feb-2014,Bruce Weise,Y,0.23,Y,Y,,1
+115,8-Feb-2014,Craig Himmelwright,Y,0.17,Y,Y,,1
+117,8-Feb-2014,Craig Himmelwright,Y,0.16,Y,Y,,1
+118,8-Feb-2014,Craig Himmelwright,Y,0.09,Y,Y,,1
+001,9-Feb-2014,Geo Keyes,Y,0.11,Y,Y,,1
+003,9-Feb-2014,Geo Keyes,Y,0.12,Y,Y,,1
+004,10-Feb-2014,Geo Keyes,Y,0.14,Y,Y,,1
+006,10-Feb-2014,Geo Keyes,Y,0.12,Y,Y,,1
+008,11-Feb-2014,Geo Keyes,Y,0.08,Y,Y,,1
+010,12-Feb-2014,Geo Keyes,Y,0.15,Y,Y,,1
+012,12-Feb-2014,Geo Keyes,Y,0.15,Y,Y,,1
+Pen,1-Mar-2014,Max Havelka,Y,0.33,Y,Y,,1
+006,2-Mar-2014,Geo Keyes,Y,0.35,Y,Y,,1
+008,3-Mar-2014,Geo Keyes,Y,0.21,Y,Y,,1
+010,3-Mar-2014,TG Jackson,Y,0.31,Y,Y,,1
+012,3-Mar-2014,TG Jackson,Y,0.19,Y,Y,,1
+004,4-Mar-2014,Geo Keyes,Y,0.32,Y,Y,,1
+104,4-Mar-2014,TG Jackson,Y,0.34,Y,Y,,1
+112,4-Mar-2014,Jeff Valentine,Y,0.37,Y,Y,,1
+001,5-Mar-2014,Geo Keyes,Y,0.21,Y,Y,,1
+003,5-Mar-2014,Geo Keyes,Y,0.26,Y,Y,,1
+115,5-Mar-2014,Jeff Valentine,Y,0.27,Y,Y,,1
+117,5-Mar-2014,Jeff Valentine,Y,0.28,Y,Y,,1
+118,5-Mar-2014,Jeff Valentine,Y,0.28,Y,Y,,1
+101,6-Mar-2014,TG Jackson,Y,0.28,Y,Y,,1
+102,6-Mar-2014,TG Jackson,Y,0.26,Y,Y,,1
+103,6-Mar-2014,Jeff Valentine,Y,0.23,Y,Y,,1
+107,6-Mar-2014,Geo Keyes,Y,0.59,Y,Y,,1
+Pen,31-Mar-2014,John Hillman,Y,0.31,Y,Y,,1
+Pen,26-Apr-2014,Wayne Ball,Y,0.12,Y,N,Oil not added: Enough oil was present after emptying.,1
+001,27-Apr-2014,Brian Cohn,Y,0.03,Y,Y,,1
+003,27-Apr-2014,Brian Cohn,Y,0.05,Y,Y,,1
+107,27-Apr-2014,TG Jackson,Y,0.32,Y,Y,,1
+004,28-Apr-2014,Brian Cohn,Y,0.09,Y,Y,,1
+006,28-Apr-2014,Brian Cohn,Y,0.16,Y,Y,,1
+101,28-Apr-2014,TG Jackson,Y,0.19,Y,Y,,1
+104,28-Apr-2014,TG Jackson,Y,0.28,Y,Y,,1
+102,29-Apr-2014,TG Jackson,Y,0.11,Y,Y,,1
+103,29-Apr-2014,TG Jackson,Y,0.09,Y,Y,,1
+112,29-Apr-2014,James Borgmeyer,Y,0.22,Y,Y,,1
+115,29-Apr-2014,James Borgmeyer,Y,0.11,Y,Y,,1
+117,29-Apr-2014,James Borgmeyer,Y,0.06,Y,Y,,1
+010,30-Apr-2014,Brian Cohn,Y,0.11,Y,Y,,1
+012,30-Apr-2014,Brian Cohn,Y,0.12,Y,Y,,1
+118,30-Apr-2014,TG Jackson,Y,0.08,Y,Y,,1
+008,1-May-2014,Brian Cohn,Y,0.07,Y,Y,,1
+012,7-May-2014,Dave Prival,Y,0.00,N,N,,1
+010,8-May-2014,Dave Prival,Y,0.00,N,N,,1
+004,11-May-2014,Dave Prival,Y,0.00,N,N,,1
+006,11-May-2014,Dave Prival,Y,0.01,Y,Y,,1
+107,11-May-2014,TG Jackson,Y,0.00,N,N,,1
+008,12-May-2014,Dave Prival,Y,0.00,N,N,,1
+101,12-May-2014,TG Jackson,Y,0.01,Y,Y,,1
+104,12-May-2014,TG Jackson,Y,0.02,Y,Y,,1
+118,12-May-2014,Chandra Llewellyn,Y,0.00,N,N,LOOKS GOOD,1
+003,13-May-2014,Dave Prival,Y,0.00,N,N,,1
+102,13-May-2014,TG Jackson,Y,0.00,N,N,,1
+103,13-May-2014,TG Jackson,Y,0.00,N,N,,1
+112,13-May-2014,Brian Cohn,Y,0.00,Y,Y,,1
+115,13-May-2014,Brian Cohn,Y,0.00,Y,Y,,1
+117,13-May-2014,Brian Cohn,Y,0.00,Y,Y,,1
+001,14-May-2014,Dave Prival,Y,0.00,N,N,,1
+Pen,24-May-2014,Max Havelka,Y,0.00,Y,Y,,1
+003,25-May-2014,TG Jackson,Y,0.00,N,N,,1
+004,25-May-2014,Shawn Lindey,Y,0.00,Y,Y,,1
+006,25-May-2014,Shawn Lindey,Y,0.00,N,N,,1
+107,25-May-2014,Dave Prival,Y,0.00,N,N,,1
+008,26-May-2014,Jeff Valentine,Y,0.00,N,N,,1
+010,26-May-2014,TG Jackson,Y,0.00,N,N,,1
+012,26-May-2014,TG Jackson,Y,0.00,N,N,,1
+101,26-May-2014,Dave Prival,Y,0.00,N,N,,1
+102,26-May-2014,Dave Prival,Y,0.00,N,N,,1
+104,26-May-2014,Dave Prival,Y,0.00,N,N,,1
+103,27-May-2014,Dave Prival,Y,0.00,N,N,,1
+112,27-May-2014,James Borgmeyer,Y,0.00,N,N,,1
+115,27-May-2014,James Borgmeyer,Y,0.00,N,N,,1
+117,28-May-2014,Dave Prival,Y,0.00,N,N,,1
+118,28-May-2014,Dave Prival,Y,0.00,N,N,,1
+001,6-Jul-2014,Nicole Stephens,Y,0.05,Y,Y,,1
+010,6-Jul-2014,Geo Keyes,Y,0.33,Y,Y,,1
+012,6-Jul-2014,Geo Keyes,Y,0.32,Y,Y,,1
+004,7-Jul-2014,Nicole Stephens,Y,0.04,Y,Y,,1
+006,7-Jul-2014,Nicole Stephens,Y,,Y,Y,Too many insects to distiguish significant rain amount so no Rain Level recorded,1
+103,7-Jul-2014,Geo Keyes,Y,0.09,Y,Y,,1
+107,7-Jul-2014,Craig Himmelwright,Y,1.03,Y,Y,,1
+Pen,7-Jul-2014,John Hillman,Y,0.40,Y,Y,,1
+003,8-Jul-2014,Nicole Stephens,Y,0.02,Y,Y,,1
+115,8-Jul-2014,Geo Keyes,Y,0.10,Y,Y,,1
+Pen,8-Jul-2014,Wayne Ball,Y,0.42,Y,Y,,1
+008,9-Jul-2014,Nicole Stephens,Y,0.33,Y,Y,,1
+117,9-Jul-2014,Nicole Stephens,Y,1.33,Y,Y,,1
+104,10-Jul-2014,Geo Keyes,Y,0.06,Y,Y,,1
+112,10-Jul-2014,Nicole Stephens,Y,1.06,Y,Y,,1
+118,10-Jul-2014,Nicole Stephens,Y,0.82,Y,Y,,1
+101,11-Jul-2014,Geo Keyes,Y,0.06,Y,N,no oil,1
+102,11-Jul-2014,Craig Himmelwright,Y,0.08,Y,Y,,1
+003,13-Jul-2014,Geo Keyes,Y,0.49,Y,Y,,1
+112,13-Jul-2014,James Borgmeyer,Y,0.00,N,N,,1
+102,14-Jul-2014,Nicole Stephens,Y,0.00,N,N,,1
+103,14-Jul-2014,Nicole Stephens,Y,0.08,Y,Y,,1
+115,14-Jul-2014,James Borgmeyer,Y,0.58,Y,Y,,1
+117,14-Jul-2014,James Borgmeyer,Y,0.00,N,N,,1
+004,15-Jul-2014,Geo Keyes,Y,0.64,Y,Y,,1
+006,15-Jul-2014,Geo Keyes,Y,0.52,Y,Y,,1
+008,15-Jul-2014,Geo Keyes,Y,0.00,N,N,,1
+118,15-Jul-2014,Nicole Stephens,Y,0.00,N,N,,1
+010,16-Jul-2014,Geo Keyes,Y,0.08,Y,Y,,1
+012,16-Jul-2014,Geo Keyes,Y,0.12,Y,Y,,1
+104,16-Jul-2014,Nicole Stephens,Y,0.00,Y,Y,,1
+101,17-Jul-2014,Nicole Stephens,Y,0.00,Y,Y,,1
+107,17-Jul-2014,Nicole Stephens,Y,0.26,Y,Y,,1
+001,20-Jul-2014,Cynthia Furman,Y,0.67,Y,Y,,1
+003,20-Jul-2014,Cynthia Furman,Y,0.08,Y,Y,,1
+107,20-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+112,20-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+004,21-Jul-2014,Cynthia Furman,Y,0.05,Y,Y,,1
+104,21-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+115,21-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+101,22-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+102,22-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+006,23-Jul-2014,Cynthia Furman,Y,0.09,Y,Y,Lots of bugs,1
+008,23-Jul-2014,Cynthia Furman,Y,0.01,Y,Y,,1
+103,23-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+117,23-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+118,23-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+010,24-Jul-2014,Cynthia Furman,Y,0.09,Y,Y,,1
+012,24-Jul-2014,Cynthia Furman,Y,0.00,N,N,,1
+001,27-Jul-2014,Cynthia Furman,Y,0.01,Y,Y,,1
+003,27-Jul-2014,Cynthia Furman,Y,0.00,N,N,,1
+107,27-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+115,27-Jul-2014,James Borgmeyer,Y,0.00,N,N,,1
+101,28-Jul-2014,Jeff Valentine,Y,0.00,N,N,,1
+102,28-Jul-2014,Jeff Valentine,Y,0.01,Y,Y,,1
+112,28-Jul-2014,James Borgmeyer,Y,0.05,Y,Y,,1
+117,28-Jul-2014,James Borgmeyer,Y,0.02,Y,Y,,1
+Pen,28-Jul-2014,Max Havelka,Y,0.25,Y,Y,,1
+008,29-Jul-2014,Cynthia Furman,Y,0.70,Y,Y,Rained yesterday.,1
+104,29-Jul-2014,Jeff Valentine,Y,0.15,Y,Y,,1
+004,30-Jul-2014,Cynthia Furman,Y,1.21,Y,Y,,1
+006,30-Jul-2014,Cynthia Furman,Y,1.64,Y,Y,,1
+103,30-Jul-2014,Jeff Valentine,Y,0.19,Y,Y,,1
+118,30-Jul-2014,James Borgmeyer,Y,0.80,Y,Y,,1
+010,31-Jul-2014,Cynthia Furman,Y,0.01,Y,Y,,1
+012,31-Jul-2014,Cynthia Furman,Y,0.02,Y,Y,,1
+001,3-Aug-2014,Geo Keyes,Y,0.53,Y,Y,,1
+003,3-Aug-2014,Jeff Valentine,Y,0.72,Y,Y,,1
+004,3-Aug-2014,Cynthia Furman,Y,0.13,Y,Y,Just rained,1
+006,3-Aug-2014,Cynthia Furman,Y,0.12,Y,Y,,1
+008,3-Aug-2014,Jay Meyers,Y,0.30,Y,Y,,1
+Pen,3-Aug-2014,Max Havelka,Y,0.41,Y,Y,,1
+115,4-Aug-2014,Jeff Valentine,Y,2.38,Y,Y,,1
+117,4-Aug-2014,Jay Meyers,Y,2.40,Y,Y,,1
+118,4-Aug-2014,Jay Meyers,Y,1.45,Y,Y,,1
+Pen,4-Aug-2014,Max Havelka,Y,0.55,Y,Y,,1
+103,5-Aug-2014,Jay Meyers,Y,0.55,Y,Y,,1
+112,5-Aug-2014,Jeff Valentine,Y,0.75,Y,Y,,1
+010,6-Aug-2014,Jay Meyers,Y,0.45,Y,Y,,1
+012,6-Aug-2014,Jay Meyers,Y,0.45,Y,Y,,1
+101,7-Aug-2014,Jay Meyers,Y,0.94,Y,Y,,1
+102,7-Aug-2014,Jay Meyers,Y,0.73,Y,Y,,1
+107,7-Aug-2014,Geo Keyes,Y,0.86,Y,Y,,1
+001,10-Aug-2014,Jeff Valentine,Y,0.69,Y,Y,,1
+004,10-Aug-2014,Jay Meyers,Y,0.92,Y,Y,,1
+006,10-Aug-2014,Jay Meyers,Y,0.91,Y,Y,,1
+008,10-Aug-2014,Geo Keyes,Y,0.15,Y,Y,,1
+003,11-Aug-2014,Jeff Valentine,Y,0.95,Y,Y,,1
+010,11-Aug-2014,Geo Keyes,Y,0.00,N,N,,1
+012,11-Aug-2014,Geo Keyes,Y,0.00,N,N,,1
+102,12-Aug-2014,Jay Meyers,Y,0.02,Y,Y,Rained after checking,1
+103,12-Aug-2014,Jay Meyers,Y,0.00,N,N,Rained after checking,1
+112,12-Aug-2014,Jeff Valentine,Y,0.00,N,N,,1
+115,13-Aug-2014,Jeff Valentine,Y,0.97,Y,Y,,1
+Pen,13-Aug-2014,John Hillman,Y,0.46,Y,Y,,1
+117,14-Aug-2014,Geo Keyes,Y,0.61,Y,Y,,1
+118,14-Aug-2014,Geo Keyes,Y,0.39,Y,Y,,1
+010,17-Aug-2014,Geo Keyes,Y,0.02,Y,Y,,1
+012,17-Aug-2014,Geo Keyes,Y,0.02,Y,Y,,1
+107,17-Aug-2014,Jay Meyers,Y,0.83,Y,Y,,1
+101,18-Aug-2014,Jay Meyers,Y,0.00,N,N,,1
+104,18-Aug-2014,Jay Meyers,Y,0.00,N,N,,1
+001,19-Aug-2014,Jay Meyers,Y,0.56,Y,Y,,1
+003,19-Aug-2014,Jay Meyers,Y,0.94,Y,Y,,1
+004,19-Aug-2014,Geo Keyes,Y,1.23,Y,Y,,1
+006,19-Aug-2014,Geo Keyes,Y,1.45,Y,Y,,1
+008,19-Aug-2014,Craig Himmelwright,Y,1.13,Y,Y,,1
+102,20-Aug-2014,Jay Meyers,Y,0.59,Y,Y,,1
+103,20-Aug-2014,Jay Meyers,Y,0.23,Y,Y,,1
+112,20-Aug-2014,Geo Keyes,Y,0.54,Y,Y,,1
+115,20-Aug-2014,Geo Keyes,Y,0.00,N,N,,1
+117,21-Aug-2014,Geo Keyes,Y,0.00,N,N,,1
+118,21-Aug-2014,Jay Meyers,Y,0.07,Y,Y,,1
+Pen,21-Aug-2014,Wayne Ball,Y,0.93,Y,Y,,1
+001,24-Aug-2014,Cynthia Furman,Y,0.50,Y,Y,Bird poop was blocking opening. Cleaned.,1
+003,25-Aug-2014,Cynthia Furman,Y,0.91,Y,Y,,1
+004,25-Aug-2014,Cynthia Furman,Y,1.26,Y,Y,,1
+006,25-Aug-2014,Cynthia Furman,Y,1.50,Y,Y,,1
+103,25-Aug-2014,Brian Cohn,Y,0.80,Y,Y,,1
+107,25-Aug-2014,Craig Himmelwright,Y,0.61,Y,Y,,1
+118,25-Aug-2014,Brian Cohn,Y,0.49,Y,Y,,1
+101,26-Aug-2014,Brian Cohn,Y,0.25,Y,Y,,1
+102,26-Aug-2014,Brian Cohn,Y,0.53,Y,Y,,1
+104,26-Aug-2014,Craig Himmelwright,Y,0.19,Y,Y,,1
+008,27-Aug-2014,Cynthia Furman,Y,0.98,Y,Y,,1
+012,27-Aug-2014,Cynthia Furman,Y,0.34,Y,Y,,1
+112,27-Aug-2014,Brian Cohn,Y,0.30,Y,Y,,1
+117,27-Aug-2014,Brian Cohn,Y,0.37,Y,Y,,1
+010,28-Aug-2014,Cynthia Furman,Y,0.52,Y,Y,,1
+118,7-Sep-2014,James Borgmeyer,Y,0.16,Y,Y,,1
+107,8-Sep-2014,Craig Himmelwright,Y,0.42,Y,Y,,1
+115,8-Sep-2014,James Borgmeyer,Y,0.49,Y,Y,,1
+101,9-Sep-2014,James Borgmeyer,Y,1.38,Y,Y,,1
+102,9-Sep-2014,James Borgmeyer,Y,1.42,Y,Y,,1
+104,9-Sep-2014,James Borgmeyer,Y,1.38,Y,Y,,1
+004,10-Sep-2014,Craig Himmelwright,Y,1.06,Y,Y,,1
+010,10-Sep-2014,Brian Cohn,Y,1.65,Y,Y,,1
+012,10-Sep-2014,Brian Cohn,Y,2.25,Y,Y,,1
+117,10-Sep-2014,James Borgmeyer,Y,1.98,Y,Y,,1
+003,11-Sep-2014,Craig Himmelwright,Y,1.36,Y,Y,,1
+008,11-Sep-2014,Craig Himmelwright,Y,1.94,Y,Y,,1
+112,11-Sep-2014,James Borgmeyer,Y,2.28,Y,Y,,1
+004,14-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+006,14-Sep-2014,Dave Prival,Y,1.82,Y,Y,,1
+001,15-Sep-2014,Dave Prival,Y,1.29,Y,Y,,1
+003,15-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+101,15-Sep-2014,Nicole Stephens,Y,0.00,N,N,,1
+104,16-Sep-2014,Laura Pavliscak,Y,0.00,Y,Y,,1
+008,17-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+012,17-Sep-2014,Dave Prival,Y,0.00,N,Y,,1
+103,17-Sep-2014,Cynthia Furman,Y,1.24,Y,Y,,1
+107,17-Sep-2014,Wayne Ball,Y,0.98,Y,N,Oil not added: did not have oil on me,1
+112,17-Sep-2014,Imogen Daly,Y,0.00,N,N,,1
+010,18-Sep-2014,Dave Prival,Y,0.00,N,Y,,1
+102,18-Sep-2014,Nicole Stephens,Y,0.00,N,N,,1
+115,18-Sep-2014,Geo Keyes,Y,1.04,Y,Y,,1
+107,21-Sep-2014,Dave Prival,Y,1.48,Y,Y,,1
+101,22-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+104,22-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+006,23-Sep-2014,Geo Keyes,Y,0.00,N,N,,1
+102,23-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+112,23-Sep-2014,Craig Himmelwright,Y,0.00,N,N,,1
+010,24-Sep-2014,Jeff Valentine,Y,0.00,N,N,,1
+103,24-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+117,24-Sep-2014,Craig Himmelwright,Y,0.00,N,N,,1
+118,24-Sep-2014,Craig Himmelwright,Y,1.57,Y,Y,,1
+004,25-Sep-2014,Geo Keyes,Y,0.00,N,N,,1
+012,25-Sep-2014,Jeff Valentine,Y,0.00,N,N,,1
+115,25-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+107,28-Sep-2014,Dave Prival,Y,0.00,N,N,,1
+101,29-Sep-2014,Dave Prival,Y,0.05,Y,Y,,1
+104,29-Sep-2014,Dave Prival,Y,0.04,Y,Y,,1
+Pen,29-Sep-2014,John Hillman,Y,0.00,N,N,,1
+003,30-Sep-2014,Jeff Valentine,Y,0.25,Y,N,Oil not added: not needed,1
+004,30-Sep-2014,Jay Meyers,Y,0.20,Y,Y,,1
+006,30-Sep-2014,Jay Meyers,Y,0.02,Y,Y,,1
+102,30-Sep-2014,Dave Prival,Y,0.12,Y,Y,,1
+112,30-Sep-2014,James Borgmeyer,Y,0.00,N,N,,1
+117,30-Sep-2014,James Borgmeyer,Y,0.07,Y,Y,,1
+001,1-Oct-2014,Jeff Valentine,Y,0.20,Y,N,Oil not added: not needed,1
+103,1-Oct-2014,Dave Prival,Y,0.06,Y,Y,,1
+115,1-Oct-2014,James Borgmeyer,Y,0.03,Y,Y,,1
+118,1-Oct-2014,Dave Prival,Y,0.09,Y,Y,,1
+008,2-Oct-2014,James Borgmeyer,Y,0.27,Y,Y,,1
+010,2-Oct-2014,Dave Prival,Y,0.00,N,N,,1
+012,2-Oct-2014,Dave Prival,Y,0.00,N,N,,1
+Pen,3-Dec-2014,John Hillman,Y,0.42,Y,Y,,1
+101,4-Dec-2014,Geo Keyes,Y,0.35,Y,Y,,1
+102,4-Dec-2014,Geo Keyes,Y,0.33,Y,Y,,1
+004,8-Dec-2014,Jeff Valentine,Y,0.39,Y,N,,1
+006,8-Dec-2014,Jeff Valentine,Y,0.43,Y,N,,1
+001,9-Dec-2014,Jeff Valentine,Y,0.32,Y,N,Gauge needs to be cleaned + raised on stake. Birds using as perch.,1
+003,9-Dec-2014,Jeff Valentine,Y,0.36,Y,N,,1
+008,9-Dec-2014,Jeff Valentine,Y,0.33,Y,N,,1
+010,11-Dec-2014,Jeff Valentine,Y,0.30,Y,N,,1
+012,11-Dec-2014,Jeff Valentine,Y,0.00,N,N,,1
+Pen,12-Dec-2014,Amanda Scheib,Y,0.14,Y,N,Oil not added: No Comment.,1
+Pen,13-Dec-2014,Amanda Scheib,Y,0.03,Y,N,Oil not added: No comment.,1
+104,14-Dec-2014,Jeff Valentine,Y,0.53,Y,N,,1
+107,14-Dec-2014,Jeff Valentine,Y,1.07,Y,N,,1
+115,14-Dec-2014,James Borgmeyer,Y,0.53,Y,N,,1
+101,15-Dec-2014,Jeff Valentine,Y,0.12,Y,N,,1
+102,16-Dec-2014,Jeff Valentine,Y,0.11,Y,N,,1
+103,16-Dec-2014,Jeff Valentine,Y,0.39,Y,N,,1
+112,16-Dec-2014,James Borgmeyer,Y,0.65,Y,N,,1
+117,17-Dec-2014,Jeff Valentine,Y,0.47,Y,N,,1
+118,17-Dec-2014,Jeff Valentine,Y,0.48,Y,N,,1
+Pen,17-Dec-2014,Max Havelka,Y,0.02,Y,Y,,1
+001,23-Dec-2014,Cynthia Furman,Y,0.06,Y,N,Bird droppings on funnel.,1
+003,23-Dec-2014,Cynthia Furman,Y,0.08,Y,N,clean funnel - no droppings,1
+004,24-Dec-2014,Cynthia Furman,Y,0.10,Y,N,clean,1
+006,25-Dec-2014,Cynthia Furman,Y,0.16,Y,N,clean,1
+008,26-Dec-2014,Cynthia Furman,Y,0.08,Y,N,Oil not added:clean,1
+010,27-Dec-2014,Cynthia Furman,Y,0.34,Y,N,Oil not added:a few insects in funnel.,1
+012,27-Dec-2014,Cynthia Furman,Y,0.28,Y,N,"Oil not added:Fouled with .02"" insects, cleaned it.",1
+104,28-Dec-2014,Cynthia Furman,Y,0.01,Y,N,,1
+107,28-Dec-2014,Cynthia Furman,Y,0.03,Y,N,,1
+112,28-Dec-2014,James Borgmeyer,N,,N,N,BROKEN AND ON GROUND,1
+115,28-Dec-2014,James Borgmeyer,Y,0.00,N,N,,1
+112,29-Dec-2014,Lori Rose,N,,N,Y,Rain level not checked: replaced broken gauge,1
+101,30-Dec-2014,Cynthia Furman,Y,0.01,Y,N,,1
+102,30-Dec-2014,Cynthia Furman,Y,0.01,Y,N,,1
+103,30-Dec-2014,Cynthia Furman,Y,0.01,Y,N,,1
+118,30-Dec-2014,Cynthia Furman,Y,0.01,Y,N,Owl pellet in funnel.,1
+117,31-Dec-2014,Cynthia Furman,Y,0.01,Y,N,,1
+104,12-Jan-2015,Jeff Valentine,Y,0.43,Y,N,,1
+107,12-Jan-2015,Jeff Valentine,Y,0.51,Y,N,,1
+Pen,12-Jan-2015,John Hillman,Y,0.49,Y,Y,,1
+112,13-Jan-2015,Jeff Valentine,Y,0.50,Y,N,,1
+115,13-Jan-2015,Jeff Valentine,Y,0.42,Y,N,,1
+117,13-Jan-2015,Jeff Valentine,Y,0.49,Y,N,,1
+101,14-Jan-2015,Craig Himmelwright,Y,0.39,Y,Y,,1
+102,14-Jan-2015,Jeff Valentine,Y,0.41,Y,N,,1
+118,14-Jan-2015,Jeff Valentine,Y,0.47,Y,N,,1
+008,18-Jan-2015,Jeff Valentine,Y,0.28,Y,N,,1
+004,19-Jan-2015,Jeff Valentine,Y,0.32,Y,N,,1
+006,19-Jan-2015,Jeff Valentine,Y,0.33,Y,N,,1
+010,20-Jan-2015,Jeff Valentine,Y,0.24,Y,N,,1
+012,20-Jan-2015,Jeff Valentine,Y,0.25,Y,N,,1
+003,21-Jan-2015,Jeff Valentine,Y,0.33,Y,N,,1
+001,22-Jan-2015,Jeff Valentine,Y,0.32,Y,N,,1
+102,25-Jan-2015,Craig Himmelwright,Y,0.00,Y,Y,Tube empty w/no oil,1
+103,25-Jan-2015,Craig Himmelwright,Y,0.00,Y,Y,Tube empty w/no oil,1
+115,25-Jan-2015,Geo Keyes,Y,0.00,N,N,,1
+112,26-Jan-2015,Geo Keyes,Y,0.00,N,N,,1
+117,26-Jan-2015,Geo Keyes,Y,0.00,N,N,,1
+118,26-Jan-2015,Geo Keyes,Y,0.00,N,N,,1
+104,27-Jan-2015,Geo Keyes,Y,0.00,N,N,"Found gauge on ground, n/a",1
+107,28-Jan-2015,Geo Keyes,Y,0.25,Y,N,n/a,1
+101,29-Jan-2015,Geo Keyes,Y,0.22,Y,N,n/a,1
+001,1-Feb-2015,Geo Keyes,Y,0.57,Y,N,n/a,1
+003,1-Feb-2015,Geo Keyes,Y,0.60,Y,N,N/A,1
+008,2-Feb-2015,Geo Keyes,Y,0.50,Y,N,N/A,1
+004,3-Feb-2015,Geo Keyes,Y,0.52,Y,N,N/A,1
+006,3-Feb-2015,Geo Keyes,Y,0.61,Y,N,N/A,1
+010,4-Feb-2015,Geo Keyes,Y,0.47,Y,N,N/A,1
+012,4-Feb-2015,Geo Keyes,Y,0.45,Y,N,N/A,1
+103,8-Feb-2015,Geo Keyes,Y,0.58,Y,N,n/a,1
+107,8-Feb-2015,Geo Keyes,Y,0.51,Y,N,n/a,1
+115,8-Feb-2015,James Borgmeyer,Y,0.59,Y,N,Oil not added,1
+112,9-Feb-2015,Geo Keyes,Y,0.00,Y,N,"N/a, Found on Ground Empty",1
+117,9-Feb-2015,Geo Keyes,Y,0.57,Y,N,n/a,1
+118,9-Feb-2015,Geo Keyes,Y,0.57,Y,N,N/a,1
+102,10-Feb-2015,Geo Keyes,Y,0.57,Y,N,n/a,1
+104,11-Feb-2015,Geo Keyes,Y,0.37,Y,N,n/a,1
+101,12-Feb-2015,Geo Keyes,Y,0.42,Y,N,N/A,1
+Pen,23-Feb-2015,John Hillman,Y,0.83,Y,Y,,1
+112,24-Feb-2015,James Borgmeyer,Y,0.80,Y,N,,1
+117,24-Feb-2015,James Borgmeyer,Y,0.77,Y,N,,1
+118,24-Feb-2015,James Borgmeyer,Y,0.73,Y,N,,1
+104,25-Feb-2015,Geo Keyes,Y,0.68,Y,N,,1
+003,1-Mar-2015,Jeff Valentine,Y,0.65,Y,N,,1
+004,1-Mar-2015,Imogen Daly,Y,0.66,Y,Y,,1
+006,1-Mar-2015,Imogen Daly,Y,0.67,Y,Y,,1
+008,1-Mar-2015,Brian Cohn,Y,0.75,Y,N,,1
+001,2-Mar-2015,Imogen Daly,Y,0.75,Y,N,,1
+104,2-Mar-2015,Jeff Valentine,Y,0.39,Y,N,,1
+107,2-Mar-2015,Jeff Valentine,Y,1.31,Y,N,,1
+112,2-Mar-2015,Brian Cohn,Y,0.39,Y,N,,1
+115,2-Mar-2015,Brian Cohn,Y,1.09,Y,N,,1
+117,2-Mar-2015,Imogen Daly,Y,0.35,Y,N,,1
+010,3-Mar-2015,Brian Cohn,Y,0.91,Y,N,,1
+012,3-Mar-2015,Brian Cohn,Y,0.94,Y,N,,1
+118,3-Mar-2015,Imogen Daly,Y,0.35,Y,N,,1
+Pen,3-Mar-2015,John Hillman,Y,0.38,Y,Y,,1
+101,4-Mar-2015,Brian Cohn,Y,1.01,Y,N,,1
+102,4-Mar-2015,Brian Cohn,Y,0.93,Y,N,,1
+103,4-Mar-2015,Brian Cohn,Y,0.96,Y,N,,1
+001,8-Mar-2015,Brian Cohn,Y,0.00,N,N,,1
+004,8-Mar-2015,Imogen Daly,Y,0.30,Y,N,,1
+006,8-Mar-2015,Imogen Daly,Y,0.35,Y,N,,1
+103,9-Mar-2015,Imogen Daly,Y,0.00,Y,N,,1
+107,9-Mar-2015,Brian Cohn,Y,0.02,Y,N,,1
+101,10-Mar-2015,Imogen Daly,Y,0.00,N,N,,1
+102,10-Mar-2015,Imogen Daly,Y,0.00,N,N,,1
+104,10-Mar-2015,Imogen Daly,Y,0.03,Y,N,,1
+117,10-Mar-2015,Jeff Valentine,Y,0.02,Y,N,,1
+118,10-Mar-2015,Jeff Valentine,Y,0.06,Y,N,,1
+008,11-Mar-2015,Imogen Daly,Y,0.25,Y,N,,1
+010,11-Mar-2015,Brian Cohn,Y,0.00,N,N,,1
+012,11-Mar-2015,Brian Cohn,Y,0.00,N,N,,1
+115,11-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+112,12-Mar-2015,Brian Cohn,Y,0.00,N,N,,1
+003,15-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+001,16-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+010,17-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+012,17-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+107,18-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+104,19-Mar-2015,Geo Keyes,Y,0.00,N,N,,1
+004,22-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+006,22-Mar-2015,Jeff Valentine,Y,0.01,Y,N,,1
+117,23-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+118,23-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+112,24-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+115,24-Mar-2015,Jeff Valentine,Y,0.00,N,N,,1
+010,26-Apr-2015,James Borgmeyer,Y,0.08,Y,N,,1
+012,26-Apr-2015,James Borgmeyer,Y,0.09,Y,N,,1
+107,26-Apr-2015,Craig Himmelwright,Y,0.28,Y,N,,1
+008,27-Apr-2015,James Borgmeyer,Y,0.07,Y,N,,1
+102,27-Apr-2015,Lori Rose,Y,0.16,Y,N,,1
+103,27-Apr-2015,Lori Rose,Y,0.15,Y,N,,1
+115,27-Apr-2015,Craig Himmelwright,Y,0.13,Y,N,,1
+004,28-Apr-2015,James Borgmeyer,Y,0.07,Y,N,,1
+006,28-Apr-2015,James Borgmeyer,Y,0.07,Y,N,,1
+104,28-Apr-2015,Lori Rose,Y,0.14,Y,N,,1
+112,28-Apr-2015,Jeff Valentine,Y,0.15,Y,N,,1
+001,29-Apr-2015,James Borgmeyer,Y,0.03,Y,N,,1
+003,29-Apr-2015,James Borgmeyer,Y,0.01,Y,N,,1
+101,29-Apr-2015,Jeff Valentine,Y,0.15,Y,N,,1
+117,30-Apr-2015,Jeff Valentine,Y,0.01,Y,N,,1
+118,30-Apr-2015,Jeff Valentine,Y,0.01,Y,N,,1
+008,4-May-2015,Lori Rose,Y,0.20,Y,N,,1
+004,5-May-2015,Lori Rose,Y,0.05,Y,N,,1
+101,5-May-2015,Jay Meyers,Y,0.30,Y,N,,1
+104,5-May-2015,Jay Meyers,Y,0.06,Y,N,,1
+112,5-May-2015,James Borgmeyer,Y,0.09,Y,N,,1
+001,6-May-2015,Lori Rose,Y,0.22,Y,N,,1
+003,6-May-2015,Lori Rose,Y,0.12,Y,N,,1
+006,6-May-2015,James Borgmeyer,Y,0.01,Y,N,,1
+107,7-May-2015,Jay Meyers,Y,0.12,Y,N,,1
+001,10-May-2015,Dave Prival,Y,0.05,Y,N,,1
+107,10-May-2015,Jay Meyers,Y,0.00,N,N,,1
+004,11-May-2015,Dave Prival,Y,0.03,Y,N,,1
+006,11-May-2015,Dave Prival,Y,0.16,Y,N,,1
+008,11-May-2015,Dave Prival,Y,0.00,N,N,,1
+003,12-May-2015,Dave Prival,Y,0.09,Y,N,,1
+012,13-May-2015,Dave Prival,Y,0.01,Y,N,,1
+103,13-May-2015,James Borgmeyer,Y,0.55,Y,N,,1
+112,13-May-2015,Amanda Scheib,Y,0.00,N,N,,1
+117,13-May-2015,Jeff Valentine,Y,0.34,Y,N,,1
+010,14-May-2015,Dave Prival,Y,0.03,Y,N,,1
+102,14-May-2015,Cynthia Furman,Y,0.00,N,N,,1
+104,14-May-2015,Cynthia Furman,Y,0.00,Y,N,A few dried bugs inside,1
+118,14-May-2015,Jeff Valentine,Y,0.28,Y,N,,1
+006,16-May-2015,Wayne Ball,Y,0.00,N,N,,1
+101,16-May-2015,Jay Meyers,Y,0.00,N,N,,1
+102,17-May-2015,Dave Prival,Y,0.49,Y,N,,1
+103,17-May-2015,Dave Prival,Y,0.00,N,N,,1
+101,18-May-2015,Dave Prival,Y,0.17,Y,N,,1
+115,18-May-2015,Craig Himmelwright,Y,0.05,Y,N,,1
+104,19-May-2015,Dave Prival,Y,0.04,Y,N,,1
+107,19-May-2015,Dave Prival,Y,0.03,Y,N,,1
+003,20-May-2015,Lori Rose,Y,0.00,N,N,,1
+112,20-May-2015,Dave Prival,Y,0.02,Y,N,,1
+010,21-May-2015,Lori Rose,Y,0.00,Y,N,Emptied bugs,1
+012,21-May-2015,Lori Rose,Y,0.00,Y,N,Emptied bugs,1
+117,21-May-2015,Dave Prival,Y,0.00,N,N,,1
+118,21-May-2015,Dave Prival,Y,0.02,Y,N,,1
+008,24-May-2015,Jay Meyers,Y,0.00,N,N,,1
+102,24-May-2015,Dave Prival,Y,0.02,Y,N,,1
+103,24-May-2015,Dave Prival,Y,0.02,Y,N,,1
+101,25-May-2015,Dave Prival,Y,0.01,Y,N,,1
+104,25-May-2015,Dave Prival,Y,0.00,N,N,,1
+006,26-May-2015,Lori Rose,Y,0.00,N,N,,1
+001,27-May-2015,Lori Rose,Y,0.00,N,N,,1
+003,27-May-2015,Lori Rose,Y,0.00,N,N,,1
+012,27-May-2015,Geo Keyes,Y,0.04,Y,N,N/a,1
+112,27-May-2015,Dave Prival,Y,0.00,N,N,,1
+118,27-May-2015,Dave Prival,Y,0.00,N,N,,1
+010,28-May-2015,Jeff Valentine,Y,0.10,Y,N,,1
+107,28-May-2015,Dave Prival,Y,0.00,N,N,,1
+115,28-May-2015,Dave Prival,Y,0.00,N,N,,1
+117,28-May-2015,Dave Prival,Y,0.02,Y,N,,1
+107,28-Jun-2015,Imogen Daly,Y,0.00,N,N,,1
+101,29-Jun-2015,Imogen Daly,Y,0.00,N,N,,1
+104,29-Jun-2015,Imogen Daly,Y,0.00,N,N,,1
+102,30-Jun-2015,Imogen Daly,Y,0.70,Y,N,,1
+103,30-Jun-2015,Imogen Daly,Y,0.00,N,N,,1
+117,1-Jul-2015,Nicole Stephens,Y,0.20,Y,N,,1
+118,1-Jul-2015,Imogen Daly,Y,0.50,Y,N,,1
+001,6-Jul-2015,Lori Rose,Y,0.27,Y,N,,1
+004,6-Jul-2015,Lori Rose,Y,0.17,Y,N,,1
+006,6-Jul-2015,Lori Rose,Y,0.18,Y,N,,1
+104,6-Jul-2015,Nicole Stephens,Y,0.16,Y,N,,1
+115,6-Jul-2015,James Borgmeyer,Y,0.80,Y,N,,1
+008,7-Jul-2015,Lori Rose,Y,0.10,Y,N,,1
+101,7-Jul-2015,Nicole Stephens,Y,0.39,Y,N,,1
+102,7-Jul-2015,Nicole Stephens,Y,0.25,Y,N,,1
+112,7-Jul-2015,James Borgmeyer,Y,0.88,Y,N,,1
+117,7-Jul-2015,James Borgmeyer,Y,0.85,Y,N,,1
+118,7-Jul-2015,Nicole Stephens,Y,0.36,Y,N,,1
+010,8-Jul-2015,Lori Rose,Y,0.01,Y,N,,1
+012,8-Jul-2015,Lori Rose,Y,0.02,Y,N,,1
+103,8-Jul-2015,Nicole Stephens,Y,0.50,Y,N,,1
+003,9-Jul-2015,Lori Rose,Y,0.15,Y,N,,1
+107,9-Jul-2015,Nicole Stephens,Y,0.58,Y,N,,1
+010,12-Jul-2015,Jeff Valentine,Y,0.00,N,N,,1
+012,12-Jul-2015,Jeff Valentine,Y,0.00,N,N,,1
+107,12-Jul-2015,James Borgmeyer,Y,0.00,N,N,,1
+112,12-Jul-2015,Nicole Stephens,Y,0.12,Y,N,,1
+115,12-Jul-2015,Nicole Stephens,Y,0.26,Y,N,,1
+117,12-Jul-2015,Nicole Stephens,Y,0.05,Y,N,,1
+008,13-Jul-2015,Jeff Valentine,Y,0.00,N,N,,1
+102,13-Jul-2015,James Borgmeyer,Y,0.00,N,N,,1
+104,13-Jul-2015,James Borgmeyer,Y,0.28,Y,N,,1
+118,13-Jul-2015,Nicole Stephens,Y,0.02,Y,N,,1
+003,14-Jul-2015,Jeff Valentine,Y,0.00,N,N,,1
+101,14-Jul-2015,Nicole Stephens,Y,0.00,N,N,,1
+103,14-Jul-2015,Nicole Stephens,Y,0.00,N,N,,1
+004,15-Jul-2015,Jeff Valentine,Y,0.07,Y,N,,1
+006,15-Jul-2015,Jeff Valentine,Y,0.30,Y,N,,1
+001,16-Jul-2015,Jeff Valentine,Y,0.00,N,N,,1
+010,19-Jul-2015,TG Jackson,Y,0.10,Y,Y,,1
+012,19-Jul-2015,TG Jackson,Y,0.08,Y,Y,,1
+107,19-Jul-2015,Brian Cohn,Y,0.06,Y,N,,1
+008,20-Jul-2015,TG Jackson,Y,0.06,Y,Y,,1
+101,20-Jul-2015,Brian Cohn,Y,0.08,Y,N,,1
+102,20-Jul-2015,Imogen Daly,Y,0.10,Y,N,,1
+104,20-Jul-2015,Imogen Daly,Y,0.10,Y,N,,1
+001,21-Jul-2015,TG Jackson,Y,0.08,Y,Y,,1
+003,21-Jul-2015,TG Jackson,Y,0.08,Y,Y,,1
+112,21-Jul-2015,Brian Cohn,Y,0.24,Y,N,,1
+115,21-Jul-2015,Imogen Daly,Y,0.16,Y,N,,1
+004,22-Jul-2015,TG Jackson,Y,0.08,Y,Y,,1
+117,22-Jul-2015,Brian Cohn,Y,0.11,Y,N,,1
+118,22-Jul-2015,Brian Cohn,Y,0.07,Y,N,,1
+006,23-Jul-2015,TG Jackson,Y,1.20,Y,Y,,1
+010,28-Jul-2015,Lori Rose,Y,0.16,Y,N,,1
+012,28-Jul-2015,Lori Rose,Y,0.02,Y,N,,1
+Pen,30-Jul-2015,John Hillman,Y,0.07,Y,N,,1
+Pen,1-Aug-2015,John Hillman,Y,0.20,Y,N,,1
+004,2-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+004,2-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+006,2-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+008,2-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+001,3-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+107,3-Aug-2015,Jeff Valentine,Y,1.43,Y,N,],1
+010,4-Aug-2015,Jay Meyers,Y,0.03,Y,N,,1
+012,4-Aug-2015,Jay Meyers,Y,0.06,Y,N,,1
+101,5-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+104,5-Aug-2015,Jeff Valentine,Y,0.12,Y,N,,1
+112,5-Aug-2015,Geo Keyes,Y,0.42,Y,N,,1
+115,5-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+102,6-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+103,6-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+117,6-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+118,6-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+003,9-Aug-2015,Jay Meyers,Y,0.02,Y,N,,1
+004,9-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+006,9-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+008,9-Aug-2015,Geo Keyes,Y,0.07,Y,N,,1
+001,10-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+104,10-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+107,10-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+117,10-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+118,10-Aug-2015,Jeff Valentine,Y,0.02,Y,N,,1
+010,11-Aug-2015,Geo Keyes,Y,0.15,Y,N,,1
+012,11-Aug-2015,Geo Keyes,Y,0.03,Y,N,,1
+101,11-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+102,11-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+112,11-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+115,11-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+103,12-Aug-2015,Geo Keyes,Y,0.00,N,N,,1
+Pen,15-Aug-2015,John Hillman,Y,0.03,Y,N,,1
+004,16-Aug-2015,Lori Rose,Y,0.07,Y,N,,1
+006,16-Aug-2015,Lori Rose,Y,0.08,Y,N,,1
+107,16-Aug-2015,Jeff Valentine,Y,0.05,Y,N,,1
+101,17-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+102,17-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+115,17-Aug-2015,Jay Meyers,Y,0.09,Y,N,,1
+117,17-Aug-2015,Jay Meyers,Y,0.04,Y,N,,1
+118,17-Aug-2015,Jay Meyers,Y,0.03,Y,N,,1
+003,18-Aug-2015,Jay Meyers,Y,0.13,Y,N,,1
+104,18-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+112,18-Aug-2015,Jay Meyers,Y,0.01,Y,N,,1
+001,19-Aug-2015,Nicole Stephens,Y,0.14,Y,N,,1
+008,19-Aug-2015,Lori Rose,Y,0.03,Y,N,,1
+103,19-Aug-2015,Jay Meyers,Y,0.00,N,N,,1
+010,20-Aug-2015,Lori Rose,Y,0.05,Y,N,,1
+012,20-Aug-2015,Lori Rose,Y,0.02,Y,N,,1
+004,26-Aug-2015,Imogen Daly,Y,1.00,Y,N,,1
+006,26-Aug-2015,Imogen Daly,Y,0.80,Y,N,,1
+001,27-Aug-2015,Brian Cohn,Y,0.12,Y,N,,1
+008,30-Aug-2015,James Borgmeyer,Y,0.07,Y,N,,1
+107,30-Aug-2015,Jeff Valentine,Y,0.68,Y,N,,1
+118,30-Aug-2015,Lori Rose,Y,0.01,Y,N,,1
+010,31-Aug-2015,James Borgmeyer,Y,0.00,N,N,,1
+012,31-Aug-2015,James Borgmeyer,Y,0.00,N,N,,1
+101,31-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+104,31-Aug-2015,Jeff Valentine,Y,0.00,N,N,,1
+112,31-Aug-2015,Lori Rose,Y,0.03,Y,N,,1
+115,31-Aug-2015,Lori Rose,Y,0.02,Y,N,,1
+117,31-Aug-2015,Lori Rose,Y,0.01,Y,N,,1
+001,1-Sep-2015,James Borgmeyer,Y,0.00,N,N,,0
+003,1-Sep-2015,James Borgmeyer,Y,0.10,Y,N,,0
+102,1-Sep-2015,Jeff Valentine,Y,0.00,N,N,,0
+103,1-Sep-2015,Jeff Valentine,Y,0.00,N,N,,0
+004,2-Sep-2015,Lori Rose,Y,0.00,N,N,,0
+006,3-Sep-2015,Lori Rose,Y,0.04,Y,N,,0
+010,10-Sep-2015,Dave Prival,Y,0.00,N,N,,0
+012,10-Sep-2015,Dave Prival,Y,0.00,N,N,,0
+008,14-Sep-2015,Dave Prival,Y,0.06,Y,N,,0
+003,15-Sep-2015,Dave Prival,Y,0.07,Y,N,,0
+001,16-Sep-2015,Dave Prival,Y,0.17,Y,N,,0
+010,20-Sep-2015,James Borgmeyer,Y,0.19,Y,N,,0
+012,20-Sep-2015,James Borgmeyer,Y,0.20,Y,N,,0
+104,20-Sep-2015,Max Havelka,Y,0.10,Y,N,,0
+115,20-Sep-2015,Dave Prival,Y,0.09,Y,N,,0
+001,21-Sep-2015,James Borgmeyer,Y,0.00,N,N,,0
+003,21-Sep-2015,Jay Meyers,Y,0.09,Y,N,,0
+008,21-Sep-2015,James Borgmeyer,Y,0.16,Y,N,,0
+112,21-Sep-2015,Dave Prival,Y,0.03,Y,N,,0
+117,21-Sep-2015,Dave Prival,Y,0.03,Y,N,,0
+102,22-Sep-2015,Dave Prival,Y,0.11,Y,N,,0
+103,22-Sep-2015,Dave Prival,Y,0.05,Y,N,,0
+118,22-Sep-2015,Dave Prival,Y,0.02,Y,N,,0
+004,23-Sep-2015,Laura Pavliscak,Y,0.11,Y,N,,0
+006,23-Sep-2015,Laura Pavliscak,Y,0.22,Y,N,,0
+101,23-Sep-2015,Dave Prival,Y,0.07,Y,N,,0
+104,23-Sep-2015,Dave Prival,Y,0.00,N,N,,0
+008,24-Sep-2015,Geo Keyes,Y,0.00,N,N,,0
+107,24-Sep-2015,Dave Prival,Y,0.10,Y,N,,0
+003,4-Oct-2015,Geo Keyes,Y,0.00,N,N,,0
+104,6-Oct-2015,Jeff Valentine,Y,0.57,Y,N,,0
+Pen,6-Oct-2015,John Hillman,Y,0.51,Y,N,,0
+008,7-Oct-2015,Geo Keyes,Y,0.57,Y,N,,0
+101,7-Oct-2015,Jeff Valentine,Y,0.36,Y,N,,0
+102,7-Oct-2015,Jeff Valentine,Y,0.56,Y,N,,0
+103,7-Oct-2015,Jeff Valentine,Y,0.49,Y,N,,0
+001,8-Oct-2015,James Borgmeyer,Y,0.34,Y,N,,0
+004,8-Oct-2015,Geo Keyes,Y,0.37,Y,N,,0
+006,8-Oct-2015,Geo Keyes,Y,0.26,Y,N,,0
+010,8-Oct-2015,Jeff Valentine,Y,0.48,Y,N,,0
+012,8-Oct-2015,Jay Meyers,Y,0.62,Y,N,,0
+004,11-Oct-2015,Jay Meyers,Y,0.00,N,N,,0
+006,11-Oct-2015,Jay Meyers,Y,0.00,N,N,,0
+107,12-Oct-2015,Jay Meyers,Y,0.62,Y,N,,0
+117,12-Oct-2015,Jeff Valentine,Y,0.29,Y,N,,0
+118,12-Oct-2015,Jeff Valentine,Y,0.31,Y,N,,0
+112,14-Oct-2015,Jeff Valentine,Y,0.50,Y,N,,0
+115,15-Oct-2015,Jeff Valentine,Y,0.31,Y,N,,0
+001,18-Oct-2015,Jay Meyers,Y,0.26,Y,N,Raining,0
+003,18-Oct-2015,Jay Meyers,Y,0.73,Y,N,Raining,0
+003,18-Oct-2015,Geo Keyes,Y,0.40,Y,N,,0
+Pen,18-Oct-2015,John Hillman,Y,0.41,Y,N,,0
+008,19-Oct-2015,Jay Meyers,Y,0.57,Y,N,,0
+117,19-Oct-2015,Jeff Valentine,Y,0.48,Y,N,,0
+118,19-Oct-2015,Jeff Valentine,Y,0.48,Y,N,,0
+Pen,19-Oct-2015,John Hillman,Y,0.18,Y,N,,0
+010,20-Oct-2015,Jay Meyers,Y,0.91,Y,N,,0
+012,20-Oct-2015,Jay Meyers,Y,1.10,Y,N,,0
+101,20-Oct-2015,Geo Keyes,Y,0.68,Y,N,,0
+102,20-Oct-2015,Geo Keyes,Y,0.61,Y,N,,0
+104,20-Oct-2015,Geo Keyes,Y,0.71,Y,N,,0
+103,21-Oct-2015,Jay Meyers,Y,0.39,Y,N,,0
+107,21-Oct-2015,Geo Keyes,Y,0.78,Y,N,,0
+112,21-Oct-2015,Jeff Valentine,Y,0.53,Y,N,,0
+115,21-Oct-2015,Jeff Valentine,Y,0.49,Y,N,,0
+006,25-Oct-2015,Geo Keyes,Y,0.30,Y,N,,0
+010,25-Oct-2015,James Borgmeyer,Y,0.00,N,N,,0
+012,25-Oct-2015,James Borgmeyer,Y,0.00,N,N,,0
+008,26-Oct-2015,James Borgmeyer,Y,0.00,N,N,,0
+004,27-Oct-2015,James Borgmeyer,Y,0.09,Y,N,,0
+006,27-Oct-2015,James Borgmeyer,Y,0.16,Y,N,,0
+003,28-Oct-2015,James Borgmeyer,Y,0.05,Y,N,,0
+112,28-Oct-2015,Craig Himmelwright,Y,0.00,N,N,,0
+115,28-Oct-2015,Craig Himmelwright,Y,0.00,N,N,,0
+001,29-Oct-2015,James Borgmeyer,Y,0.04,Y,N,,0
+117,29-Oct-2015,Craig Himmelwright,Y,0.00,N,N,,0
+118,29-Oct-2015,Craig Himmelwright,Y,0.00,N,N,,0
+107,8-Nov-2015,James Borgmeyer,Y,0.17,Y,N,,0
+112,8-Nov-2015,Craig Himmelwright,Y,0.12,Y,N,,0
+115,8-Nov-2015,Craig Himmelwright,Y,0.16,Y,N,,0
+102,9-Nov-2015,James Borgmeyer,Y,0.18,Y,N,,0
+104,9-Nov-2015,James Borgmeyer,Y,0.05,Y,N,,0
+117,9-Nov-2015,Craig Himmelwright,Y,0.18,Y,N,,0
+101,10-Nov-2015,James Borgmeyer,Y,0.18,Y,N,,0
+103,10-Nov-2015,James Borgmeyer,Y,0.20,Y,N,,0
+118,11-Nov-2015,James Borgmeyer,Y,0.20,Y,N,,0
+102,17-Nov-2015,Craig Himmelwright,Y,0.14,Y,N,,0
+103,17-Nov-2015,Craig Himmelwright,Y,0.13,Y,N,,0
+115,18-Nov-2015,Jeff Valentine,Y,0.11,Y,N,,0
+107,19-Nov-2015,Craig Himmelwright,Y,0.16,Y,N,,0
+112,19-Nov-2015,Jeff Valentine,Y,0.11,Y,N,,0
+117,19-Nov-2015,Jeff Valentine,Y,0.08,Y,N,,0
+118,19-Nov-2015,Jeff Valentine,Y,0.08,Y,N,,0
+004,22-Nov-2015,Jeff Valentine,Y,0.20,Y,N,,0
+006,22-Nov-2015,Jeff Valentine,Y,0.25,Y,N,,0
+008,23-Nov-2015,Jeff Valentine,Y,0.22,Y,N,,0
+010,24-Nov-2015,Jeff Valentine,Y,0.24,Y,N,,0
+012,24-Nov-2015,Jeff Valentine,Y,0.27,Y,N,,0
+003,25-Nov-2015,Jeff Valentine,Y,0.16,Y,N,,0
+001,26-Nov-2015,Jeff Valentine,Y,0.03,Y,N,,0
+Pen,28-Nov-2015,John Hillman,Y,0.09,Y,N,Not emptied for a long time.  Not sure when water collected.,0
+101,14-Dec-2015,Geo Keyes,Y,0.09,Y,N,,0
+103,14-Dec-2015,Geo Keyes,Y,0.09,Y,N,,0
+104,14-Dec-2015,Geo Keyes,Y,0.10,Y,N,,0
+107,14-Dec-2015,Craig Himmelwright,Y,0.19,Y,N,,0
+112,16-Dec-2015,Geo Keyes,Y,0.10,Y,N,,0
+115,16-Dec-2015,Geo Keyes,Y,0.10,Y,N,,0
+117,16-Dec-2015,Geo Keyes,Y,0.05,Y,N,,0
+118,17-Dec-2015,Geo Keyes,Y,0.04,Y,N,,0
+Pen,20-Dec-2015,John Hillman,Y,0.04,Y,N,,0
+107,10-Jan-2016,Jeff Valentine,Y,0.78,Y,N,,0
+112,10-Jan-2016,James Borgmeyer,Y,0.76,Y,N,,0
+115,10-Jan-2016,James Borgmeyer,Y,0.55,Y,N,,0
+101,11-Jan-2016,Jeff Valentine,Y,0.57,Y,N,,0
+104,11-Jan-2016,Jeff Valentine,Y,0.51,Y,N,,0
+102,13-Jan-2016,Jeff Valentine,Y,0.43,Y,N,,0
+103,13-Jan-2016,Jeff Valentine,Y,0.43,Y,N,,0
+118,13-Jan-2016,Jeff Valentine,Y,0.52,Y,N,,0
+117,14-Jan-2016,Jeff Valentine,Y,0.49,Y,N,,0
+006,17-Jan-2016,Jeff Valentine,Y,0.59,Y,N,,0
+004,18-Jan-2016,Jeff Valentine,Y,0.54,Y,N,,0
+010,18-Jan-2016,Nicole Stephens,Y,0.87,Y,N,,0
+012,18-Jan-2016,Nicole Stephens,Y,0.95,Y,N,,0
+008,19-Jan-2016,Jeff Valentine,Y,0.66,Y,N,,0
+001,20-Jan-2016,Jeff Valentine,Y,0.52,Y,N,,0
+003,20-Jan-2016,Jeff Valentine,Y,0.61,Y,N,,0
+101,24-Jan-2016,Geo Keyes,Y,0.08,Y,N,,0
+102,24-Jan-2016,Geo Keyes,Y,0.08,Y,N,,0
+103,24-Jan-2016,Geo Keyes,Y,0.06,Y,N,,0
+112,24-Jan-2016,James Borgmeyer,Y,0.18,Y,N,,0
+115,24-Jan-2016,James Borgmeyer,Y,0.15,Y,N,,0
+104,25-Jan-2016,Geo Keyes,Y,0.16,Y,N,,0
+107,26-Jan-2016,Geo Keyes,Y,0.28,Y,N,,0
+118,28-Jan-2016,Geo Keyes,Y,0.06,Y,N,,0
+004,31-Jan-2016,Geo Keyes,Y,0.12,Y,N,,0
+006,31-Jan-2016,Geo Keyes,Y,0.10,Y,N,,0
+Pen,31-Jan-2016,John Hillman,Y,0.05,Y,N,,0
+003,2-Feb-2016,Geo Keyes,Y,0.00,Y,N,,0
+008,2-Feb-2016,Geo Keyes,Y,0.13,Y,N,,0
+010,3-Feb-2016,Geo Keyes,Y,0.12,Y,N,,0
+012,3-Feb-2016,Geo Keyes,Y,0.12,Y,N,,0
+001,4-Feb-2016,Geo Keyes,Y,0.00,Y,N,,0
+101,7-Feb-2016,Geo Keyes,Y,0.05,Y,N,,0
+102,7-Feb-2016,Geo Keyes,Y,0.05,Y,N,,0
+103,7-Feb-2016,Geo Keyes,Y,0.06,Y,N,,0
+104,8-Feb-2016,Geo Keyes,Y,0.04,Y,N,,0
+112,8-Feb-2016,Craig Himmelwright,Y,0.04,Y,N,,0
+115,8-Feb-2016,Craig Himmelwright,Y,0.03,Y,N,,0
+107,10-Feb-2016,Geo Keyes,Y,0.03,Y,N,Found without lid,0
+117,10-Feb-2016,Geo Keyes,Y,0.00,N,N,,0
+118,11-Feb-2016,Geo Keyes,Y,0.02,Y,N,,0
+008,21-Feb-2016,Nicole Stephens,Y,0.06,Y,N,Funnel filled with bird poop.,0
+107,21-Feb-2016,Jeff Valentine,Y,0.27,Y,N,,0
+112,21-Feb-2016,Craig Himmelwright,Y,0.14,Y,N,,0
+115,21-Feb-2016,Craig Himmelwright,Y,0.10,Y,N,,0
+003,22-Feb-2016,Nicole Stephens,Y,0.06,Y,N,,0
+117,22-Feb-2016,Craig Himmelwright,Y,0.07,Y,N,,0
+004,23-Feb-2016,Nicole Stephens,Y,0.08,Y,N,,0
+006,23-Feb-2016,Nicole Stephens,Y,0.09,Y,N,,0
+101,23-Feb-2016,Jeff Valentine,Y,0.20,Y,N,,0
+102,23-Feb-2016,Jeff Valentine,Y,0.16,Y,N,,0
+104,23-Feb-2016,Jeff Valentine,Y,0.24,Y,N,,0
+010,24-Feb-2016,Nicole Stephens,Y,0.03,Y,Y,,0
+012,24-Feb-2016,Nicole Stephens,Y,0.05,Y,N,,0
+118,24-Feb-2016,Jeff Valentine,Y,0.09,Y,N,,0
+001,25-Feb-2016,Nicole Stephens,Y,0.02,Y,N,Possibly mostly...bird droppings,0
+008,6-Mar-2016,Shawn Lindey,Y,0.05,Y,N,,0
+101,6-Mar-2016,Jeff Valentine,Y,0.03,Y,N,,0
+004,7-Mar-2016,Jeff Valentine,Y,0.00,N,N,,0
+006,7-Mar-2016,Shawn Lindey,Y,0.10,Y,N,,0
+010,7-Mar-2016,Jeff Valentine,Y,0.00,N,N,,0
+104,7-Mar-2016,Nicole Stephens,Y,0.07,Y,N,,0
+107,7-Mar-2016,Nicole Stephens,Y,0.17,Y,N,,0
+107,7-Mar-2016,Jeff Valentine,Y,0.05,Y,N,,0
+115,7-Mar-2016,Jeff Valentine,Y,0.03,Y,N,,0
+115,7-Mar-2016,James Borgmeyer,Y,0.02,Y,N,,0
+Pen,7-Mar-2016,John Hillman,Y,0.03,Y,N,,0
+001,8-Mar-2016,Shawn Lindey,Y,0.07,Y,N,,0
+112,8-Mar-2016,James Borgmeyer,Y,0.10,Y,N,,0
+117,8-Mar-2016,James Borgmeyer,Y,0.03,Y,N,,0
+Pen,8-Mar-2016,John Hillman,Y,0.03,Y,N,,0
+003,9-Mar-2016,Shawn Lindey,Y,0.05,Y,N,,0
+102,9-Mar-2016,Jeff Valentine,Y,0.02,Y,N,,0
+103,9-Mar-2016,Jeff Valentine,Y,0.01,Y,N,,0
+012,10-Mar-2016,Shawn Lindey,Y,0.00,N,N,Full of dead native bees,0
+118,10-Mar-2016,Jeff Valentine,Y,0.02,Y,N,,0
+Pen,12-Mar-2016,John Hillman,Y,0.10,Y,N,,0
+101,13-Mar-2016,Imogen Daly,Y,0.00,Y,N,,0
+102,13-Mar-2016,Imogen Daly,Y,0.00,Y,N,,0
+103,13-Mar-2016,Brian Cohn,Y,0.00,N,N,,0
+112,14-Mar-2016,Brian Cohn,Y,0.16,Y,N,,0
+115,14-Mar-2016,Brian Cohn,Y,0.07,Y,N,,0
+001,15-Mar-2016,Imogen Daly,Y,0.00,Y,N,,0
+104,15-Mar-2016,Brian Cohn,Y,0.07,Y,N,,0
+117,15-Mar-2016,Brian Cohn,Y,0.02,Y,N,,0
+118,15-Mar-2016,Brian Cohn,Y,0.02,Y,N,,0
+003,16-Mar-2016,Brian Cohn,Y,0.00,N,N,,0
+004,16-Mar-2016,Imogen Daly,Y,0.50,Y,N,,0
+006,16-Mar-2016,Imogen Daly,Y,0.14,Y,N,,0
+010,17-Mar-2016,Brian Cohn,Y,0.00,N,N,,0
+012,17-Mar-2016,Imogen Daly,Y,0.00,Y,N,,0
+107,10-Apr-2016,Jeff Valentine,Y,0.98,Y,N,Funnel on ground,0
+Pen,10-Apr-2016,Wayne Ball,Y,0.85,Y,N,"RAIN FELL 8th,9th,10th.",0
+010,11-Apr-2016,Geo Keyes,Y,1.00,Y,N,,0
+012,11-Apr-2016,Geo Keyes,Y,1.10,Y,N,,0
+112,11-Apr-2016,Jay Meyers,Y,1.11,Y,N,Checked prior to afternoon storm.,0
+117,11-Apr-2016,Jay Meyers,Y,0.93,Y,N,Checked prior to afternoon storm.,0
+118,11-Apr-2016,Jay Meyers,Y,0.95,Y,N,Checked prior to afternoon storm.,0
+004,12-Apr-2016,Geo Keyes,Y,0.92,Y,N,,0
+006,12-Apr-2016,Geo Keyes,Y,1.09,Y,N,,0
+101,12-Apr-2016,Jeff Valentine,Y,1.02,Y,N,,0
+104,12-Apr-2016,Jeff Valentine,Y,1.38,Y,N,,0
+003,13-Apr-2016,Geo Keyes,Y,0.81,Y,N,,0
+008,13-Apr-2016,Geo Keyes,Y,0.86,Y,N,,0
+102,13-Apr-2016,Jeff Valentine,Y,0.99,Y,N,,0
+103,13-Apr-2016,Jeff Valentine,Y,0.49,Y,N,Funnel on ground,0
+001,14-Apr-2016,Geo Keyes,Y,0.76,Y,N,,0
+010,17-Apr-2016,Nicole Stephens,Y,0.00,N,N,,0
+012,17-Apr-2016,Nicole Stephens,Y,0.00,N,N,,0
+003,18-Apr-2016,Jeff Valentine,Y,0.00,N,N,,0
+004,18-Apr-2016,Jeff Valentine,Y,0.00,N,N,,0
+006,18-Apr-2016,Jeff Valentine,Y,0.00,N,N,,0
+107,18-Apr-2016,Craig Himmelwright,Y,0.33,Y,N,,0
+001,19-Apr-2016,Jeff Valentine,Y,0.00,N,N,,0
+003,25-Apr-2016,TG Jackson,Y,0.01,Y,N,,0
+004,25-Apr-2016,Lori Rose,Y,0.01,Y,N,,0
+012,25-Apr-2016,Lori Rose,Y,0.02,Y,N,,0
+101,25-Apr-2016,Lori Rose,Y,0.29,Y,N,,0
+107,25-Apr-2016,Lori Rose,Y,0.24,Y,N,,0
+112,25-Apr-2016,Jacquelyn Smith,Y,0.33,Y,N,,0
+115,25-Apr-2016,Lori Rose,Y,0.05,Y,N,,0
+Pen,25-Apr-2016,John Hillman,Y,0.14,Y,N,,0
+001,26-Apr-2016,TG Jackson,Y,0.02,Y,N,,0
+008,26-Apr-2016,TG Jackson,Y,0.00,N,N,,0
+006,27-Apr-2016,TG Jackson,Y,0.00,N,N,,0
+012,27-Apr-2016,TG Jackson,Y,0.00,N,N,,0
+104,27-Apr-2016,Nicole Stephens,Y,0.11,Y,N,,0
+117,27-Apr-2016,Jacquelyn Smith,Y,0.36,Y,N,,0
+118,27-Apr-2016,Jacquelyn Smith,Y,0.56,Y,N,,0
+102,28-Apr-2016,Nicole Stephens,Y,0.27,Y,N,,0
+103,28-Apr-2016,Jacquelyn Smith,Y,0.18,Y,N,,0
+102,1-May-2016,Dave Prival,Y,0.53,Y,N,,0
+103,1-May-2016,Dave Prival,Y,0.49,Y,N,,0
+112,1-May-2016,La Deana Jeane,Y,0.46,Y,N,,0
+010,2-May-2016,James Borgmeyer,Y,0.48,Y,N,,0
+012,2-May-2016,James Borgmeyer,Y,0.45,Y,N,,0
+101,2-May-2016,Dave Prival,Y,0.77,Y,N,,0
+104,2-May-2016,Dave Prival,Y,0.62,Y,N,,0
+115,2-May-2016,La Deana Jeane,Y,0.43,Y,N,,0
+001,3-May-2016,La Deana Jeane,Y,0.52,Y,N,,0
+008,3-May-2016,James Borgmeyer,Y,0.35,Y,N,,0
+107,3-May-2016,Dave Prival,Y,0.35,Y,N,,0
+004,4-May-2016,James Borgmeyer,Y,0.46,Y,N,,0
+006,4-May-2016,James Borgmeyer,Y,0.40,Y,N,,0
+112,4-May-2016,Dave Prival,Y,0.00,N,N,,0
+117,4-May-2016,Dave Prival,Y,0.54,Y,N,,0
+003,5-May-2016,James Borgmeyer,Y,0.47,Y,N,,0
+118,5-May-2016,Dave Prival,Y,0.48,Y,N,,0
+001,8-May-2016,La Deana Jeane,Y,0.11,Y,N,,0
+103,8-May-2016,Dave Prival,Y,0.16,Y,N,,0
+107,8-May-2016,Dave Prival,Y,0.02,Y,N,,0
+003,9-May-2016,La Deana Jeane,Y,0.12,Y,N,,0
+004,9-May-2016,La Deana Jeane,Y,0.24,Y,N,,0
+101,9-May-2016,Dave Prival,Y,0.22,Y,N,,0
+102,9-May-2016,Dave Prival,Y,0.23,Y,N,,0
+112,9-May-2016,James Borgmeyer,Y,0.05,Y,N,,0
+008,10-May-2016,La Deana Jeane,Y,0.26,Y,N,,0
+104,10-May-2016,Dave Prival,Y,0.07,Y,N,,0
+006,11-May-2016,La Deana Jeane,Y,0.24,Y,N,,0
+115,11-May-2016,Dave Prival,Y,0.08,Y,N,,0
+010,12-May-2016,La Deana Jeane,Y,0.28,Y,N,,0
+012,12-May-2016,La Deana Jeane,Y,0.14,Y,N,,0
+117,12-May-2016,Dave Prival,Y,0.08,Y,N,,0
+118,12-May-2016,Dave Prival,Y,0.01,Y,N,,0
+115,26-May-2016,Dave Prival,Y,0.01,Y,N,,0
+117,26-May-2016,Dave Prival,Y,0.02,Y,N,,0
+Pen,26-May-2016,John Hillman,Y,0.02,Y,N,,0
+004,29-May-2016,Nicole Stephens,Y,0.00,N,N,,0
+006,29-May-2016,Nicole Stephens,Y,0.00,N,N,,0
+101,29-May-2016,Geo Keyes,Y,0.00,N,N,,0
+112,29-May-2016,Jeff Valentine,Y,0.00,N,N,,0
+003,30-May-2016,Nicole Stephens,Y,0.06,Y,N,,0
+008,30-May-2016,Nicole Stephens,Y,0.07,N,N,,0
+102,30-May-2016,Geo Keyes,Y,0.00,N,N,,0
+001,31-May-2016,La Deana Jeane,Y,0.00,N,N,,0
+103,31-May-2016,Geo Keyes,Y,0.00,N,N,,0
+104,31-May-2016,Geo Keyes,Y,0.00,N,N,,0
+115,31-May-2016,Jeff Valentine,Y,0.00,N,N,,0
+117,31-May-2016,Jeff Valentine,Y,0.00,N,N,,0
+107,1-Jun-2016,Geo Keyes,Y,0.00,N,N,,0
+118,2-Jun-2016,Jeff Valentine,Y,0.00,N,N,,0
+Pen,11-Jun-2016,John Hillman,Y,0.08,Y,N,,0
+101,3-Jul-2016,Shawn Lindey,Y,1.40,Y,N,,0
+102,3-Jul-2016,Shawn Lindey,Y,1.65,Y,N,,0
+107,3-Jul-2016,Brian Cohn,Y,0.50,Y,N,,0
+008,4-Jul-2016,Shawn Lindey,Y,0.10,Y,N,,0
+117,4-Jul-2016,Brian Cohn,Y,0.07,Y,N,,0
+118,4-Jul-2016,Brian Cohn,Y,0.18,Y,N,,0
+004,5-Jul-2016,Shawn Lindey,Y,0.17,Y,N,,0
+006,5-Jul-2016,Shawn Lindey,Y,0.08,Y,N,,0
+112,5-Jul-2016,Brian Cohn,Y,0.22,Y,N,,0
+115,5-Jul-2016,Brian Cohn,Y,0.01,Y,N,,0
+003,6-Jul-2016,Shawn Lindey,Y,0.23,Y,N,,0
+103,6-Jul-2016,Brian Cohn,Y,1.72,Y,N,,0
+104,6-Jul-2016,Brian Cohn,Y,1.02,Y,N,,0
+001,7-Jul-2016,Shawn Lindey,Y,0.17,Y,N,,0
+Pen,28-Jul-2016,John Hillman,Y,0.01,Y,N,,0
+101,2-Aug-2016,Jeff Valentine,Y,0.12,Y,N,,0
+112,3-Aug-2016,Jay Meyers,Y,0.09,Y,N,,0
+115,3-Aug-2016,Jay Meyers,Y,0.00,N,N,,0
+102,4-Aug-2016,Jeff Valentine,Y,0.31,Y,N,,0
+103,4-Aug-2016,Jeff Valentine,Y,0.23,Y,N,Inner cylinder cracked-leaks; needs to be replaced,0
+Pen,5-Aug-2016,John Hillman,Y,0.43,Y,N,,0
+004,7-Aug-2016,Jay Meyers,Y,0.30,Y,N,,0
+006,7-Aug-2016,Jay Meyers,Y,0.31,Y,N,,0
+107,7-Aug-2016,Imogen Daly,Y,0.45,Y,N,,0
+117,7-Aug-2016,Geo Keyes,Y,0.16,Y,N,,0
+008,8-Aug-2016,Jay Meyers,Y,0.68,Y,N,,0
+104,8-Aug-2016,Imogen Daly,Y,0.54,Y,N,,0
+115,8-Aug-2016,Geo Keyes,Y,0.30,Y,N,,0
+112,9-Aug-2016,Geo Keyes,Y,0.15,Y,N,,0
+001,10-Aug-2016,Jay Meyers,Y,0.60,Y,N,,0
+101,10-Aug-2016,Imogen Daly,Y,0.44,Y,N,,0
+102,10-Aug-2016,Imogen Daly,Y,0.00,N,N,,0
+103,10-Aug-2016,Imogen Daly,Y,0.00,N,N,,0
+008,21-Aug-2016,Geo Keyes,Y,0.56,Y,N,,0
+104,21-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+107,21-Aug-2016,James Borgmeyer,Y,0.15,Y,N,,0
+001,22-Aug-2016,Geo Keyes,Y,0.14,Y,N,,0
+003,22-Aug-2016,Geo Keyes,Y,0.10,Y,N,,0
+101,22-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+102,22-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+004,23-Aug-2016,Geo Keyes,Y,0.14,Y,N,,0
+103,23-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+006,24-Aug-2016,Geo Keyes,Y,0.13,Y,N,,0
+115,24-Aug-2016,Lori Rose,Y,0.20,Y,N,,0
+117,25-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+118,25-Aug-2016,James Borgmeyer,Y,0.11,Y,N,,0
+Pen,27-Aug-2016,Lori Rose,Y,0.45,Y,N,,0
+101,28-Aug-2016,TG Jackson,Y,0.55,Y,N,,0
+102,28-Aug-2016,TG Jackson,Y,0.35,Y,N,,0
+104,28-Aug-2016,TG Jackson,Y,0.82,Y,N,,0
+107,28-Aug-2016,James Borgmeyer,Y,0.42,Y,N,,0
+103,29-Aug-2016,TG Jackson,Y,0.20,Y,N,,0
+115,29-Aug-2016,James Borgmeyer,Y,0.00,N,N,,0
+001,30-Aug-2016,TG Jackson,Y,0.01,Y,N,,0
+003,30-Aug-2016,TG Jackson,Y,0.00,N,N,,0
+112,30-Aug-2016,James Borgmeyer,Y,0.35,Y,N,,0
+117,30-Aug-2016,James Borgmeyer,Y,0.47,Y,N,,0
+118,31-Aug-2016,James Borgmeyer,Y,0.82,Y,N,,0
+004,1-Sep-2016,James Borgmeyer,Y,0.00,N,N,,0
+006,1-Sep-2016,James Borgmeyer,Y,0.00,N,N,,0
+008,1-Sep-2016,TG Jackson,Y,0.00,N,N,,0
+008,22-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+102,25-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+103,25-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+101,26-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+104,26-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+107,28-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+117,29-Sep-2016,Dave Prival,Y,0.02,Y,N,,0
+118,29-Sep-2016,Dave Prival,Y,0.00,N,N,,0
+103,25-Oct-2016,Jay Meyers,Y,0.50,Y,N,,0
+010,29-Oct-2016,Jeff Valentine,Y,0.48,Y,N,Rain gauge decommissioned,0
+012,29-Oct-2016,Jeff Valentine,Y,0.26,Y,N,Rain gauge decommissioned,0
+101,30-Oct-2016,Brian Cohn,Y,0.46,Y,N,,0
+102,30-Oct-2016,Brian Cohn,Y,0.53,Y,N,,0
+107,30-Oct-2016,Imogen Daly,Y,0.51,Y,N,,0
+103,31-Oct-2016,Imogen Daly,Y,0.02,Y,N,,0
+104,31-Oct-2016,Brian Cohn,Y,0.39,Y,N,,0
+001,1-Nov-2016,Imogen Daly,Y,0.31,Y,N,,0
+003,1-Nov-2016,Brian Cohn,Y,0.39,Y,N,,0
+008,1-Nov-2016,Brian Cohn,Y,0.26,Y,N,,0
+004,2-Nov-2016,Imogen Daly,Y,0.36,Y,N,,0
+006,2-Nov-2016,Imogen Daly,Y,0.35,Y,N,,0
+112,2-Nov-2016,Brian Cohn,Y,0.52,Y,N,,0
+115,2-Nov-2016,Lori Rose,Y,0.51,Y,N,,0
+117,3-Nov-2016,Imogen Daly,Y,0.57,Y,N,,0
+118,3-Nov-2016,Imogen Daly,Y,0.52,Y,N,,0
