@@ -6,38 +6,51 @@ library(ggplot2)
 library(scales)
 library(lubridate)
 setwd("E:/Projects/BrightSource_Ivanpah/data/Databases/CSVs")
-source('E:/Projects/BrightSource_Ivanpah/code/Filter Encounters.R')
+source('E:/Projects/BrightSource_Ivanpah/code/GitHub/Brightsource-master/Torts Code/Filter.Encounters.R')
 detach(package:plyr) 
 
 Totals.postShort <- Enc.postShort %>% 
   group_by(TortType2) %>% 
-  summarise(total=n_distinct(TortoiseID))
+  dplyr::summarise(total=n_distinct(TortoiseID))
 
 Totals.postLong <-  Enc.postLong %>% 
   group_by(TortType2) %>% 
-  summarise(total=n_distinct(TortoiseID))
+  dplyr::summarise(total=n_distinct(TortoiseID))
 
-which.missing <- filter(Enc.postShort,TortoiseStatus %in% c('Tracked (Missing)')) %>% 
-  join(Totals.postShort,by='TortType2') %>% 
+which.missing <- filter(Enc.postLong,TortoiseStatus %in% c('Tracked (Missing)')) %>% 
+  left_join(Totals.postLong,by='TortType2') %>% 
   group_by(TortType2) %>%
-  summarise(count=n_distinct(TortoiseID),total=first(total)) %>% 
-  mutate(proportion = count/total)
+  dplyr::summarise(count=n_distinct(TortoiseID),total=first(total)) %>% 
+  dplyr::mutate(proportion = count/total)
 
-zeros<-data.frame(c(2012,2013,2015,2012), c(0,0,0,0),c(17,17,17,35)) %>% 
+zeros.postShort<-data.frame(c(2012,2013,2015,2012), c(0,0,0,0),c(17,17,17,34)) %>% 
   mutate_each(funs(as.numeric)) %>% 
-  cbind(c('Translocatee (Long 2012)','Translocatee (Long 2012)','Translocatee (Long 2012)','Control East'))
-names(zeros)<-c('year','count','total','TortType2') 
+  cbind(c('Translocatee (2012 Long)','Translocatee (2012 Long)','Translocatee (2012 Long)','Control East'))
+names(zeros.postShort)<-c('year','count','total','TortType2')
 
-which.dead <- Mort.postShort %>% 
+zeros.postLong<-data.frame(c(2012,2013,2015,2012,2012), c(0,0,0,0,0),c(17,17,17,34,106)) %>% 
+  mutate_each(funs(as.numeric)) %>% 
+  cbind(c('Translocatee (2012 Long)','Translocatee (2012 Long)','Translocatee (2012 Long)','Control East','Control West'))
+names(zeros.postLong)<-c('year','count','total','TortType2') 
+
+which.dead.postLong <- Mort.postLong %>% 
+  full_join(Totals.postLong,by='TortType2') %>% 
+  group_by(TortType2,year) %>% 
+  dplyr::summarise(count=n_distinct(TortoiseID),total=first(total)) %>%
+  rbind.data.frame(zeros.postLong) %>% 
+  mutate(proportion=count/total) %>% 
+  filter(TortType2 != 'Translocatee (2012 Short)')
+
+which.dead.postShort <- Mort.postShort %>% 
   full_join(Totals.postShort,by='TortType2') %>% 
   group_by(TortType2,year) %>% 
-  summarise(count=n_distinct(TortoiseID),total=first(total)) %>%
-  rbind(zeros) %>% 
+  dplyr::summarise(count=n_distinct(TortoiseID),total=first(total)) %>%
+  rbind.data.frame(zeros.postShort) %>% 
   mutate(proportion=count/total) %>% 
-  filter(TortType2 != 'Translocatee (Long 2012)')
+  filter(TortType2 != 'Translocatee (2012 Long)')
 
-ggplot(which.dead, aes(x=TortType2, y=proportion, fill=TortType2)) + geom_boxplot()+
-  ylab("Annual proportion dead (2012-2015)")+xlab('Type')+theme(
+ggplot(which.dead.postShort, aes(x=TortType2, y=proportion, fill=TortType2)) + geom_boxplot()+
+  ylab("Annual proportion dead (2012-2016)")+xlab('Type')+theme(
     axis.text = element_text(size=14),
     strip.text = element_text(size = 18),
     axis.title.x = element_text(size=22),

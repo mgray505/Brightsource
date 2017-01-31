@@ -42,7 +42,7 @@ Enc.movement.means <- na.omit(ddply(filter(Enc.movement,day.diff>0), .(year, Tor
 
 # Plot the movement densities
 
-group.lookup <- data.frame(TortType2=c('ControlEast','ControlWest','Resident','Translocated Short 2012','I-15 Pen'),
+group.lookup <- data.frame(TortType2=c('Control East','Control West','Resident','Translocatee (2012 Short)','Translocatee (2012 Long)'),
                            label=c('CE','CW','RE','TS_12','TL'),
                            stringsAsFactors=FALSE)
 
@@ -70,19 +70,19 @@ Movement.plot <- dlply(Enc.movement.means, .(TortType2), function(df,fullDf=Enc.
               axis.text.x=element_blank(), 
               axis.ticks=element_blank())
   
-  if(df$TortType2[1] == 'ControlEast') {
+  if(df$TortType2[1] == 'Control East') {
     outGrob <- p1 + 
       theme(##plot.margin=unit(c(0.25,0.25,-0.15,0)-0.15, "cm"),
         strip.text = element_text(size = rel(1.5))) +
       p3
   }
-  if(df$TortType2[1] %in% c('ControlWest','Resident','I-15 Pen')) {
+  if(df$TortType2[1] %in% c('Control West','Resident','Translocatee (2012 Long)')) {
     outGrob <- p1 + 
       #       theme(plot.margin=unit(c(0.15,0,0.15,0)-0.20, "cm"),
       #             strip.text = element_text(size = rel(1.5))) +
       p2 + p3
   }
-  if(df$TortType2[1] == 'Translocated Short 2012') {
+  if(df$TortType2[1] == 'Translocatee (2012 Short)') {
     outGrob <- p1 + 
       theme(##plot.margin=unit(c(-0.20,0.25,0,0)-0.15, "cm"),
         strip.text = element_text(size = rel(1.5))) +
@@ -92,5 +92,5 @@ Movement.plot <- dlply(Enc.movement.means, .(TortType2), function(df,fullDf=Enc.
 })
 
 do.call(grid.arrange, c(Movement.plot, 
-                        nrow=5,ncol=1))  #left='Density',sub='Mean distance (m/day)'
+                        nrow=5,ncol=1,left='Density',bottom='Mean distance (m/day)'))
 
