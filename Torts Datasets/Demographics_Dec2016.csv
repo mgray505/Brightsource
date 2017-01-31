@@ -1,0 +1,354 @@
+TortoiseID,TortoiseNo,TortoiseType,TortoiseStatus,Sex,MCL_Initial,MCL_Recent,Weight,BCS,iButton,EncounterSite_Initial,EncounterDate_Initial,Easting_Initial,Northing_Initial,EncounterSite_Recent,EncounterDate_Recent,Easting_Recent,Northing_Recent,HealthDate_Recent,BloodSampleDate_Recent,ELISA_Magassi_Recent,ELISA_Mtest_Recent,Comments
+BS01,1,Translocatee (2012 Long),Tracked,Female,184,222,2060,4,Yes,Ivanpah 1,10/9/2010,640350,3933225,I-15 Pen,11/28/2016,641493,3931463,9/19/2016,9/19/2016,Negative,Negative,
+BS02,2,Translocatee (2012 Short),Tracked,Male,264,268,3625,4,Yes,Ivanpah 1,10/9/2010,641066,3933876,Recipient Site,11/27/2016,641588,3934143,9/19/2016,9/19/2016,Negative,Negative,
+BS04,4,Translocatee (2011 Short),Tracked,Male,252,263,3175,4,No,Ivanpah 1,10/10/2010,639800,3934476,Recipient Site,11/30/2016,638477,3933617,9/20/2016,9/20/2016,Negative,Negative,
+BS05,5,Translocatee (2012 Short),Tracked,Male,216,253,3150,4,Yes,Ivanpah 2,10/7/2010,639195,3935431,Recipient Site,12/1/2016,637568,3935059,9/22/2016,9/22/2016,Positive,Positive,
+BS06,6,Translocatee (2011 Short),Tracked,Male,257,275,3725,4,No,Ivanpah 1,10/12/2010,640373,3934551,Recipient Site,11/27/2016,640710,3934834,9/18/2016,9/18/2016,Negative,Negative,
+BS07,7,Resident,Tracked,Unknown,94,170,1000,5,No,Recipient Site,10/12/2010,639464,3934298,Recipient Site,11/29/2016,638025,3940420,9/20/2016,9/20/2016,Negative,Negative,
+BS08,8,Translocatee (2011 Short),Tracked,Female,209,212,2215,4,No,Ivanpah 1,10/12/2010,641354,3934202,Recipient Site,11/27/2016,641548,3933957,9/19/2016,9/19/2016,Negative,Negative,
+BS09,9,Translocatee (2012 Short),Tracked,Male,253,261,3225,4,Yes,Ivanpah 1,10/14/2010,641337,3934152,Recipient Site,11/27/2016,641425,3933637,9/22/2016,9/22/2016,Negative,Negative,
+BS10,10,Resident,Tracked,Male,277,274,3575,4,Yes,Recipient Site,10/14/2010,639430,3934161,Recipient Site,11/30/2016,638477,3933617,9/22/2016,9/22/2016,Negative,Negative,
+BS100,100,Translocatee (2011 Short),Tracked,Male,249,255,3175,5,No,Ivanpah 1,10/12/2010,639347,3933950,Recipient Site,11/30/2016,638550,3933644,9/21/2016,9/21/2016,Negative,Negative,History: Tortoise translocated into Recipient site unassisted in Apr-2011
+BS101,101,Resident,Tracked,Male,273,274,4500,3,Yes,Recipient Site,10/14/2010,640852,3934585,Recipient Site,11/27/2016,641547,3934917,9/19/2016,9/19/2016,Negative,Negative,
+BS102,102,Resident,Tracked,Male,270,270,3625,4,Yes,Recipient Site,10/14/2010,639037,3937147,Recipient Site,11/30/2016,639260,3937358,9/20/2016,9/20/2016,Negative,Negative,
+BS103,103,Translocatee (2012 Short),Dead (BO 2011),Male,246,248,3600,,No,Ivanpah 1,10/15/2010,640419,3934583,Recipient Site,7/27/2015,640076,3934668,5/16/2015,5/16/2015,Negative,Negative,Deceased: see Mortality table for details; Health: Had vet care in San Diego for urolith
+BS105,105,Resident,Tracked,Male,253,264,2950,5,Yes,Recipient Site,4/2/2011,636768,3939243,Recipient Site,11/29/2016,636630,3939283,9/22/2016,9/22/2016,Negative,Negative,
+BS107,107,Resident,Tracked,Female,232,237,2550,4,Yes,Recipient Site,3/31/2011,636786,3939244,Recipient Site,11/30/2016,637223,3939464,9/23/2016,9/23/2016,Negative,Negative,
+BS108,108,Resident,Tracked,Male,264,270,3650,4,Yes,Recipient Site,4/1/2011,636738,3939269,Recipient Site,11/29/2016,635679,3940228,9/18/2016,9/18/2016,Negative,Negative,
+BS109,109,Resident,Tracked,Male,267,268,3625,4,Yes,Recipient Site,4/2/2011,636789,3939239,Recipient Site,11/30/2016,636865,3939745,9/19/2016,9/19/2016,Negative,Negative,
+BS11,11,Resident,Tracked,Female,199,230,2400,4,Yes,Recipient Site,10/16/2010,640716,3934772,Recipient Site,11/27/2016,640729,3934854,9/18/2016,9/18/2016,Negative,Negative,
+BS110,110,Translocatee (2012 Short),Tracked,Male,270,266,3725,4,Yes,Ivanpah 3,4/2/2011,636669,3937700,Recipient Site,11/29/2016,636520,3937809,9/21/2016,9/21/2016,Negative,Negative,
+BS111,111,Resident,Tracked,Female,227,231,2230,4,No,Recipient Site,4/3/2011,641353,3933284,Recipient Site,11/27/2016,641518,3933289,9/21/2016,9/21/2016,Negative,Negative,
+BS113,113,Resident,Tracked,Male,230,255,3050,5,Yes,Recipient Site,4/4/2011,641357,3934209,Recipient Site,11/27/2016,641604,3934838,9/20/2016,9/20/2016,Negative,Negative,
+BS114,114,Translocatee (2011 Short),Tracked,Male,272,269,3625,4,No,Ivanpah 3,4/5/2011,636256,3937190,Recipient Site,11/29/2016,636051,3937275,9/23/2016,9/23/2016,Negative,Negative,
+BS116,116,Translocatee (2011 Short),Dead (BO 2011),Male,190,232,2900,,No,Ivanpah 3,4/5/2011,638839,3938236,Recipient Site,8/12/2015,638850,3941163,5/16/2015,5/16/2015,Negative,Negative,Deceased: see Mortality table for details
+BS117,117,Translocatee (2012 Short),Tracked,Male,231,254,3000,5,Yes,Ivanpah 2,4/6/2011,638476,3936437,Recipient Site,11/28/2016,639666,3932139,9/21/2016,9/21/2016,Negative,Negative,
+BS12,12,Resident,Tracked,Female,209,225,2125,4,Yes,Recipient Site,10/16/2010,641235,3934835,Recipient Site,11/27/2016,641415,3934705,9/18/2016,9/18/2016,Negative,Negative,
+BS120,120,Resident,Tracked,Male,263,270,3650,4,Yes,Recipient Site,4/11/2011,636671,3936706,Recipient Site,12/1/2016,636659,3936568,9/20/2016,9/20/2016,Negative,Negative,
+BS121,121,Resident,Dead (BO 2011),Male,246,250,2725,,No,Recipient Site,4/12/2011,639080,3937813,Recipient Site,8/29/2012,639169,3937732,5/18/2012,5/18/2012,Negative,Suspect,Deceased: see Mortality table for details
+BS122,122,Translocatee (2012 Short),Dead (BO 2011),Male,194,215,1990,,No,Ivanpah 3,4/12/2011,638966,3938170,Recipient Site,5/20/2014,640912,3945887,10/16/2013,10/16/2013,Negative,Negative,Deceased: see Mortality table for details
+BS124,124,Resident,Tracked,Male,235,258,3560,4,Yes,Recipient Site,4/13/2011,641745,3932761,Recipient Site,11/28/2016,641894,3932972,9/21/2016,9/21/2016,Negative,Negative,
+BS125,125,Resident,Dead (BO 2011),Male,252,252,3025,,No,Recipient Site,4/14/2011,641353,3933016,Recipient Site,10/27/2016,641497,3933312,9/22/2016,9/22/2016,Negative,Negative,Deceased: see Mortality table for details
+BS126,126,Resident,Tracked,Female,232,242,2650,4,Yes,Recipient Site,4/14/2011,641427,3934859,Recipient Site,11/27/2016,641366,3934968,9/19/2016,9/19/2016,Negative,Negative,
+BS127,127,Resident,Tracked,Female,248,257,3150,4,Yes,Recipient Site,4/13/2011,641802,3932854,Recipient Site,11/28/2016,641894,3932972,9/22/2016,9/22/2016,Negative,Negative,
+BS128,128,Resident,Tracked,Male,207,256,2910,5,No,Recipient Site,4/15/2011,636399,3938867,Recipient Site,11/29/2016,632474,3940484,9/22/2016,9/22/2016,Negative,Negative,
+BS129,129,Resident,Tracked,Male,295,293,4850,4,No,Recipient Site,4/16/2011,636501,3938530,Recipient Site,11/29/2016,636010,3938221,9/23/2016,9/23/2016,Negative,Negative,
+BS13,13,Resident,Tracked,Male,245,246,2775,4,Yes,Recipient Site,10/19/2010,640238,3932655,Recipient Site,11/28/2016,640646,3932411,9/18/2016,9/18/2016,Negative,Negative,
+BS130,130,Resident,Tracked,Male,245,273,3950,4,Yes,Recipient Site,4/17/2011,635307,3938969,Recipient Site,11/29/2016,635296,3938098,9/23/2016,9/23/2016,Negative,Negative,
+BS131,131,Resident,Tracked,Male,274,272,3825,4,Yes,Recipient Site,4/18/2011,639044,3937903,Recipient Site,11/30/2016,639239,3938131,9/21/2016,9/21/2016,Negative,Negative,
+BS132,132,Resident,Tracked,Female,205,221,2420,4,No,Recipient Site,4/19/2011,639044,3937664,Recipient Site,11/30/2016,639397,3937849,9/21/2016,9/21/2016,Negative,Negative,
+BS133,133,Resident,Tracked,Female,210,226,2125,5,No,Recipient Site,4/20/2011,642198,3933451,Recipient Site,11/27/2016,642118,3933629,9/22/2016,9/22/2016,Negative,Negative,History: Was missing from Sep-2011 through May-2016
+BS134,134,Resident,Dead (BO 2011),Female,228,227,2425,,No,Recipient Site,4/21/2011,636290,3936138,Recipient Site,5/3/2016,636560,3936100,9/21/2015,9/21/2015,Negative,Negative,Deceased: see Mortality table for details; Health: Had vet care in San Diego for examination of infection
+BS135,135,Resident,Tracked,Male,196,240,2800,4,Yes,Recipient Site,4/21/2011,636290,3936139,Recipient Site,11/29/2016,635049,3938959,9/20/2016,9/20/2016,Negative,Negative,
+BS136,136,Resident,Tracked,Female,228,230,2550,4,Yes,Recipient Site,4/21/2011,636261,3935952,Recipient Site,12/1/2016,636039,3936134,9/19/2016,9/19/2016,Negative,Suspect,
+BS137,137,Resident,Tracked,Female,227,233,1720,4,Yes,Recipient Site,4/21/2011,642670,3933912,Recipient Site,11/28/2016,642564,3933835,9/30/2016,9/30/2016,Negative,Negative,
+BS138,138,Resident,Tracked,Female,216,224,2050,4,Yes,Recipient Site,4/23/2011,640937,3932180,Recipient Site,11/28/2016,640931,3932137,9/18/2016,9/18/2016,Negative,Negative,
+BS139,139,Resident,Tracked,Male,266,272,3800,5,Yes,Recipient Site,4/23/2011,640824,3932266,Recipient Site,11/28/2016,640985,3932015,9/21/2016,9/21/2016,Negative,Negative,
+BS14,14,Translocatee (2012 Short),Tracked,Female,224,237,2825,4,Yes,Ivanpah 1,10/19/2010,640990,3934584,Recipient Site,11/27/2016,640864,3934645,9/18/2016,9/18/2016,Negative,Negative,
+BS140,140,Resident,Tracked,Female,203,207,1775,5,Yes,Recipient Site,4/23/2011,640193,3932195,Recipient Site,11/28/2016,639879,3932100,9/19/2016,9/19/2016,Negative,Negative,
+BS141,141,Translocatee (2012 Short),Dead (BO 2011),Female,200,227,2500,,No,Ivanpah 2,4/24/2011,637678,3935394,Recipient Site,6/19/2016,636523,3935777,5/15/2016,5/15/2016,Negative,Negative,Deceased: see Mortality table for details
+BS142,142,Resident,Tracked,Male,244,257,3075,4,Yes,Recipient Site,4/24/2011,640765,3931430,Recipient Site,11/28/2016,640788,3931444,9/19/2016,9/19/2016,Negative,Negative,
+BS143,143,Resident,Dead (BO 2011),Male,219,233,3500,,No,Recipient Site,4/24/2011,640743,3931546,Recipient Site,4/15/2014,639052,3930120,9/30/2013,9/26/2013,Negative,Negative,Deceased: see Mortality table for details
+BS144,144,Resident,Dead (BO 2011),Female,204,207,1960,,No,Recipient Site,4/24/2011,640732,3931407,Recipient Site,4/10/2014,640702,3931690,9/26/2013,9/26/2013,Negative,Negative,Deceased: see Mortality table for details
+BS145,145,Resident,Tracked,Male,284,283,4050,4,Yes,Recipient Site,4/24/2011,640287,3932264,Recipient Site,11/28/2016,640187,3932001,9/19/2016,9/19/2016,Negative,Negative,
+BS146,146,Resident,Tracked,Female,213,219,2210,4,Yes,Recipient Site,4/24/2011,640633,3931810,Recipient Site,11/28/2016,640827,3931842,9/19/2016,9/19/2016,Negative,Negative,
+BS147,147,Resident,Tracked,Male,270,269,3550,4,No,Recipient Site,4/25/2011,639168,3937730,Recipient Site,11/30/2016,639773,3938068,9/19/2016,9/19/2016,Negative,Negative,
+BS148,148,Resident,Tracked,Male,261,266,3025,4,No,Recipient Site,4/24/2011,640579,3931861,Recipient Site,11/28/2016,640348,3932038,9/20/2016,9/20/2016,Negative,Negative,
+BS149,149,Resident,Tracked,Male,253,263,3425,4,No,Recipient Site,4/25/2011,638854,3934304,Recipient Site,11/30/2016,635841,3931669,9/23/2016,9/23/2016,Negative,Negative,
+BS15,15,Resident,Tracked,Male,190,232,2500,5,Yes,Recipient Site,10/19/2010,639394,3934807,Recipient Site,11/28/2016,639965,3932500,9/21/2016,9/21/2016,Negative,Negative,History: Was missing from Nov-2014 through April-2016
+BS150,150,Resident,Dead (BO 2011),Female,208,208,1740,,No,Recipient Site,4/24/2011,640464,3930886,Recipient Site,3/24/2014,640479,3930945,9/26/2013,9/26/2013,Negative,Negative,Deceased: see Mortality table for details
+BS151,151,Resident,Tracked,Male,247,250,2875,4,No,Recipient Site,4/24/2011,640483,3930846,Recipient Site,11/28/2016,639860,3930696,9/20/2016,9/20/2016,Negative,Negative,
+BS153,153,Resident,Tracked,Female,237,234,2400,3,Yes,Recipient Site,4/26/2011,640818,3936925,Recipient Site,11/30/2016,640294,3937123,9/18/2016,9/18/2016,Negative,Negative,
+BS154,154,Resident,Dead (BO 2011),Female,233,236,2500,,No,Recipient Site,4/26/2011,641550,3933045,Recipient Site,6/14/2016,641960,3933564,5/17/2016,5/17/2016,Negative,Negative,Deceased: see Mortality table for details
+BS155,155,Resident,Tracked,Male,264,264,3575,4,Yes,Recipient Site,4/26/2011,640817,3936920,Recipient Site,11/30/2016,640436,3937405,9/18/2016,9/18/2016,Negative,Negative,
+BS156,156,Resident,Tracked,Female,198,233,2650,4,Yes,Recipient Site,4/26/2011,635864,3937649,Recipient Site,11/29/2016,635953,3937474,9/23/2016,9/23/2016,Negative,Negative,
+BS157,157,Translocatee (2012 Long),Dead (BO 2011),Female,142,203,1475,,No,Ivanpah 2,4/24/2011,638789,3935706,I-15 Pen,5/17/2016,641871,3930681,5/15/2016,5/15/2016,Negative,Negative,Deceased: see Mortality table for details; History: Taken to vet because of a prolapsed cloaca (17-May-2016); Euthanized at vet (20-May-2016)
+BS158,158,Resident,Tracked,Female,213,220,2000,5,Yes,Recipient Site,4/24/2011,641719,3930665,Recipient Site,11/28/2016,641454,3930043,9/20/2016,9/20/2016,Negative,Negative,"History: Resident tortoise fenced into I-15 Pen, but escaped pen (during week of 5-Aug-2013) and now is in general Recipient site"
+BS159,159,Resident,Tracked,Female,248,250,2300,4,Yes,Recipient Site,4/24/2011,635298,3936059,Recipient Site,12/1/2016,636220,3936247,9/22/2016,9/22/2016,Negative,Negative,"Health: Taken to vet because of a sub-plastron infection (24-May-2016), received treatment in quarantine pen until release back into field (16-Sep-2016)"
+BS16,16,Resident,Tracked,Female,224,225,2450,4,No,Recipient Site,10/19/2010,638594,3933593,Recipient Site,11/30/2016,639198,3933463,9/22/2016,9/22/2016,Negative,Negative,
+BS160,160,Resident,Tracked,Male,252,251,2950,3,Yes,Recipient Site,4/27/2011,638853,3938955,Recipient Site,11/30/2016,639016,3939022,9/21/2016,9/21/2016,Negative,Negative,
+BS161,161,Resident,Tracked,Female,227,240,2750,4,Yes,Recipient Site,4/27/2011,636876,3939333,Recipient Site,11/30/2016,636728,3939628,9/19/2016,9/19/2016,Negative,Negative,
+BS162,162,Resident,Tracked,Female,231,234,2550,4,Yes,Recipient Site,4/28/2011,637143,3939933,Recipient Site,11/30/2016,636865,3939745,9/22/2016,9/22/2016,Negative,Negative,
+BS163,163,Resident,Tracked,Male,201,223,2375,4,Yes,Recipient Site,4/28/2011,636613,3939985,Recipient Site,11/30/2016,640215,3937725,9/19/2016,9/19/2016,Negative,Negative,
+BS164,164,Resident,Tracked,Male,315,313,5800,4,No,Recipient Site,4/25/2011,640702,3935702,Recipient Site,11/30/2016,640436,3937405,9/18/2016,9/18/2016,Negative,Negative,
+BS165,165,Resident,Tracked,Male,251,252,3150,4,Yes,Recipient Site,4/28/2011,638491,3939860,Recipient Site,11/30/2016,639410,3939955,9/18/2016,9/18/2016,Negative,Negative,
+BS166,166,Resident,Tracked,Female,243,245,2990,5,Yes,Recipient Site,4/28/2011,635030,3939149,Recipient Site,11/29/2016,634916,3939159,9/30/2016,9/30/2016,Negative,Negative,
+BS167,167,Resident,Dead (BO 2011),Male,269,271,3900,,No,Recipient Site,4/29/2011,639520,3939830,Recipient Site,9/8/2015,639112,3940120,5/16/2015,5/16/2015,Negative,Negative,Deceased: see Mortality table for details
+BS168,168,Resident,Dead (BO 2011),Female,239,249,2920,,No,Recipient Site,4/29/2011,639520,3939829,Recipient Site,9/1/2015,639683,3939919,5/16/2015,5/16/2015,Negative,Negative,Deceased: see Mortality table for details
+BS169,169,Resident,Dead (BO 2011),Male,208,218,1800,,No,Recipient Site,4/29/2011,635997,3939478,Recipient Site,8/22/2012,635972,3939796,5/30/2012,5/30/2012,Negative,Negative,Deceased: see Mortality table for details
+BS17,17,Translocatee (2012 Short),Tracked,Unknown,116,177,1120,4,No,Common East,10/20/2010,639883,3934739,Recipient Site,11/27/2016,639901,3935146,9/22/2016,9/22/2016,Negative,Negative,
+BS170,170,Resident,Tracked,Female,213,226,2320,4,Yes,Recipient Site,4/29/2011,635039,3939901,Recipient Site,11/29/2016,634799,3939818,9/22/2016,9/22/2016,Negative,Negative,
+BS171,171,Resident,Tracked,Male,254,262,3750,5,Yes,Recipient Site,4/28/2011,636765,3939227,Recipient Site,11/29/2016,635679,3940228,9/19/2016,9/19/2016,Negative,Negative,
+BS172,172,Resident,Tracked,Male,225,252,3200,5,No,Recipient Site,4/28/2011,638449,3939806,Recipient Site,11/30/2016,636865,3939745,9/22/2016,9/22/2016,Negative,Negative,
+BS173,173,Translocatee (2012 Short),Tracked,Female,217,219,2220,4,Yes,Ivanpah 2,5/11/2011,638852,3936584,Recipient Site,11/30/2016,636492,3939993,9/18/2016,9/18/2016,Negative,Negative,
+BS176,176,Translocatee (2012 Short),Tracked,Female,228,233,2625,4,Yes,Ivanpah 3,5/17/2011,637194,3936834,Recipient Site,12/1/2016,637113,3936637,9/20/2016,9/20/2016,Negative,Negative,
+BS177,177,Translocatee (2012 Short),Tracked,Female,236,237,2750,4,Yes,Ivanpah 2,5/22/2011,638125,3935503,Recipient Site,11/30/2016,634985,3935046,9/19/2016,9/19/2016,Negative,Negative,
+BS179,179,Translocatee (2012 Long),Tracked,Male,122,220,1940,4,Yes,Ivanpah 3,6/11/2011,637532,3937715,I-15 Pen,11/28/2016,641945,3931635,9/23/2016,9/23/2016,Negative,Negative,
+BS180,180,Resident,Dead (BO 2011),Unknown,94,107,195,,No,Recipient Site,7/12/2011,638852,3938919,Recipient Site,8/21/2012,639072,3938870,5/18/2012,5/18/2012,Negative,Negative,Deceased: see Mortality table for details
+BS183,183,Translocatee (2012 Short),Tracked,Male,261,264,3450,4,Yes,Ivanpah 2,7/30/2011,639658,3936881,Recipient Site,11/30/2016,640230,3936145,9/20/2016,9/20/2016,Negative,Negative,
+BS184,184,Translocatee (2012 Long),Dead (BO 2011),Female,176,213,2060,,No,Ivanpah 3,8/4/2011,637670,3938074,I-15 Pen,8/4/2014,641300,3931684,5/18/2014,5/18/2014,Negative,Negative,Deceased: see Mortality table for details
+BS186,186,Translocatee (2012 Short),Tracked,Female,137,215,1980,5,Yes,Ivanpah 2,8/7/2011,637650,3937032,Recipient Site,11/29/2016,635585,3940094,9/21/2016,9/21/2016,Negative,Negative,
+BS187,187,Translocatee (2012 Long),Dead (BO 2011),Female,190,202,1750,,No,Ivanpah 3,8/8/2011,637691,3937750,I-15 Pen,4/8/2014,641480,3931967,9/24/2013,9/24/2013,Negative,Negative,Deceased: see Mortality table for details
+BS189,189,Translocatee (2012 Short),Tracked (Missing),Unknown,137,152,680,4,Yes,Ivanpah 3,8/13/2011,638550,3938439,Recipient Site,9/12/2013,639367,3938191,5/18/2013,5/18/2013,Negative,Negative,Missing: Last track (12-Sep-2013); Transmitter dead
+BS19,19,Resident,Tracked,Female,118,193,1560,5,Yes,Recipient Site,10/21/2010,640247,3934590,Recipient Site,11/27/2016,640457,3934820,9/22/2016,9/22/2016,Negative,Negative,
+BS192,192,Resident,Tracked (Missing),Female,148,182,1230,5,Yes,Recipient Site,8/23/2011,641086,3927917,Recipient Site,8/27/2014,640803,3929729,5/19/2014,5/19/2014,Negative,Negative,Missing: Last track (27-Aug-2014); Transmitter found (2-Sep-2014)
+BS21,21,Translocatee (2011 Short),Tracked,Male,241,256,2900,5,No,Ivanpah 1,10/21/2010,639987,3932661,Recipient Site,11/28/2016,640128,3932159,9/20/2016,9/20/2016,Negative,Negative,
+BS217,217,Translocatee (2011 Short),Tracked,Male,253,265,3550,5,Yes,Ivanpah 3,9/3/2011,636525,3938523,Recipient Site,11/30/2016,636225,3940065,9/19/2016,9/19/2016,Negative,Negative,
+BS22,22,Translocatee (2012 Short),Tracked,Male,231,245,2525,4,Yes,Ivanpah 1,10/22/2010,639529,3933778,Recipient Site,11/30/2016,638435,3933571,9/22/2016,9/22/2016,Negative,Negative,
+BS220,220,Translocatee (2012 Short),Tracked,Male,268,263,3750,4,Yes,Ivanpah 3,9/5/2011,639031,3937019,Recipient Site,11/30/2016,639250,3937349,9/20/2016,9/20/2016,Negative,Negative,
+BS223,223,Translocatee (2012 Short),Tracked,Male,197,227,2460,5,Yes,Ivanpah 3,9/6/2011,638629,3937555,Recipient Site,11/29/2016,639410,3940596,9/18/2016,9/18/2016,Negative,Negative,
+BS23,23,Resident,Tracked,Female,242,249,3275,4,Yes,Recipient Site,10/23/2010,636881,3935977,Recipient Site,12/1/2016,637106,3935873,9/18/2016,9/18/2016,Negative,Negative,
+BS230,230,Resident,Tracked,Male,186,234,2250,4,Yes,Recipient Site,9/7/2011,638849,3938328,Recipient Site,11/30/2016,637294,3939617,9/20/2016,9/20/2016,Negative,Negative,Transmitter: High pitched interference while tracking (reported 21-Sep-2016)
+BS239,239,Resident,Tracked,Female,224,230,2480,4,Yes,Recipient Site,9/8/2011,640867,3927156,Recipient Site,11/28/2016,640741,3926915,9/23/2016,9/23/2016,Negative,Negative,
+BS24,24,Translocatee (2012 Short),Dead (BO 2011),Male,184,227,2200,,No,Common West,10/25/2010,638849,3934938,Recipient Site,9/2/2014,639563,3926378,5/19/2014,5/19/2014,Negative,Negative,Deceased: see Mortality table for details
+BS242,242,Resident,Tracked,Male,210,259,2850,5,No,Recipient Site,9/9/2011,642435,3934350,Recipient Site,11/28/2016,638587,3927957,9/22/2016,9/22/2016,Negative,Suspect,
+BS243,243,Resident,Tracked (Missing),Unknown,134,135,440,4,Yes,Recipient Site,9/9/2011,641055,3928745,Recipient Site,7/9/2012,641041,3928714,5/25/2012,5/25/2012,Negative,Negative,Missing: Last track (9-Jul-2012); Transmitter found (16-Jul-2012)
+BS245,245,Resident,Tracked,Male,281,285,4200,4,No,Recipient Site,9/10/2011,636454,3935806,Recipient Site,12/1/2016,636435,3935939,9/18/2016,9/18/2016,Negative,Negative,"Transmitter: Possible bad transmitter, may be working intermittently (reported 25-Oct-2016)"
+BS246,246,Translocatee (2012 Short),Tracked,Male,162,204,1450,4,Yes,Ivanpah 3,9/10/2011,638552,3938401,Recipient Site,11/29/2016,636446,3941944,9/21/2016,9/21/2016,Negative,Negative,
+BS248,248,Resident,Tracked,Male,260,268,3350,4,No,Recipient Site,9/10/2011,640834,3927575,Recipient Site,11/28/2016,640676,3928167,9/23/2016,9/23/2016,Negative,Negative,
+BS25,25,Translocatee (2012 Short),Tracked,Female,168,215,2100,4,Yes,Ivanpah 1,10/26/2010,640355,3934485,Recipient Site,11/27/2016,640208,3934714,9/22/2016,9/22/2016,Negative,Negative,
+BS257,257,Translocatee (2012 Short),Tracked,Female,140,195,1760,5,Yes,Ivanpah 3,9/14/2011,636883,3938731,Recipient Site,11/29/2016,635946,3938719,9/19/2016,9/19/2016,Negative,Negative,
+BS26,26,Translocatee (2012 Short),Dead (BO 2011),Unknown,123,142,585,,No,Ivanpah 1,10/27/2010,640972,3933818,Recipient Site,4/24/2012,641354,3933607,4/17/2012,10/10/2011,Negative,Negative,Deceased: see Mortality table for details
+BS260,260,Translocatee (2012 Short),Dead (BO 2011),Unknown,136,136,515,,No,Ivanpah 3,9/14/2011,638594,3938275,Recipient Site,8/10/2012,638869,3938688,5/19/2012,5/19/2012,Negative,Negative,Deceased: see Mortality table for details
+BS261,261,Translocatee (2012 Long),Dead (BO 2011),Unknown,134,146,610,,No,Ivanpah 3,9/14/2011,638066,3938326,I-15 Pen,7/21/2014,641185,3931215,5/20/2014,5/20/2014,Negative,Negative,Deceased: see Mortality table for details
+BS265,265,Translocatee (2012 Long),Tracked (Missing),Female,126,186,1225,5,Yes,Ivanpah 3,9/18/2011,638192,3938274,I-15 Pen,10/27/2016,641853,3932441,9/20/2016,9/20/2016,Suspect,Positive,Missing: Not tracked for 6 weeks
+BS266,266,Translocatee (2012 Short),Dead (BO 2011),Male,178,201,1300,,No,Ivanpah 2,9/18/2011,638703,3937045,Recipient Site,9/26/2013,639900,3937434,5/17/2013,5/17/2013,Negative,Negative,Deceased: see Mortality table for details
+BS27,27,Translocatee (2012 Short),Tracked,Female,232,230,2375,5,Yes,Common East,10/19/2010,639489,3934465,Recipient Site,11/30/2016,639215,3934378,9/21/2016,9/21/2016,Negative,Negative,
+BS275,275,Translocatee (2012 Short),Tracked,Female,205,227,2500,4,Yes,Ivanpah 3,9/20/2011,638190,3938803,Recipient Site,11/30/2016,638220,3939243,9/21/2016,9/21/2016,Negative,Negative,
+BS28,28,Translocatee (2012 Short),Tracked,Female,217,227,2125,4,Yes,Ivanpah 1,10/28/2010,639726,3933755,Recipient Site,11/28/2016,640121,3932576,9/18/2016,9/18/2016,Negative,Negative,
+BS289,289,Translocatee (2012 Long),Tracked,Female,214,245,2560,4,Yes,Ivanpah 3,9/22/2011,638134,3937864,I-15 Pen,11/28/2016,641143,3930660,9/18/2016,9/18/2016,Negative,Negative,
+BS29,29,Translocatee (2012 Long),Tracked,Male,265,251,3260,5,Yes,Ivanpah 1,10/28/2010,640002,3933726,I-15 Pen,11/28/2016,641115,3931228,9/19/2016,9/19/2016,Negative,Negative,
+BS290,290,Translocatee (2012 Short),Tracked,Female,170,232,2400,4,Yes,Ivanpah 3,9/25/2011,637643,3938610,Recipient Site,11/30/2016,637910,3939238,9/20/2016,9/20/2016,Negative,Negative,
+BS291,291,Translocatee (2012 Long),Tracked,Female,157,223,2020,4,Yes,Ivanpah 3,9/23/2011,638251,3938484,I-15 Pen,11/28/2016,641701,3932295,9/20/2016,9/20/2016,Negative,Negative,
+BS293,293,Translocatee (2012 Long),Tracked,Unknown,129,170,1030,4,No,Ivanpah 3,9/24/2011,637291,3938286,I-15 Pen,11/28/2016,641383,3930995,9/18/2016,9/18/2016,Negative,Negative,
+BS294,294,Translocatee (2012 Long),Tracked,Unknown,125,160,740,5,Yes,Ivanpah 3,9/24/2011,638195,3937524,I-15 Pen,11/28/2016,641718,3932413,9/20/2016,9/20/2016,Negative,Suspect,
+BS30,30,Resident,Tracked,Male,243,260,3600,5,Yes,Recipient Site,10/29/2010,636934,3940352,Recipient Site,11/29/2016,635741,3940090,9/18/2016,9/18/2016,Negative,Negative,
+BS305,305,Translocatee (2012 Short),Tracked (Missing),Female,224,229,2400,4,Yes,Ivanpah 3,10/3/2011,638531,3937607,Recipient Site,4/3/2013,639190,3937698,9/27/2012,9/27/2012,Negative,Negative,Missing: Last track (3-Apr-2013); Transmitter dead
+BS306,306,Resident,Dead (BO 2011),Unknown,133,145,700,,No,Recipient Site,10/3/2011,639347,3933435,Recipient Site,5/28/2013,638941,3933271,5/22/2013,5/22/2013,Negative,Negative,Deceased: see Mortality table for details
+BS31,31,Translocatee (2012 Short),Dead (BO 2011),Female,133,217,1700,,No,Ivanpah 1,10/29/2010,639991,3934351,Recipient Site,5/8/2016,640007,3935056,9/13/2015,9/13/2015,Negative,Negative,Deceased: see Mortality table for details
+BS310,310,Translocatee (2012 Long),Tracked,Male,277,279,3960,4,Yes,Ivanpah 3,10/4/2011,637407,3938304,I-15 Pen,11/28/2016,641226,3930488,9/18/2016,9/18/2016,Negative,Negative,
+BS313,313,Resident,Dead (BO 2011),Unknown,156,164,1010,,No,Recipient Site,10/7/2011,639582,3938222,Recipient Site,10/24/2012,641679,3936775,9/28/2012,9/28/2012,Negative,Negative,Deceased: see Mortality table for details
+BS314,314,Resident,Tracked,Male,209,236,2320,5,No,Recipient Site,10/11/2011,637821,3934902,Recipient Site,11/30/2016,638435,3933571,9/20/2016,9/20/2016,Negative,Negative,
+BS315,315,Resident,Dead (BO 2011),Male,209,220,1725,,No,Recipient Site,10/14/2011,641663,3930019,Recipient Site,9/8/2012,641734,3930395,5/17/2012,5/17/2012,Negative,Suspect,Deceased: see Mortality table for details
+BS316,316,Resident,Tracked,Male,280,281,4300,4,No,Recipient Site,10/13/2011,637191,3936613,Recipient Site,12/1/2016,637345,3936680,9/20/2016,9/20/2016,Negative,Negative,
+BS317,317,Resident,Tracked,Male,268,272,4015,5,Yes,Recipient Site,10/14/2011,640940,3929631,Recipient Site,11/28/2016,640461,3929710,9/21/2016,9/21/2016,Negative,Negative,
+BS32,32,Translocatee (2012 Long),Tracked,Male,252,261,3100,5,Yes,Ivanpah 1,10/29/2010,640059,3933947,I-15 Pen,11/28/2016,641615,3932534,9/20/2016,9/20/2016,Negative,Negative,
+BS320,320,Resident,Tracked,Female,222,227,2050,3,No,Recipient Site,10/16/2011,640737,3928021,I-15 Pen,11/28/2016,642181,3932203,11/15/2016,9/23/2016,Negative,Negative,"History: Resident tortoise fenced into I-15 Pen, and is still iin pen; Health: Transfered to vet for widespread trauma and weight loss (23-Sep-2016)"
+BS321,321,Resident,Tracked,Female,235,240,2725,4,Yes,Recipient Site,10/15/2011,641114,3929099,Recipient Site,11/28/2016,640579,3927577,9/23/2016,9/23/2016,Negative,Negative,
+BS322,322,Resident,Dead (BO 2011),Female,220,220,2050,,No,Recipient Site,10/15/2011,640365,3929154,Recipient Site,10/6/2016,640315,3929463,10/15/2011,10/15/2011,Negative,Suspect,"Deceased: see Mortality table for details; History: Never tracked following initial processing, but cacass incidentally come upon years later"
+BS323,323,Resident,Tracked,Female,219,220,2375,4,Yes,Recipient Site,10/15/2011,641285,3929841,Recipient Site,11/28/2016,641162,3929912,9/21/2016,9/21/2016,Negative,Negative,
+BS324,324,Resident,Tracked,Female,207,210,2025,4,Yes,Recipient Site,10/15/2011,640897,3930107,Recipient Site,11/28/2016,640821,3929991,9/22/2016,9/22/2016,Negative,Negative,
+BS327,327,Resident,Tracked,Female,219,244,2425,5,Yes,Recipient Site,10/15/2011,638028,3933593,Recipient Site,11/30/2016,638435,3933571,9/30/2016,9/30/2016,Negative,Negative,
+BS328,328,Resident,Tracked,Male,251,257,2850,4,Yes,Recipient Site,10/16/2011,640663,3927903,Recipient Site,11/28/2016,640676,3928167,9/22/2016,9/22/2016,Negative,Negative,
+BS33,33,Resident,Tracked,Female,228,229,2350,4,Yes,Recipient Site,10/29/2010,637391,3938919,Recipient Site,11/29/2016,637387,3938915,9/23/2016,9/23/2016,Negative,Negative,
+BS334,334,Resident,Tracked (Missing),Female,225,224,2450,5,Yes,Recipient Site,10/17/2011,637521,3933953,Recipient Site,7/17/2012,636485,3933537,5/19/2012,5/19/2012,Negative,Suspect,Missing: Last track (17-Jul-2012); Transmitter dead
+BS335,335,Resident,Tracked,Male,271,272,3500,5,No,Recipient Site,10/17/2011,636485,3933538,Recipient Site,11/30/2016,637049,3932956,9/23/2016,9/23/2016,Negative,Negative,
+BS336,336,Resident,Tracked (Missing),Unknown,104,138,505,5,No,Recipient Site,10/19/2011,637328,3939463,Recipient Site,2/18/2014,637369,3939567,9/27/2013,9/27/2013,Negative,Negative,Missing: Last track (18-Feb-2014); Transmitter found (6-Mar-2014)
+BS339,339,Resident,Tracked,Male,167,237,2375,5,Yes,Recipient Site,3/15/2012,641348,3930310,Recipient Site,11/28/2016,641249,3930163,9/21/2016,9/21/2016,Negative,Negative,
+BS34,34,Translocatee (2012 Short),Dead (BO 2011),Female,214,221,2050,,No,Ivanpah 1,10/29/2010,639636,3934139,Recipient Site,8/13/2012,637522,3930867,5/14/2012,5/14/2012,Negative,Negative,Deceased: see Mortality table for details
+BS342,342,Resident,Tracked,Unknown,68,120,375,4,No,Recipient Site,4/9/2012,637060,3940098,Recipient Site,11/29/2016,637508,3938901,9/21/2016,9/21/2016,Negative,Negative,
+BS344,344,Resident,Tracked (Missing),Unknown,60,80,122,4,No,Recipient Site,7/30/2012,637760,3938909,Recipient Site,5/5/2015,637557,3939100,9/16/2014,9/16/2014,Negative,Negative,Missing: Last track (10-Mar-2015); Transmitter dead; Caged burrow excavated (7-May-2015)
+BS345,345,Resident,Tracked,Unknown,105,148,595,5,No,Recipient Site,8/11/2012,637190,3939193,Recipient Site,11/29/2016,637163,3939102,9/21/2016,9/21/2016,Negative,Negative,
+BS346,346,Resident,Dead (BO 2011),Unknown,73,92,155,,No,Recipient Site,8/30/2012,637364,3939471,Recipient Site,7/3/2014,637443,3939472,5/19/2014,5/19/2014,Negative,Negative,Deceased: see Mortality table for details
+BS349,349,Resident,Dead (BO 2011),Unknown,81,82,105,,No,Recipient Site,9/12/2012,637163,3939688,Recipient Site,7/22/2013,637014,3939761,5/18/2013,5/18/2013,Negative,Negative,Deceased: see Mortality table for details
+BS35,35,Translocatee (2012 Short),Dead (BO 2011),Unknown,143,172,910,,No,Ivanpah 1,10/29/2010,640933,3933875,Recipient Site,7/30/2012,640872,3932054,5/30/2012,5/30/2012,Negative,Negative,Deceased: see Mortality table for details
+BS353,353,Resident,Tracked (Missing),Unknown,71,72,76,4,No,Recipient Site,3/22/2013,640067,3932019,Recipient Site,8/25/2013,640066,3932020,5/16/2013,,,,Missing: Last track (25-Aug-2013); Transmitter dead
+BS354,354,Resident,Tracked,Unknown,82,142,575,5,No,Recipient Site,3/26/2013,637395,3939479,Recipient Site,11/30/2016,637342,3939445,9/20/2016,9/20/2016,Negative,Negative,
+BS356,356,Resident,Dead (BO 2011),Unknown,78,79,98,,No,Recipient Site,4/14/2013,637449,3939493,Recipient Site,8/21/2013,637418,3939501,5/19/2013,,,,Deceased: see Mortality table for details
+BS36,36,Translocatee (2012 Short),Dead (BO 2011),Male,150,189,1480,,No,Ivanpah 1,10/30/2010,640650,3934568,Recipient Site,7/15/2014,640970,3934915,5/20/2013,5/20/2013,Negative,Negative,Deceased: see Mortality table for details
+BS37,37,Translocatee (2012 Long),Tracked,Male,243,280,3360,4,Yes,Ivanpah 2,10/30/2010,638658,3935988,I-15 Pen,11/28/2016,641779,3931321,9/23/2016,9/23/2016,Negative,Negative,
+BS38,38,Translocatee (2012 Short),Dead (BO 2011),Female,223,235,2450,,No,Ivanpah 1,10/30/2010,640084,3934237,Recipient Site,5/17/2013,641076,3934876,10/2/2012,10/2/2012,Negative,Suspect,Deceased: see Mortality table for details
+BS41,41,Translocatee (2012 Short),Tracked,Female,118,200,1700,4,Yes,Ivanpah 1,11/1/2010,640891,3934502,Recipient Site,11/27/2016,640475,3935068,9/22/2016,9/22/2016,Negative,Negative,
+BS44,44,Translocatee (2012 Short),Dead (BO 2011),Female,194,223,2300,,No,Ivanpah 1,2/16/2011,640737,3934176,Recipient Site,6/24/2015,640394,3934623,5/12/2015,5/12/2015,Negative,Negative,Deceased: see Mortality table for details
+BS45,45,Resident,Dead (BO 2011),Female,223,223,2050,,No,Recipient Site,3/5/2011,639180,3938043,Recipient Site,6/7/2016,639541,3938081,5/20/2016,5/20/2016,Negative,Negative,Deceased: see Mortality table for details
+BS46,46,Translocatee (2011 Short),Tracked,Female,209,229,2580,4,No,Ivanpah 3,3/5/2011,637784,3938418,Recipient Site,11/29/2016,634982,3937897,9/20/2016,9/20/2016,Negative,Negative,
+BS47,47,Translocatee (2012 Short),Tracked,Female,242,242,2800,4,Yes,Ivanpah 3,3/8/2011,637026,3938917,Recipient Site,11/29/2016,636630,3939283,9/22/2016,9/22/2016,Negative,Negative,
+BS49,49,Translocatee (2011 Short),Tracked,Male,209,249,2950,5,Yes,Ivanpah 3,3/9/2011,636682,3939138,Recipient Site,11/29/2016,639697,3941773,9/22/2016,9/22/2016,Negative,Negative,
+BS50,50,Translocatee (2011 Short),Dead (BO 2011),Male,204,236,2575,,No,Ivanpah 3,3/9/2011,638214,3938852,Recipient Site,8/22/2016,638277,3939517,5/17/2016,5/17/2016,Negative,Negative,Deceased: see Mortality table for details
+BS500,500,Control East,Was Tracked,Female,243,245,2900,5,No,Control Site,3/30/2011,658928,3929206,Control Site,5/27/2016,658752,3929511,5/27/2016,5/27/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS501,501,Control East,Dead (BO 2011),Female,189,194,1590,,No,Control Site,4/1/2011,655769,3927876,Quarantine Pens,11/13/2014,638670,3934990,9/28/2014,9/28/2014,Negative,Negative,"Deceased: see Mortality table for details; Health: Sent to vet because of trauma sustained from a canid attack (13-Nov-2014), euthanized at vet"
+BS502,502,Control East,Dead (BO 2011),Female,217,215,2080,,No,Control Site,4/1/2011,652032,3933458,Control Site,5/27/2015,652072,3932740,9/27/2014,9/27/2014,Negative,Suspect,Deceased: see Mortality table for details
+BS503,503,Control East,Was Tracked,Male,238,242,2725,5,No,Control Site,4/1/2011,654949,3928632,Control Site,5/27/2016,655337,3928421,5/27/2016,5/27/2016,Negative,Negative,History: Tracking responsibilities transferred to USGS in May-2016
+BS504,504,Control East,Was Tracked,Female,198,222,2300,5,No,Control Site,4/2/2011,655064,3928395,Control Site,5/27/2016,661576,3931841,5/27/2016,5/27/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS505,505,Control East,Dead (BO 2011),Male,213,226,2250,,No,Control Site,4/1/2011,653002,3932792,Control Site,9/11/2013,652909,3932459,5/24/2013,5/24/2013,Negative,Negative,Deceased: see Mortality table for details
+BS506,506,Control East,Was Tracked,Male,252,254,3500,5,No,Control Site,4/1/2011,656989,3927840,Control Site,5/26/2016,657039,3927981,5/26/2016,5/26/2016,Negative,Suspect,History: Transmitter removed in May-2016 as per agency mandate
+BS508,508,Control East,Was Tracked,Male,237,247,3150,5,No,Control Site,4/1/2011,654897,3929066,Control Site,5/25/2016,654767,3929045,5/25/2016,5/25/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS509,509,Control East,Was Tracked,Male,169,236,2300,5,No,Control Site,4/2/2011,654818,3928643,Control Site,5/25/2016,654720,3928754,5/25/2016,5/25/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS51,51,Translocatee (2012 Short),Dead (BO 2011),Male,234,243,2650,,No,Ivanpah 3,3/10/2011,637813,3938363,Recipient Site,10/9/2014,636180,3938217,10/6/2012,10/6/2012,Negative,Suspect,Deceased: see Mortality table for details
+BS510,510,Control East,Was Tracked,Male,256,267,4250,5,No,Control Site,4/1/2011,656930,3927606,Control Site,5/26/2016,656833,3927527,5/26/2016,5/26/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS511,511,Control East,Was Tracked,Female,221,224,2150,5,No,Control Site,4/1/2011,654855,3928807,Control Site,5/24/2016,654332,3928259,5/24/2016,5/24/2016,Negative,Suspect,History: Transmitter removed in May-2016 as per agency mandate
+BS512,512,Control East,Was Tracked,Male,272,276,3925,4,No,Control Site,4/1/2011,655123,3929288,Control Site,5/27/2016,655094,3929065,5/27/2016,5/27/2016,Negative,Negative,History: Tracking responsibilities transferred to USGS in May-2016
+BS513,513,Control East,Was Tracked,Female,225,230,2490,4,No,Control Site,4/1/2011,655028,3928853,Control Site,5/27/2016,655003,3928746,5/27/2016,5/27/2016,Negative,Negative,History: Tracking responsibilities transferred to USGS in May-2016
+BS514,514,Control East,Was Tracked,Female,158,234,2250,5,No,Control Site,4/1/2011,654705,3928835,Control Site,5/25/2016,654414,3928810,5/25/2016,5/25/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS515,515,Control East,Was Tracked,Female,213,215,2100,4,No,Control Site,4/1/2011,656897,3927470,Control Site,5/26/2016,656825,3927805,5/26/2016,5/26/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS517,517,Control East,Was Tracked,Male,220,251,2950,5,No,Control Site,4/1/2011,653363,3932175,Control Site,5/23/2016,653264,3933401,5/23/2016,5/23/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS518,518,Control East,Was Tracked,Unknown,122,165,600,4,No,Control Site,4/1/2011,654666,3928903,Control Site,6/15/2016,654700,3928876,5/22/2013,5/22/2013,Negative,Negative,History: Last track (11-Sep-2013); Transmitter found (18-Sep-2013); incidental encounter (15-Jun-2016); Transmitter confirmed as removed in Jun-2016 as per agency mandate
+BS519,519,Control East,Was Tracked,Female,206,207,1800,5,No,Control Site,4/1/2011,651497,3932599,Control Site,5/22/2016,651298,3932499,5/22/2016,5/22/2016,Negative,Suspect,History: Transmitter removed in May-2016 as per agency mandate
+BS52,52,Translocatee (2012 Short),Dead (BO 2011),Male,176,241,2922,,No,Ivanpah 3,3/10/2011,637219,3938658,Recipient Site,8/22/2016,637613,3938922,5/20/2016,5/20/2016,Negative,Negative,Deceased: see Mortality table for details
+BS520,520,Control East,Dead (BO 2011),Unknown,130,152,700,,No,Control Site,4/1/2011,656893,3927835,Control Site,6/18/2013,656914,3927875,5/20/2013,5/20/2013,Negative,Negative,Deceased: see Mortality table for details
+BS521,521,Control East,Was Tracked,Female,137,191,1500,5,No,Control Site,4/2/2011,654571,3929045,Control Site,5/25/2016,654202,3929037,5/25/2016,5/25/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS522,522,Control East,Was Tracked,Male,269,268,4000,5,No,Control Site,4/1/2011,651220,3932439,Control Site,5/22/2016,651610,3932515,5/22/2016,5/22/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS523,523,Control East,Was Tracked,Female,225,225,2350,5,No,Control Site,4/2/2011,654550,3929197,Control Site,5/24/2016,654260,3929047,5/24/2016,5/24/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS524,524,Control East,Was Tracked,Male,257,262,3550,5,No,Control Site,4/1/2011,655249,3929327,Control Site,5/26/2016,655455,3929343,5/26/2016,5/26/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS527,527,Control East,Was Tracked,Female,202,219,1850,5,No,Control Site,4/1/2011,654854,3930046,Control Site,5/24/2016,654810,3930215,5/24/2016,5/24/2016,Negative,Negative,History: Was missing from Sep-2012 through Feb-2016; Transmitter removed in May-2016 as per agency mandate
+BS529,529,Control East,Was Tracked,Male,233,239,2925,4,No,Control Site,4/2/2011,655951,3927964,Control Site,5/27/2016,655909,3928299,5/27/2016,5/27/2016,Negative,Negative,History: Tracking responsibilities transferred to USGS in May-2016
+BS530,530,Control East,Was Tracked,Male,205,238,2700,5,No,Control Site,4/1/2011,654185,3930136,Control Site,5/24/2016,653997,3929984,5/24/2016,5/24/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS531,531,Control East,Was Tracked,Female,203,205,1750,4,No,Control Site,4/1/2011,654791,3930036,Control Site,5/23/2016,654760,3929920,5/23/2016,5/23/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS532,532,Control East,Dead (BO 2011),Female,203,207,1825,,No,Control Site,4/1/2011,654206,3930110,Control Site,4/30/2014,654013,3930328,10/6/2013,10/6/2013,Negative,Negative,Deceased: see Mortality table for details
+BS533,533,Control East,Was Tracked,Female,200,211,1825,4,No,Control Site,4/2/2011,655289,3928226,Control Site,5/27/2016,655507,3928473,5/27/2016,5/27/2016,Negative,Negative,History: Tracking responsibilities transferred to USGS in May-2016
+BS534,534,Control East,Was Tracked,Male,226,227,2550,4,No,Control Site,4/2/2011,653188,3932704,Control Site,5/23/2016,652950,3933369,5/23/2016,5/23/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS535,535,Control East,Was Tracked,Male,238,245,3200,4,No,Control Site,4/2/2011,654587,3930004,Control Site,5/23/2016,655003,3930368,5/23/2016,5/23/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS536,536,Control East,Dead (BO 2011),Unknown,122,148,715,,No,Control Site,4/2/2011,655379,3928526,Control Site,7/24/2014,655144,3928295,5/22/2014,5/22/2014,Negative,Negative,Deceased: see Mortality table for details
+BS537,537,Control East,Was Tracked,Male,236,244,3000,4,No,Control Site,4/3/2011,651538,3932920,Control Site,5/22/2016,651788,3932564,5/22/2016,5/22/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS538,538,Control East,Was Tracked,Female,216,229,2400,5,No,Control Site,4/3/2011,655494,3929774,Control Site,5/27/2016,658900,3932001,5/27/2016,5/27/2016,Negative,Negative,History: Transmitter removed in May-2016 as per agency mandate
+BS539,539,Control West,Tracked,Male,240,248,2500,5,No,Control Site,10/8/2011,644046,3932071,Control Site,11/25/2016,644526,3932108,9/25/2016,9/25/2016,Negative,Negative,
+BS540,540,Control West,Tracked (Missing),Male,198,210,1880,5,Yes,Control Site,10/8/2011,643027,3931088,Control Site,4/7/2014,643397,3931572,10/2/2013,10/2/2013,Negative,Negative,Missing: Last track (7-Apr-2014); Transmitter dead
+BS541,541,Control West,Tracked,Male,249,254,3300,4,No,Control Site,10/8/2011,643913,3931193,Control Site,11/25/2016,644903,3931723,9/25/2016,9/25/2016,Negative,Negative,
+BS542,542,Control West,Tracked,Male,270,272,3150,4,Yes,Control Site,10/8/2011,644002,3930667,Control Site,11/25/2016,644023,3930282,9/27/2016,9/27/2016,Negative,Negative,
+BS543,543,Control West,Dead (BO 2011),Female,241,246,2650,,No,Control Site,10/8/2011,643903,3931190,Control Site,5/15/2016,643598,3930934,9/17/2015,9/17/2015,Negative,Negative,Deceased: see Mortality table for details
+BS544,544,Control West,Dead (BO 2011),Male,214,212,1790,,No,Control Site,10/9/2011,641993,3927504,Control Site,9/13/2012,641002,3927309,5/25/2012,5/25/2012,Negative,Negative,Deceased: see Mortality table for details
+BS545,545,Control West,Tracked,Female,197,207,1600,4,Yes,Control Site,10/8/2011,643944,3930685,Control Site,11/25/2016,643872,3930564,9/27/2016,9/27/2016,Negative,Negative,
+BS546,546,Control West,Tracked (Missing),Male,218,223,2100,4,No,Control Site,10/9/2011,642124,3927344,Control Site,8/25/2014,641244,3928001,5/25/2014,5/25/2014,Negative,Negative,Missing: Last track (25-Aug-2014); Transmitter dead
+BS548,548,Control West,Tracked,Unknown,86,131,470,5,No,Control Site,10/9/2011,643662,3931057,Control Site,11/26/2016,643681,3931009,9/27/2016,9/27/2016,Negative,Negative,
+BS549,549,Control West,Tracked,Male,217,233,2130,4,Yes,Control Site,10/9/2011,642736,3927128,Control Site,11/23/2016,643393,3926814,9/26/2016,9/26/2016,Negative,Negative,
+BS55,55,Resident,Tracked,Female,226,249,2775,3,Yes,Recipient Site,3/12/2011,640032,3939553,Recipient Site,11/30/2016,640007,3939343,9/18/2016,9/18/2016,Negative,Negative,
+BS550,550,Control West,Tracked,Male,278,278,3950,4,Yes,Control Site,10/9/2011,643632,3931316,Control Site,11/26/2016,643396,3931194,9/26/2016,9/26/2016,Negative,Negative,
+BS551,551,Control West,Tracked,Male,266,268,3300,5,No,Control Site,10/9/2011,643553,3931286,Control Site,11/26/2016,643533,3931593,9/25/2016,9/25/2016,Negative,Negative,
+BS552,552,Control West,Tracked,Male,285,284,3900,4,Yes,Control Site,10/9/2011,642761,3927323,Control Site,11/23/2016,642336,3926398,9/27/2016,9/27/2016,Suspect,Negative,
+BS553,553,Control West,Tracked,Male,256,260,3250,4,No,Control Site,10/9/2011,643642,3930264,Control Site,11/25/2016,643470,3930195,9/26/2016,9/26/2016,Negative,Negative,
+BS554,554,Control West,Tracked,Female,216,223,1860,4,Yes,Control Site,10/10/2011,642401,3927436,Control Site,11/23/2016,642419,3927150,9/27/2016,9/27/2016,Suspect,Negative,
+BS555,555,Control West,Tracked,Female,222,220,1800,4,Yes,Control Site,10/10/2011,643572,3930068,Control Site,11/25/2016,643359,3929688,9/26/2016,9/26/2016,Negative,Negative,
+BS556,556,Control West,Tracked,Female,157,227,2300,4,Yes,Control Site,10/9/2011,643751,3931442,Control Site,11/25/2016,644325,3931366,9/26/2016,9/26/2016,Negative,Negative,
+BS557,557,Control West,Tracked (Missing),Unknown,133,132,425,4,Yes,Control Site,10/11/2011,645983,3927038,Control Site,8/8/2012,645921,3926975,5/20/2012,5/20/2012,Negative,Negative,Missing: Last track (8-Aug-2012); Transmitter dead
+BS558,558,Control West,Tracked,Male,246,246,2500,4,Yes,Control Site,10/11/2011,645024,3927079,Control Site,11/23/2016,644670,3926947,9/25/2016,9/25/2016,Negative,Suspect,
+BS559,559,Control West,Tracked,Female,232,233,2550,4,Yes,Control Site,10/10/2011,643485,3931192,Control Site,11/26/2016,643555,3931289,9/26/2016,9/26/2016,Negative,Negative,
+BS56,56,Resident,Tracked,Female,236,243,2650,5,Yes,Recipient Site,3/14/2011,636302,3938049,Recipient Site,11/29/2016,636237,3938104,9/21/2016,9/21/2016,Negative,Negative,
+BS560,560,Control West,Tracked,Female,228,231,2225,4,Yes,Control Site,10/11/2011,645911,3928310,Control Site,11/23/2016,645807,3928157,9/26/2016,9/26/2016,Negative,Negative,
+BS561,561,Control West,Tracked,Male,160,204,1600,4,Yes,Control Site,10/11/2011,644089,3931454,Control Site,11/26/2016,643505,3933488,9/25/2016,9/25/2016,Negative,Negative,"History: Was initially sexed as female in health fall 2014, but resexed as male during health spring 2015. Sex assignment may not be final"
+BS562,562,Control West,Tracked,Unknown,118,174,1095,5,No,Control Site,10/11/2011,645015,3927267,Control Site,11/23/2016,644795,3927997,9/26/2016,9/26/2016,Negative,Negative,
+BS563,563,Control West,Tracked,Male,267,272,3075,4,No,Control Site,10/11/2011,645948,3928514,Control Site,11/23/2016,645898,3928524,9/25/2016,9/25/2016,Negative,Negative,
+BS564,564,Control West,Tracked,Male,265,269,3150,3,Yes,Control Site,10/11/2011,644022,3931276,Control Site,11/26/2016,643909,3931102,9/26/2016,9/26/2016,Negative,Suspect,
+BS565,565,Control West,Tracked,Male,249,254,2850,4,Yes,Control Site,10/11/2011,646134,3926687,Control Site,11/23/2016,646376,3926649,9/26/2016,9/26/2016,Negative,Suspect,
+BS566,566,Control West,Tracked,Female,211,237,2550,5,Yes,Control Site,10/11/2011,646737,3926256,Control Site,11/25/2016,646952,3926399,9/26/2016,9/26/2016,Negative,Negative,
+BS567,567,Control West,Tracked,Male,266,269,3550,4,No,Control Site,10/11/2011,644860,3931058,Control Site,11/25/2016,644964,3931385,10/7/2016,10/7/2016,Negative,Negative,
+BS568,568,Control West,Dead (BO 2011),Female,186,197,1200,,No,Control Site,10/11/2011,646727,3926481,Control Site,3/15/2016,646856,3926477,9/17/2015,9/17/2015,Negative,Negative,Deceased: see Mortality table for details
+BS569,569,Control West,Tracked,Female,235,236,2625,4,Yes,Control Site,10/11/2011,643175,3930059,Control Site,11/25/2016,642965,3930018,9/25/2016,9/25/2016,Negative,Negative,
+BS57,57,Translocatee (2012 Short),Tracked,Female,218,220,2375,4,Yes,Ivanpah 3,3/14/2011,636607,3937914,Recipient Site,11/29/2016,635953,3937474,9/21/2016,9/21/2016,Negative,Negative,
+BS570,570,Control West,Dead (BO 2011),Male,260,257,3250,,No,Control Site,10/11/2011,645106,3927386,Control Site,8/3/2015,644894,3927723,5/19/2015,5/19/2015,Negative,Negative,Deceased: see Mortality table for details
+BS571,571,Control West,Tracked,Male,256,259,2750,4,Yes,Control Site,10/11/2011,645835,3928681,Control Site,11/23/2016,645870,3928738,9/26/2016,9/26/2016,Negative,Negative,
+BS572,572,Control West,Tracked,Female,236,236,2425,4,Yes,Control Site,10/11/2011,644798,3930218,Control Site,11/25/2016,644860,3929948,9/26/2016,9/26/2016,Negative,Negative,
+BS573,573,Control West,Tracked,Male,248,255,2725,5,No,Control Site,10/11/2011,644869,3930428,Control Site,11/25/2016,644831,3930642,9/26/2016,9/26/2016,Negative,Suspect,
+BS574,574,Control West,Dead (BO 2011),Unknown,167,171,1000,,No,Control Site,10/12/2011,645252,3928781,Control Site,7/25/2013,645146,3929088,5/25/2013,5/25/2013,Negative,Negative,Deceased: see Mortality table for details
+BS575,575,Control West,Tracked,Male,260,262,2750,4,No,Control Site,10/12/2011,644600,3930388,Control Site,11/25/2016,644326,3930243,9/27/2016,9/27/2016,Negative,Negative,
+BS576,576,Control West,Tracked,Female,242,246,2850,4,Yes,Control Site,10/12/2011,644651,3931720,Control Site,11/25/2016,644574,3931671,9/25/2016,9/25/2016,Negative,Negative,
+BS577,577,Control West,Tracked (Missing),Female,220,227,2240,4,Yes,Control Site,10/12/2011,645829,3928389,Control Site,6/28/2015,642663,3931755,5/20/2015,5/20/2015,Negative,Negative,Missing: Last track (28-Jun-2015); Transmitter dead
+BS578,578,Control West,Tracked,Male,268,262,3375,5,No,Control Site,10/12/2011,645656,3927494,Control Site,11/25/2016,645460,3927521,9/27/2016,9/27/2016,Negative,Negative,
+BS579,579,Control West,Tracked,Male,217,219,2025,4,Yes,Control Site,10/12/2011,645973,3926355,Control Site,11/25/2016,646057,3926108,9/27/2016,9/27/2016,Negative,Negative,
+BS58,58,Translocatee (2012 Long),Tracked,Female,138,228,2360,4,Yes,Ivanpah 3,3/15/2011,637400,3938281,I-15 Pen,11/28/2016,641779,3931321,9/18/2016,9/18/2016,Negative,Negative,
+BS580,580,Control West,Tracked,Male,133,192,1450,4,Yes,Control Site,10/12/2011,645320,3928867,Control Site,11/25/2016,645200,3929001,9/25/2016,9/25/2016,Negative,Negative,
+BS581,581,Control West,Tracked (Missing),Unknown,100,101,180,4,No,Control Site,10/12/2011,644020,3930002,Control Site,6/6/2012,643945,3929896,5/15/2012,5/15/2012,Negative,Negative,Missing: Last track (6-Jun-2012); Transmitter found (11-Jun-2012)
+BS582,582,Control West,Tracked,Female,226,228,2150,4,Yes,Control Site,10/12/2011,644147,3930419,Control Site,11/25/2016,644236,3930192,9/27/2016,9/27/2016,Negative,Negative,
+BS583,583,Control West,Tracked,Female,215,215,1650,4,Yes,Control Site,10/12/2011,645234,3927487,Control Site,11/23/2016,645137,3927581,9/27/2016,9/27/2016,Negative,Negative,
+BS584,584,Control West,Dead (BO 2011),Unknown,133,134,450,,No,Control Site,10/13/2011,645016,3926574,Control Site,8/14/2012,644892,3926711,5/22/2012,5/22/2012,Negative,Negative,Deceased: see Mortality table for details
+BS585,585,Control West,Tracked (Missing),Unknown,80,78,95,4,No,Control Site,10/13/2011,644012,3927573,Control Site,6/21/2012,644006,3927558,5/23/2012,10/23/2011,Negative,Negative,Missing: Last track (21-Jun-2012); Transmitter dead
+BS586,586,Control West,Tracked,Male,274,276,3300,3,No,Control Site,10/13/2011,644052,3929780,Control Site,11/25/2016,644095,3929779,9/27/2016,9/27/2016,Negative,Negative,
+BS587,587,Control West,Tracked,Unknown,107,154,690,4,No,Control Site,10/13/2011,644905,3928758,Control Site,11/25/2016,644899,3928758,9/26/2016,9/26/2016,Negative,Negative,History: Was missing from Oct-2014 through Apr-2016
+BS588,588,Control West,Tracked,Male,138,200,1500,4,Yes,Control Site,10/13/2011,645718,3926419,Control Site,11/25/2016,646778,3926204,9/26/2016,9/26/2016,Negative,Suspect,"History: Was initially sexed as male in health fall 2014 through early spring 2015, but resexed as female during health spring 2015. Sex assignment may not be final"
+BS589,589,Control West,Tracked,Male,237,247,2750,4,No,Control Site,10/13/2011,644063,3928933,Control Site,11/25/2016,643633,3930012,10/7/2016,10/7/2016,Negative,Negative,
+BS590,590,Control West,Tracked,Male,272,278,3650,5,Yes,Control Site,10/13/2011,644456,3929071,Control Site,11/25/2016,644137,3929004,9/27/2016,9/27/2016,Negative,Negative,
+BS591,591,Control West,Dead (BO 2011),Female,216,223,2000,,No,Control Site,10/13/2011,644470,3929350,Control Site,9/25/2014,644756,3929428,5/25/2014,5/25/2014,Negative,Negative,Deceased: see Mortality table for details
+BS592,592,Control West,Tracked,Unknown,115,175,1080,5,No,Control Site,10/13/2011,645600,3926548,Control Site,11/23/2016,645426,3926518,9/26/2016,9/26/2016,Negative,Negative,
+BS593,593,Control West,Tracked,Female,218,219,1900,4,Yes,Control Site,10/13/2011,644822,3929687,Control Site,11/25/2016,645417,3929105,9/27/2016,9/27/2016,Negative,Negative,
+BS594,594,Control West,Tracked,Male,182,199,1525,5,Yes,Control Site,10/13/2011,644814,3927711,Control Site,11/23/2016,644966,3927685,9/25/2016,9/25/2016,Negative,Negative,
+BS595,595,Control West,Tracked,Female,216,219,2250,4,Yes,Control Site,10/13/2011,645479,3927434,Control Site,11/25/2016,645317,3927253,9/27/2016,9/27/2016,Negative,Negative,
+BS596,596,Control West,Tracked,Female,235,233,2325,4,Yes,Control Site,10/14/2011,644478,3928894,Control Site,11/25/2016,644556,3928892,9/27/2016,9/27/2016,Negative,Negative,
+BS597,597,Control West,Tracked,Male,268,272,3250,5,Yes,Control Site,10/13/2011,644434,3928675,Control Site,11/24/2016,643737,3928541,9/27/2016,9/27/2016,Negative,Negative,
+BS598,598,Control West,Tracked,Female,234,235,2050,4,Yes,Control Site,10/14/2011,644690,3927122,Control Site,11/23/2016,644848,3927118,9/25/2016,9/25/2016,Negative,Negative,
+BS599,599,Control West,Tracked,Female,215,222,1820,4,No,Control Site,10/13/2011,644737,3928893,Control Site,11/25/2016,644863,3928995,9/27/2016,9/27/2016,Negative,Negative,
+BS60,60,Resident,Dead (BO 2011),Female,173,182,1410,,No,Recipient Site,3/15/2011,640728,3932365,Recipient Site,4/23/2013,639049,3931901,9/27/2012,9/27/2012,Negative,Negative,Deceased: see Mortality table for details
+BS600,600,Control West,Tracked,Male,254,259,3350,4,Yes,Control Site,10/13/2011,645224,3926746,Control Site,11/25/2016,645459,3926901,9/26/2016,9/26/2016,Negative,Negative,
+BS601,601,Control West,Dead (BO 2011),Unknown,90,91,170,,No,Control Site,10/14/2011,644244,3927231,Control Site,5/23/2012,644181,3927155,10/21/2011,10/21/2011,Negative,Negative,Deceased: see Mortality table for details
+BS602,602,Control West,Tracked,Male,207,217,1700,5,No,Control Site,10/14/2011,643053,3928664,Control Site,11/24/2016,643048,3928699,9/27/2016,9/27/2016,Negative,Negative,
+BS603,603,Control West,Dead (BO 2011),Unknown,109,108,285,,No,Control Site,10/14/2011,644586,3928561,Control Site,5/25/2012,644597,3928543,10/19/2011,10/19/2011,Negative,Negative,Deceased: see Mortality table for details
+BS604,604,Control West,Tracked,Female,189,194,1640,5,No,Control Site,10/14/2011,643439,3928905,Control Site,11/24/2016,643523,3928896,9/27/2016,9/27/2016,Negative,Negative,
+BS605,605,Control West,Tracked,Female,219,232,2360,4,Yes,Control Site,10/14/2011,643455,3928358,Control Site,11/24/2016,643455,3928361,9/27/2016,9/27/2016,Negative,Negative,
+BS606,606,Control West,Tracked,Male,198,222,2150,4,No,Control Site,10/14/2011,643978,3929642,Control Site,11/25/2016,645667,3927561,9/25/2016,9/25/2016,Negative,Negative,
+BS607,607,Control West,Tracked,Unknown,88,148,617,5,No,Control Site,10/14/2011,643418,3928735,Control Site,11/25/2016,645481,3930469,9/25/2016,9/25/2016,Negative,Negative,
+BS608,608,Control West,Tracked,Male,243,250,2825,4,No,Control Site,10/14/2011,644323,3927256,Control Site,11/23/2016,644588,3927563,9/25/2016,9/25/2016,Negative,Negative,
+BS609,609,Control West,Tracked,Male,241,252,2750,4,No,Control Site,10/14/2011,643971,3929574,Control Site,11/25/2016,644048,3929794,10/7/2016,10/7/2016,Negative,Negative,
+BS61,61,Translocatee (2012 Short),Tracked,Female,217,220,2100,4,Yes,Ivanpah 2,3/15/2011,638198,3935411,Recipient Site,12/1/2016,637121,3935371,9/18/2016,9/18/2016,Negative,Negative,
+BS610,610,Control West,Tracked,Female,152,207,1660,5,Yes,Control Site,10/14/2011,643288,3929011,Control Site,11/24/2016,643026,3928716,9/26/2016,9/26/2016,Negative,Negative,
+BS611,611,Control West,Tracked,Unknown,104,145,655,4,No,Control Site,10/15/2011,643949,3929601,Control Site,11/25/2016,644737,3930343,9/26/2016,9/26/2016,Negative,Suspect,
+BS612,612,Control West,Tracked,Unknown,81,125,355,4,No,Control Site,10/15/2011,644479,3926895,Control Site,11/23/2016,644441,3926918,9/25/2016,9/25/2016,Negative,Negative,
+BS613,613,Control West,Tracked,Female,224,223,2020,4,No,Control Site,10/15/2011,643106,3927450,Control Site,11/23/2016,642934,3927308,9/27/2016,9/27/2016,Negative,Suspect,
+BS614,614,Control West,Tracked,Male,271,271,3500,3,Yes,Control Site,10/15/2011,644853,3926323,Control Site,11/23/2016,644988,3926002,9/27/2016,9/27/2016,Negative,Negative,
+BS615,615,Control West,Tracked,Male,284,279,3500,4,Yes,Control Site,10/15/2011,643497,3927247,Control Site,11/23/2016,643126,3927083,9/27/2016,9/27/2016,Negative,Suspect,
+BS616,616,Control West,Tracked,Female,240,250,2800,4,Yes,Control Site,10/15/2011,643079,3927115,Control Site,11/23/2016,643018,3927055,9/27/2016,9/27/2016,Negative,Negative,
+BS617,617,Control West,Tracked,Male,179,221,2025,6,Yes,Control Site,10/15/2011,645288,3926155,Control Site,11/25/2016,646441,3926162,9/26/2016,9/26/2016,Negative,Negative,
+BS618,618,Control West,Tracked,Male,274,274,3325,4,Yes,Control Site,10/15/2011,644851,3926113,Control Site,11/23/2016,644251,3925654,9/27/2016,9/27/2016,Negative,Negative,
+BS619,619,Control West,Tracked,Female,221,220,1980,4,Yes,Control Site,10/9/2011,643722,3931474,Control Site,11/26/2016,643673,3931400,9/25/2016,9/25/2016,Negative,Negative,
+BS62,62,Translocatee (2011 Short),Tracked,Male,200,239,2250,4,No,Ivanpah 3,3/15/2011,637330,3938440,Recipient Site,11/29/2016,635472,3939352,9/30/2016,9/30/2016,Negative,Negative,Transmitter: Bad signal interference (reported 10-May-2016)
+BS620,620,Control West,Tracked,Female,187,208,1600,4,Yes,Control Site,10/15/2011,643148,3927237,Control Site,11/23/2016,643081,3927119,9/26/2016,9/26/2016,Negative,Negative,
+BS621,621,Control West,Tracked,Female,199,197,1575,4,Yes,Control Site,10/15/2011,643928,3927717,Control Site,11/23/2016,643856,3927868,9/25/2016,9/25/2016,Negative,Negative,
+BS622,622,Control West,Tracked (Missing),Unknown,76,96,175,5,No,Control Site,10/15/2011,644570,3926564,Control Site,3/17/2014,643970,3926466,10/2/2013,10/2/2013,Negative,Negative,Missing: Last track (17-Mar-2014); Transmitter dead
+BS623,623,Control West,Tracked,Female,223,226,2100,4,Yes,Control Site,10/15/2011,644502,3926400,Control Site,11/23/2016,644418,3926501,9/26/2016,9/26/2016,Negative,Negative,
+BS624,624,Control West,Tracked,Unknown,99,158,745,4,No,Control Site,10/15/2011,644553,3926685,Control Site,11/23/2016,646281,3926640,9/26/2016,9/26/2016,Negative,Negative,
+BS625,625,Control West,Tracked,Male,272,272,3375,4,Yes,Control Site,10/15/2011,643431,3929401,Control Site,11/24/2016,643453,3928885,9/26/2016,9/26/2016,Negative,Negative,
+BS626,626,Control West,Tracked (Missing),Unknown,173,173,880,4,Yes,Control Site,10/16/2011,645045,3929188,Control Site,8/20/2012,645125,3929162,5/25/2012,5/25/2012,Negative,Suspect,Missing: Last track (20-Aug-2012); Transmitter dead
+BS627,627,Control West,Tracked (Missing),Unknown,61,70,70,4,No,Control Site,10/16/2011,643277,3929219,Control Site,9/12/2013,643254,3929245,5/24/2013,,,,Missing: Last track (12-Sep-2013); Transmitter dead
+BS628,628,Control West,Tracked,Male,226,235,2500,4,Yes,Control Site,10/16/2011,645004,3929767,Control Site,11/25/2016,645028,3930041,9/26/2016,9/26/2016,Negative,Negative,
+BS629,629,Control West,Tracked,Female,150,197,1430,5,Yes,Control Site,10/16/2011,642891,3928766,Control Site,11/23/2016,644311,3927758,9/27/2016,9/27/2016,Negative,Negative,
+BS630,630,Control West,Tracked,Female,143,214,1730,5,Yes,Control Site,10/16/2011,642938,3928426,Control Site,11/24/2016,642939,3928427,9/27/2016,9/27/2016,Negative,Negative,"History: Was initially sexed as male in health fall 2013 through fall health 2014, but resexed as female during health spring 2015. Reaffirmed as female (9-Aug-2015)"
+BS631,631,Control West,Tracked,Female,222,226,2020,4,Yes,Control Site,10/16/2011,642086,3928523,Control Site,11/24/2016,642115,3928640,9/25/2016,9/25/2016,Negative,Negative,
+BS632,632,Control West,Tracked (Missing),Unknown,93,129,340,5,No,Control Site,10/16/2011,642212,3928407,Control Site,9/23/2014,642200,3928388,5/23/2014,5/23/2014,Negative,Negative,Missing: Last track (23-Sep-2014); Transmitter found (29-Sep-2014)
+BS633,633,Control West,Dead (BO 2011),Unknown,67,115,310,,No,Control Site,10/16/2011,642222,3928483,Control Site,5/31/2015,642215,3928486,5/25/2015,5/25/2015,Negative,Negative,Deceased: see Mortality table for details
+BS634,634,Control West,Tracked,Male,130,192,1460,4,Yes,Control Site,10/16/2011,642489,3928124,Control Site,11/23/2016,643600,3927434,9/26/2016,9/26/2016,Negative,Negative,
+BS635,635,Control West,Tracked,Female,159,210,1825,5,Yes,Control Site,10/16/2011,644605,3926743,Control Site,11/23/2016,644732,3926895,10/7/2016,10/7/2016,Negative,Negative,
+BS636,636,Control West,Tracked,Female,271,275,3875,5,Yes,Control Site,10/16/2011,645718,3929377,Control Site,11/25/2016,645878,3929496,9/27/2016,9/27/2016,Negative,Negative,
+BS638,638,Control West,Tracked,Male,260,262,3100,4,Yes,Control Site,10/16/2011,645347,3929061,Control Site,11/25/2016,645737,3929496,9/25/2016,9/25/2016,Negative,Negative,
+BS639,639,Control West,Tracked,Male,210,234,2500,4,Yes,Control Site,10/16/2011,645537,3929401,Control Site,11/23/2016,644340,3927786,9/27/2016,9/27/2016,Negative,Negative,
+BS64,64,Translocatee (2012 Short),Tracked,Female,199,213,2116,5,Yes,Ivanpah 3,3/16/2011,636766,3939132,Recipient Site,11/29/2016,636260,3938863,9/19/2016,9/19/2016,Negative,Negative,
+BS640,640,Control West,Tracked,Unknown,76,110,282,5,No,Control Site,10/17/2011,642214,3928881,Control Site,11/24/2016,642395,3928833,9/25/2016,9/25/2016,Negative,Negative,
+BS641,641,Control West,Tracked,Male,232,238,2330,4,Yes,Control Site,10/16/2011,642287,3928061,Control Site,11/24/2016,642317,3928262,9/26/2016,9/26/2016,Negative,Negative,
+BS642,642,Control West,Dead (BO 2011),Female,200,200,1650,,No,Control Site,10/17/2011,644256,3926570,Control Site,7/4/2016,644275,3926679,5/24/2016,5/24/2016,Negative,Negative,Deceased: see Mortality table for details
+BS643,643,Control West,Tracked,Male,221,229,2100,5,Yes,Control Site,10/17/2011,646714,3927757,Control Site,11/23/2016,646396,3927958,9/26/2016,9/26/2016,Negative,Negative,
+BS644,644,Control West,Tracked,Male,265,267,3000,4,Yes,Control Site,10/17/2011,646094,3929894,Control Site,11/25/2016,645730,3930057,9/25/2016,9/25/2016,Negative,Negative,
+BS645,645,Control West,Tracked,Male,269,272,3750,5,No,Control Site,10/17/2011,646822,3927578,Control Site,11/23/2016,646876,3927627,9/25/2016,9/25/2016,Negative,Negative,
+BS646,646,Control West,Tracked,Female,227,230,2040,4,Yes,Control Site,10/17/2011,641924,3927575,Control Site,11/23/2016,641733,3927641,9/26/2016,9/26/2016,Negative,Negative,
+BS647,647,Control West,Tracked,Unknown,93,129,440,5,No,Control Site,10/17/2011,646076,3928258,Control Site,11/23/2016,646120,3928281,9/25/2016,9/25/2016,Negative,Negative,
+BS648,648,Control West,Tracked,Male,261,262,3250,4,Yes,Control Site,10/17/2011,642865,3929341,Control Site,11/24/2016,642493,3929042,9/25/2016,9/25/2016,Negative,Negative,
+BS649,649,Control West,Tracked,Female,246,251,2725,4,No,Control Site,10/17/2011,646114,3928276,Control Site,11/23/2016,646660,3928455,9/25/2016,9/25/2016,Negative,Negative,
+BS65,65,Translocatee (2012 Short),Tracked,Female,210,210,1800,4,Yes,Ivanpah 3,3/16/2011,636478,3936703,Recipient Site,12/1/2016,636826,3936630,9/22/2016,9/22/2016,Negative,Negative,
+BS650,650,Control West,Tracked,Male,264,273,3760,4,No,Control Site,10/17/2011,645800,3930214,Control Site,11/25/2016,645638,3930081,9/25/2016,9/25/2016,Negative,Negative,
+BS651,651,Control West,Tracked,Male,247,255,3000,4,Yes,Control Site,10/17/2011,642827,3929384,Control Site,11/23/2016,641662,3927444,9/27/2016,9/27/2016,Negative,Negative,
+BS652,652,Control West,Dead (BO 2011),Male,234,237,2600,,No,Control Site,10/17/2011,646398,3927639,Control Site,5/5/2014,646854,3927838,10/4/2013,10/4/2013,Negative,Negative,Deceased: see Mortality table for details
+BS653,653,Control West,Dead (BO 2011),Male,196,216,2050,,No,Control Site,10/17/2011,646142,3929065,Control Site,7/7/2015,646474,3928674,5/18/2015,5/18/2015,Negative,Negative,Deceased: see Mortality table for details
+BS654,654,Control West,Tracked,Female,152,202,1720,4,Yes,Control Site,10/15/2011,645438,3926087,Control Site,11/23/2016,645203,3926516,9/26/2016,9/26/2016,Negative,Negative,
+BS655,655,Control West,Dead (BO 2011),Unknown,88,94,120,,No,Control Site,10/18/2011,642614,3929579,Control Site,9/5/2012,642615,3929604,6/1/2012,6/1/2012,Negative,Negative,Deceased: see Mortality table for details
+BS66,66,Translocatee (2012 Short),Tracked,Female,190,232,2550,5,Yes,Ivanpah 3,3/16/2011,638662,3937975,Recipient Site,11/30/2016,637675,3939376,9/21/2016,9/21/2016,Negative,Negative,
+BS68,68,Translocatee (2012 Short),Tracked,Male,265,262,3550,4,Yes,Ivanpah 2,3/16/2011,638080,3935518,Recipient Site,12/1/2016,637121,3935371,9/18/2016,9/18/2016,Negative,Negative,
+BS69,69,Translocatee (2011 Short),Tracked,Male,251,269,3350,4,No,Ivanpah 3,3/16/2011,638855,3937527,Recipient Site,11/30/2016,639260,3937358,9/21/2016,9/21/2016,Negative,Negative,
+BS70,70,Resident,Tracked,Female,131,185,1260,4,Yes,Recipient Site,3/17/2011,638264,3939094,Recipient Site,11/30/2016,640676,3937765,9/18/2016,9/18/2016,Negative,Suspect,
+BS71,71,Translocatee (2011 Short),Tracked,Female,216,225,2460,4,No,Ivanpah 3,3/17/2011,636972,3939010,Recipient Site,11/29/2016,635747,3939142,9/23/2016,9/23/2016,Negative,Negative,
+BS74,74,Resident,Tracked,Male,176,242,2575,5,Yes,Recipient Site,3/21/2011,640759,3932652,Recipient Site,11/28/2016,640168,3932222,9/18/2016,9/18/2016,Negative,Negative,
+BS75,75,Resident,Tracked (Missing),Unknown,83,116,310,5,No,Recipient Site,3/22/2011,636209,3936707,Recipient Site,7/20/2014,636196,3936669,5/18/2014,5/18/2014,Negative,Negative,Missing: Last track (20-Jul-2014); Transmitter dead
+BS76,76,Resident,Tracked,Female,226,225,2250,4,No,Recipient Site,3/23/2011,637106,3936621,Recipient Site,12/1/2016,636892,3936594,9/20/2016,9/20/2016,Negative,Negative,
+BS77,77,Translocatee (2012 Short),Tracked,Female,228,227,2350,4,Yes,Ivanpah 2,3/23/2011,639040,3935126,Recipient Site,12/1/2016,637039,3936181,9/22/2016,9/22/2016,Negative,Negative,
+BS78,78,Resident,Tracked,Male,248,264,2950,5,No,Recipient Site,3/28/2011,638846,3937579,Recipient Site,11/30/2016,639068,3937873,9/21/2016,9/21/2016,Negative,Negative,
+BS79,79,Translocatee (2012 Short),Tracked,Female,243,244,2550,4,Yes,Ivanpah 2,3/28/2011,638814,3936975,Recipient Site,11/30/2016,639472,3937022,9/19/2016,9/19/2016,Negative,Negative,
+BS80,80,Translocatee (2011 Short),Tracked,Male,255,266,3250,4,No,Ivanpah 3,3/28/2011,637365,3938905,Recipient Site,11/29/2016,637387,3938915,9/23/2016,9/23/2016,Negative,Negative,"Health: Vet visit for fecal impaction (Apr-2014), moved back into the field (Oct-2014)"
+BS81,81,Translocatee (2012 Short),Dead (BO 2011),Male,254,257,2600,,No,Ivanpah 3,3/28/2011,636373,3936974,Recipient Site,9/13/2012,636247,3936924,5/14/2012,5/14/2012,Negative,Suspect,Deceased: see Mortality table for details
+BS84,84,Resident,Tracked,Male,237,248,2950,5,Yes,Recipient Site,3/30/2011,637020,3939138,Recipient Site,11/30/2016,637675,3939376,9/23/2016,9/23/2016,Negative,Negative,
+BS85,85,Translocatee (2012 Short),Dead (BO 2011),Unknown,136,153,690,,No,Ivanpah 3,3/30/2011,636681,3939089,Recipient Site,9/16/2012,633714,3936381,5/29/2012,5/29/2012,Negative,Negative,Deceased: see Mortality table for details
+BS86,86,Translocatee (2011 Short),Tracked,Male,251,261,3120,4,Yes,Ivanpah 3,3/30/2011,636762,3938199,Recipient Site,11/29/2016,636412,3937992,9/30/2016,9/30/2016,Negative,Negative,History: Exact translocation data unknown from May-2011
+BS88,88,Translocatee (2012 Short),Tracked,Male,272,266,3500,4,Yes,Ivanpah 2,3/30/2011,638316,3935688,Recipient Site,12/1/2016,636036,3935579,10/4/2016,10/4/2016,Negative,Negative,
+BS89,89,Resident,Tracked,Male,250,270,3800,3,Yes,Recipient Site,3/30/2011,640109,3939522,Recipient Site,11/30/2016,639473,3939481,9/18/2016,9/18/2016,Negative,Negative,
+BS90,90,Translocatee (2012 Short),Tracked,Male,270,273,3650,4,Yes,Ivanpah 3,3/30/2011,637853,3938893,Recipient Site,11/30/2016,639394,3938622,9/19/2016,9/19/2016,Negative,Negative,"Health: Vet care at DTCC for most of April 2011. Returned to field April 26, 2011."
+BS91,91,Translocatee (2012 Short),Tracked,Female,235,235,2950,4,Yes,Ivanpah 3,3/30/2011,636693,3939150,Recipient Site,11/29/2016,634913,3939355,9/19/2016,9/19/2016,Negative,Negative,
+BS92,92,Translocatee (2012 Short),Tracked,Male,269,270,3850,4,Yes,Ivanpah 2,3/31/2011,638905,3936512,Recipient Site,11/30/2016,639472,3937022,9/20/2016,9/20/2016,Negative,Negative,
+BS93,93,Resident,Tracked,Male,292,290,4675,4,Yes,Recipient Site,3/31/2011,636575,3937958,Recipient Site,11/29/2016,636403,3937937,9/30/2016,9/30/2016,Negative,Negative,
+BS94,94,Translocatee (2012 Long),Tracked,Male,211,243,2825,5,Yes,Ivanpah 3,3/31/2011,638294,3937694,I-15 Pen,11/28/2016,641118,3931228,9/19/2016,9/19/2016,Negative,Negative,
+BS95,95,Translocatee (2012 Short),Tracked,Female,245,247,2900,4,Yes,Ivanpah 3,3/31/2011,638367,3938573,Recipient Site,11/29/2016,635676,3939607,9/22/2016,9/22/2016,Negative,Negative,
+BS96,96,Resident,Tracked,Female,213,226,2125,5,Yes,Recipient Site,4/1/2011,641303,3928914,Recipient Site,11/28/2016,641327,3929268,9/21/2016,9/21/2016,Negative,Negative,
+BS97,97,Translocatee (2012 Short),Tracked,Male,203,230,2300,4,Yes,Ivanpah 3,3/31/2011,638320,3938582,Recipient Site,11/30/2016,639080,3939355,9/18/2016,9/18/2016,Negative,Negative,
+BS99,99,Resident,Tracked,Male,157,220,2000,5,Yes,Recipient Site,4/2/2011,637422,3938891,Recipient Site,11/29/2016,639383,3941010,9/21/2016,9/21/2016,Negative,Negative,
