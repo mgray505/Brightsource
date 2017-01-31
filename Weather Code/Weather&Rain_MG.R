@@ -12,11 +12,18 @@ library(tidyr)
 
 #all excel files saved as csv and then deleted
 
-baseDir = "./Weather Datasets"  ## Specify the path
+baseDir = "E:/Projects/BrightSource_Ivanpah/code/GitHub/Brightsource-master/Weather Datasets"  ## Specify the path
 mynames=c("File","Date","Time","TempOut","HiTemp","LowTemp","OutHum","DewPt","WindSpeed","WindDir","WindRun","HiSpeed",
           "HiDir","WindChill","HeatIndx", "THWIndx","THSWIndx","Bar","Rain","RainRate","SolarRad","SolarEngy","HiSolarRad",
           "UVIndex","UVDose","HiUV","HeatDD","CoolDD","InTemp","InHum","InDew","InHeat","InEMC","InAirDensity","ET",
           "WindSamp","WindTx","ISSRecept","ArcInt")
+
+### Block of code to bring in new data and rbind to old data (1-12-2016)
+ws5 <- adply(list.files('C:/Users/meg/Downloads/Station 2',full.names=T),1,read.delim,skip=1,na.strings='---')
+names(ws5)<-mynames
+ws5$Date<-as.POSIXct(ws5$Date,format="%m/%d/%y")
+ws5<- ws5%>%dplyr::select(-File)%>%dplyr::mutate(File=5)%>%filter(Date>'2016-01-12')
+
 
 ws1Files <- file.path(baseDir,'st 1 veg 10 all 1-12-2016.csv')
 ws2Files <- file.path(baseDir,'st 2 veg 115 all 1-12-2016.csv')
@@ -36,13 +43,13 @@ names(ws)=mynames
 ws$Date=as.Date(ws$Date, format="%m/%d/%Y")
 ws<-ws %>% 
   arrange(Date) %>% 
-  filter(Date>'2013-05-28')
+  filter(Date>'2013-05-28')%>%rbind(ws1,ws2,ws3,ws4,ws5)
 ws$Station[ws$File==1]<-10
 ws$Station[ws$File==2]<-115
 ws$Station[ws$File==3]<-4
 ws$Station[ws$File==4]<-101
 ws$Station[ws$File==5]<-107
-write.csv(ws,'weatherStations1thru5.csv')
+write.csv(ws,file.path(baseDir,'weatherStations1thru5.csv'))
 
 ##Testing 
 ws6$Date<- as.Date(ws6$Date, format="%m/%d/%Y")
@@ -69,7 +76,7 @@ ws<-rbind(summer,winter)
 ##Summarise by day for each station
 
 DailyBySt <- ws %>% 
-  group_by(File,Date,season,year) %>% 
+  group_by(File,season,year,Date) %>% 
   summarise(DailyMaxTemp = max(na.omit(TempOut)),
             DailyMinTemp = min(na.omit(TempOut)),
             DailyRain = sum(Rain))
